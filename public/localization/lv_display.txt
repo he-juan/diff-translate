@@ -1,0 +1,2163 @@
+﻿{lv},
+{Latviešu Valoda},
+INDEX  MAX LENGTH  STRING
+{0,23, "Inicializē..."},
+{1,23, "HTTP "},
+{2,23, "TFTP "},
+{3,23, "Nodrošina ..."},
+{4,23, " Raksta"},
+{5,23, "Lejupielādē "},
+{6,23, "NEIZSLĒGT!"},
+{7,18, "Neatbildēti zvani"},
+{8,18, "Neatbildēts zvans"},
+{9,22, "Nospiest taustiņu ^ lai skatītu"},
+{10,22, "Sinhronizē tālruņa katalogu XML..."},
+{11,22, "Uzgaidiet"},
+{12,23, "Gatavojas atsāknēšanai..."},
+{13,18, "Zvanu vēsture"},
+{14,18, "Statuss"},
+{15,18, "Ziņapmaiņa"},
+{16,18, "Tiešs IP zvans"},
+{17,18, "Iestatījumi"},
+{18,18, "Konfigurācija"},
+{19,18, "Izstrādātāja opcijas"},
+{20,18, "Restartēt"},
+{21,18, "Iziet"},
+{22,18, "Izvēlne"},
+{23,18, "Tīkls"},
+{24,18, "SIP"},
+{25,18, "Audio"},
+{26,18, "Atjauninājums"},
+{27,18, "Atjaunot rūpnīcas iestatījumus"},
+{28,18, "Atpakaļ"},
+{29,18, "OK"},
+{30,18, "Atcelt"},
+{31,18, "DHCP"},
+{32,18, "IP"},
+{33,7, "Netmask"},
+{34,7, "Gateway"},
+{35,18, "Ievadiet MAC Adresi"},
+{36,18, "Netraucēt"},
+{37,18, "Zvana tonis"},
+{38,18, "Zvana skaļums"},
+{39,18, "Izstrādātāja funkcijas"},
+{40,18, "Tīkla cilpa"},
+{41,18, "Audio cilpa"},
+{42,22, "Tastatūras/LED tests"},
+{43,18, "Taustiņš nospiests:"},
+{44,22, "Ievadiet MAC Adresi"},
+{45,18, "Kontaktu grāmata"},
+{46,18, "Saņemtie zvani"},
+{47,18, "Veiktie zvani"},
+{48,18, "Neatbildētie zvani"},
+{49,18, "Lejupielādē SCR XML"},
+{50,18, "Dzēst lietotāja SCR"},
+{51,18, "Iespējot DND"},
+{52,18, "Atspējot DND"},
+{53,18, "Noklusētais zvana tonis"},
+{54,18, "Zvana tonis 1"},
+{55,18, "Zvana tonis 2"},
+{56,18, "Zvana tonis 3"},
+{57,18, "Tīkla cilpa"},
+{58,18, "Audio cilpa"},
+{59,18, "Diagnosticēšana"},
+{60,18, "Atspējot Diag Port"},
+{61,18, "Iespējot Diag Port"},
+{62,18, "Rediģēt MAC Address"},
+{63,18, "pārbauda ..."},
+{64,18, "Lai atgrieztos nospiest OK"},
+{65,18, "Uz augšu"},
+{66,18, "Uz leju"},
+{67,18, "CALLERS/Left"},
+{68,18, "Pa kreisi"},
+{69,18, "CALLED/Right"},
+{70,18, "Pa labi"},
+{71,18, "KLUSUMS/DZĒST"},
+{72,18, "FLASH"},
+{73,18, "LĪNIJA1"},
+{74,18, "LĪNIJA2"},
+{75,18, "LĪNIJA3"},
+{76,18, "LĪNIJA4"},
+{77,18, "ZIŅOJUMS"},
+{78,18, "PĀRSŪTĪT"},
+{79,18, "KONFERENCE"},
+{80,18, "TURĒT"},
+{81,18, "SKAĻRUNIS"},
+{82,18, "SŪTĪT"},
+{83,18, "ĀTRAIS ZVANS 1"},
+{84,18, "ĀTRAIS ZVANS 2"},
+{85,18, "ĀTRAIS ZVANS 3"},
+{86,18, "ĀTRAIS ZVANS 4"},
+{87,18, "ĀTRAIS ZVANS 5"},
+{88,18, "ĀTRAIS ZVANS 6"},
+{89,18, "ĀTRAIS ZVANS 7"},
+{90,18, "IP:"},
+{91,18, "Konts "},
+{92,18, "JĀ"},
+{93,18, "NĒ"},
+{94,18, "N/A"},
+{95,18, "Ielādējas"},
+{96,18, "Programma"},
+{97,18, "MAC: "},
+{98,18, "Jauns ieraksts"},
+{99,22, "Lejupielādē kontaktu grāmatu XML"},
+{100,18, "Zvanīt"},
+{101,18, "Dzēst"},
+{102,18, "Rediģēt vārdu"},
+{103,18, "Rediģēt numuru"},
+{104,18, "Vārds"},
+{105,18, "Numurs:"},
+{106,18, "Acct:"},
+{107,18, "Apstiprināt"},
+{108,18, "Atcelt un atgriezties"},
+{109,18, "Kontaktu grāmatas ieraksts"},
+{110,22, "Pievienot kontaktu grāmatai"},
+{111,18, "Izvēlēties Konts"},
+{112,18, "Izvēlēties PCMU"},
+{113,18, "Izvēlēties PCMA"},
+{114,18, "Izvēlēties G.723.1"},
+{115,18, "Izvēlēties G.729(A/B)"},
+{116,18, "Izvēlēties GSM"},
+{117,18, "Atcelt"},
+{118,18, "Programmaparatūras serveris"},
+{119,18, "Konfigurēt serveri"},
+{120,18, "Saglabāt un izmantot TFTP"},
+{121,18, "Saglabāt un izmantot HTTP"},
+{122,18, "SIP Proxy"},
+{123,18, "Izejošais Proxy"},
+{124,18, "SIP lietotāja ID"},
+{125,18, "SIP autentificēšanas ID"},
+{126,18, "SIP Parole"},
+{127,18, "Saglabāt"},
+{128,18, "Sv"},
+{129,18, "P"},
+{130,18, "O"},
+{131,18, "T"},
+{132,18, "C"},
+{133,18, "Pk"},
+{134,18, "S"},
+{135,18, "jan"},
+{136,18, "feb"},
+{137,18, "mar"},
+{138,18, "apr"},
+{139,18, "mai"},
+{140,18, "jūn"},
+{141,18, "jūl"},
+{142,18, "aug"},
+{143,18, "sep"},
+{144,18, "okt"},
+{145,18, "nov"},
+{146,18, "dec"},
+{147,255, "Konfigurācija"},
+{148,255, "Pašlaik iekārta tiek lietota..."},
+{149,255, "Kad iekārta netiek lietota, zimantojiet šo saiti."},
+{150,255, "Noklikšķiniet, lai pieslēgtos vēlāk"},
+{151,255, "STATUSS"},
+{152,255, "PAMATIESTATĪJUMI"},
+{153,255, "PAPILDIESTATĪJUMI"},
+{154,255, "Konts 1"},
+{155,255, "EXT taustiņš"},
+{156,255, "MAC Adrese"},
+{157,255, "Modelis"},
+{158,255, "EXT 1"},
+{159,255, "Programmatūras versija"},
+{160,255, "Lietotāja parole"},
+{161,255, "IP Adrese"},
+{162,255, "izmantot DHCP (pēc noklusējuma) vai PPPoE"},
+{163,255, "Mēģināt PPPoE ja DHCP nedarbojas"},
+{164,255, "PPPoE Konts ID"},
+{165,255, "PPPoE parole"},
+{166,255, "Iekārtas nosaukums"},
+{167,255, "(Opcija 12)"},
+{168,255, "Domēna vārds"},
+{169,255, "Vendor Class ID"},
+{170,255, "(Option 60)"},
+{171,255, "Preferred DNS server"},
+{172,255, "statically configured as:"},
+{173,255, "Subnet Mask"},
+{174,255, "Default Router:"},
+{175,255, "DNS Server 1"},
+{176,255, "DNS Server 2"},
+{177,255, "Daudzfunkcionālais taustiņš 1"},
+{178,255, "Taustiņu režīms"},
+{179,255, "Ātrais zvans"},
+{180,255, "Busy Lamp Field (BLF)"},
+{181,255, "Klātbūtnes noteicējs"},
+{182,255, "Konts"},
+{183,255, "Konts 1"},
+{184,255, "Program--"},
+{185,255, "Sistēmas palaidējs--"},
+{186,255, "Sistēmas darbības laiks"},
+{187,255, "Reģistrēts"},
+{188,255, "All Rights Reserved"},
+{189,255, "UserID"},
+{190,255, "Taustiņu režīms:"},
+{191,255, "PPPoE savienojums izveidots"},
+{192,255, "Parole"},
+{193,255, "\"Lietotājvārds\""},
+{194,255, "Lietotājvārds nav atrasts. Lūdzu mēģiniet vēlreiz."},
+{195,255, "Atsāknējas..."},
+{196,255, "Nospiest uz saites lai ielogotos 60 sec laikā."},
+{197,255, "Nospiest lai atkārtoti pieteiktos"},
+{198,255, "Izmaiņas saglabātas."},
+{199,255, "Time Zone"},
+{200,255, "International Date Line West"},
+{201,255, "Midway Island, Samoa"},
+{202,255, "US Hawaiian Time"},
+{203,255, "US Alaska Time"},
+{204,255, "US Pacific Time, Los Angeles"},
+{205,255, "US Mountain Time, Denver"},
+{206,255, "US Central Time, Chicago"},
+{207,255, "US Eastern Time, New York"},
+{208,255, "Atlantic Time, Quebec"},
+{209,255, "Newfoundland"},
+{210,255, "Greenland"},
+{211,255, "Mid-Atlantic"},
+{212,255, "Azores, Cape Verdi Is."},
+{213,255, "London, Dublin, Edinburgh, Lisbon, Casablanca, Monrovia"},
+{214,255, "Paris, Amsterdam, Berlin, Rome, Vienna, Madrid, Warsaw, Brussels"},
+{215,255, "Israel, Cairo, Athens, Helsinki, Istanbul, Buchrest"},
+{216,255, "Moscow, Kuwait, Baghdad, Tehran, Nairobi"},
+{217,255, "Abu Dhabi, Baku"},
+{218,255, "Islamabad, Ekaterinburg, Karachi, Tashkent"},
+{219,255, "Chennai, New Delhi, Mumbai"},
+{220,255, "Kathmandu"},
+{221,255, "Almaty, Astana, Dhaka, Novosibirsk"},
+{222,255, "Rangoon"},
+{223,255, "Bankok, Jakarta, Hanoi, Krasnoyarsk"},
+{224,255, "Beijing, Singapore, Taipei, Kuala Lumpur, Irkutsk, Perth"},
+{225,255, "Japan, Korea, Yakutsk"},
+{226,255, "Adelaide, Darwin"},
+{227,255, "Brisbane, Sydney, Melbourne, Canberra, Guam, Hobart"},
+{228,255, "Magadan, Solomon Is., New Caledonia"},
+{229,255, "Auckland, Wellington, Fiji"},
+{230,255, "Nuku'alofa"},
+{231,255, "Allow DHCP Option 2 to override Time Zone setting"},
+{232,255, "Nē"},
+{233,255, "Jā"},
+{234,255, "Vasaras / ziemas laiks:"},
+{235,255, "Izvēles noteikumi:"},
+{236,255, "LCD apgaismojums vienmēr ieslēgts:"},
+{237,255, "Laika formāts"},
+{238,255, "12 STUNDAS"},
+{239,255, "24 STUNDAS"},
+{240,255, "Datuma formāts"},
+{241,255, "Gads-Mēnesis-Diena"},
+{242,255, "Mēnesis-Diena-Gads"},
+{243,255, "Diena-Mēnesis-Gads"},
+{244,255, "Laiks uzstādīts:"},
+{245,255, "Sistēmas ierīces režīms"},
+{246,255, "Ierīces režīms:"},
+{247,255, "Switch (default)"},
+{248,255, "NAT/Router"},
+{249,255, "NAT/Router Configuration"},
+{250,255, "WAN side http access:"},
+{251,255, "(WAN side access to http server will be rejected if set to No)"},
+{252,255, "Reply to ICMP on WAN port:"},
+{253,255, "(Unit will not respond to PING from WAN side if set to No)"},
+{254,255, "Cloned WAN MAC Addr:"},
+{255,255, "(in hex format)"},
+{256,255, "LAN Subnet Mask:"},
+{257,255, "default is"},
+{258,255, "LAN DHCP Base IP:"},
+{259,255, "base IP for the LAN port, default is"},
+{260,255, "DHCP IP Lease Time:"},
+{261,255, "(in units of hours, default is 120 hours or 5 days)"},
+{262,255, "DMZ IP:"},
+{263,255, "Port Forwarding:"},
+{264,255, "WAN port"},
+{265,255, "LAN IP"},
+{266,255, "LAN port"},
+{267,255, "Protocol"},
+{268,255, "UDP Only"},
+{269,255, "TCP Only"},
+{270,255, "\"Atjaunināt\""},
+{271,255, "Administratora parole"},
+{272,255, "(purposely not displayed for security protection)"},
+{273,255, "Silence Suppression"},
+{274,255, "Voice Frames per TX"},
+{275,255, "(up to 10/20/32/64 for G711/G726/G723/other codecs respectively)"},
+{276,255, "Layer 3 QoS"},
+{277,255, "Diff-Serv or Precedence value"},
+{278,255, "Layer 2 QoS"},
+{279,255, "802.1Q/VLAN Tag"},
+{280,255, "Priority Value"},
+{281,255, "No Key Entry Timeout"},
+{282,255, "(in seconds, default is 4 seconds)"},
+{283,255, "Use # as Dial Key"},
+{285,255, "local RTP port"},
+{286,255, "default"},
+{287,255, "Use random port"},
+{288,255, "keep-alive interval"},
+{289,255, "(in seconds, default 20 seconds)"},
+{290,255, "Use NAT IP"},
+{291,255, "if specified, this will be used in SIP/SDP message"},
+{292,255, "STUN server"},
+{293,255, "(URI or IP:port)"},
+{294,255, "Programmaparatūras atjaunināšana"},
+{295,255, "Atjaunināt caur"},
+{296,255, "Programmaparatūras servera adrese"},
+{297,255, "Konfigurēt programmaparatūras servera adresi"},
+{298,255, "Firmware File Prefix"},
+{299,255, "Firmware File Postfix"},
+{300,255, "Config File Prefix"},
+{301,255, "Config File Postfix"},
+{302,255, "Allow DHCP Option43 and Option 66 to override server"},
+{303,255, "Automātiski atjaunināt"},
+{304,255, "Atjaunināt katru dienu"},
+{305,255, "minūtes (pēc noklusējuma 7 dienas)"},
+{306,255, "Vienmēr pārbaudīt jaunākos programmaparatūras atjauninājumus"},
+{307,255, "Check New Firmware only when F/W pre/suffix changes"},
+{308,255, "Vienmēr izlaist programmaparatūras atjauninājumu pārbaudi"},
+{309,255, "Authenticate Conf File"},
+{310,255, "(cfg file would be authenticated before acceptance if set to Yes)"},
+{311,255, "Lejupielādēt XML kontaktu grāmatu"},
+{312,255, "Iespējot XML kontaktu grāmatas lejupielādi"},
+{313,255, "XML kontaktu grāmatas servera adrese"},
+{314,255, "Kontaktu grāmatas lejupielāžu intervāls"},
+{315,255, "Pēc lejupielādes dzēst manuāli pievienotos kontaktus"},
+{316,255, "Idle Screen XML Download"},
+{317,255, "Enable Idle Screen XML Download"},
+{318,255, "Idle Screen XML Server Path"},
+{319,255, "DTMF Payload Type"},
+{320,255, "Syslog Level"},
+{321,255, "NEKĀDS"},
+{322,255, "ATKĻŪDOT"},
+{323,255, "INFO"},
+{324,255, "BRĪDINĀJUMS"},
+{325,255, "KĻŪDA"},
+{326,255, "NTP Server"},
+{327,255, "(URI or IP address)"},
+{328,255, "Allow DHCP Option 42 to override NTP server"},
+{329,255, "Distinctive Ring Tone"},
+{330,255, "Zvana tonis 1, ja zvanītāja ID ir"},
+{331,255, "Zvana tonis 2, ja zvanītāja ID ir"},
+{332,255, "Zvana tonis 3, ja zvanītāja ID ir"},
+{333,255, "Izslēgt zvana gaidīšanu"},
+{334,255, "Izslēgt zvana gaidīšanas toni"},
+{335,255, "Ieslēgt ātro IP-call režīmu"},
+{336,255, "Lock Keypad Update:"},
+{337,255, "(configuration update via keypad is disabled if set to Yes)"},
+{338,255, "Konts Active"},
+{339,255, "Konta Vārds"},
+{340,255, "(e.g., MyCompany)"},
+{341,255, "SIP Server"},
+{342,255, "(e.g., sip.mycompany.com, or IP address)"},
+{343,255, "(e.g., proxy.myprovider.com, or IP address)"},
+{344,255, "SIP User ID"},
+{345,255, "the user part of an SIP address"},
+{346,255, "Authenticate ID"},
+{347,255, "can be same or different from SIP UserID"},
+{348,255, "Authenticate Password"},
+{349,255, "(not displayed for security protection)"},
+{350,255, "(optional, e.g., John Doe)"},
+{351,255, "Use DNS SRV:"},
+{352,255, "User ID is phone number:"},
+{353,255, "SIP Registration"},
+{354,255, "Unregister On Reboot"},
+{355,255, "Register Expiration"},
+{356,255, "(in minutes. default 1 hour, max 45 days)"},
+{357,255, "local SIP port"},
+{358,255, "SIP T1 Timeout"},
+{359,255, "sec"},
+{360,255, "SIP T2 Interval"},
+{361,255, "NAT Traversal"},
+{362,255, "No, but send keep-alive"},
+{363,255, "SUBSCRIBE for MWI"},
+{364,255, "PUBLISH for Presence"},
+{365,255, "Proxy-Require:"},
+{366,255, "Voice Mail UserID"},
+{367,255, "(UserID for voice mail system)"},
+{368,255, "Send DTMF"},
+{369,255, "in-audio"},
+{370,255, "via RTP (RFC2833)"},
+{371,255, "via SIP INFO"},
+{372,255, "Early Dial"},
+{373,255, "Yes (use \"Yes\" only if proxy supports 484 response)"},
+{374,255, "Dial Plan Prefix"},
+{375,255, "(this prefix string is added to each dialed number)"},
+{376,255, "Enable Call Features"},
+{377,255, "Yes (if yes, call features using star codes will be supported locally)"},
+{378,255, "Call Log"},
+{379,255, "Log All Calls"},
+{380,255, "Session Expiration"},
+{381,255, "(in seconds. default 180 seconds)"},
+{382,255, "(in seconds. default and minimum 90 seconds)"},
+{383,255, "Caller Request Timer"},
+{384,255, "Yes (Request for timer when making outbound calls)"},
+{385,255, "Callee Request Timer"},
+{386,255, "Yes (When caller supports timer but did not request one)"},
+{387,255, "Force Timer"},
+{388,255, "Yes (Use timer even when remote party does not support)"},
+{389,255, "UAC Specify Refresher"},
+{390,255, "Omit (Recommended)"},
+{391,255, "UAS Specify Refresher"},
+{392,255, "UAS (When UAC did not specify refresher tag)"},
+{393,255, "Force INVITE"},
+{394,255, "Yes (Always refresh with INVITE instead of UPDATE)"},
+{395,255, "Enable 100rel"},
+{396,255, "Konts Ring Tone"},
+{397,255, "system ring tone"},
+{398,255, "custom ring tone 1"},
+{399,255, "Send Anonymous"},
+{400,255, "(caller ID will be blocked if set to Yes)"},
+{401,255, "Anonymous Method:"},
+{402,255, "Use From Header"},
+{403,255, "Use Privacy Header"},
+{404,255, "Auto Answer"},
+{405,255, "Allow Auto Answer by Call-Info"},
+{406,255, "Turn off speaker on <br>remote disconnect"},
+{407,255, "Check SIP User ID for <br>incoming INVITE"},
+{408,255, "Preferred Vocoder"},
+{409,255, "(in listed order)"},
+{410,255, "choice 1"},
+{411,255, "SRTP Mode"},
+{412,255, "Disabled"},
+{413,255, "Enabled but not forced"},
+{414,255, "Enabled and forced"},
+{415,255, "Special Feature"},
+{416,255, "Standard"},
+{417,255, "They will take effect on next reboot."},
+{418,255, "Display Language"},
+{419,255, "Syslog Server"},
+{420,255, "Konts 2"},
+{421,255, "Konts 3"},
+{422,255, "Konts 4"},
+{423,255, "EXT 2"},
+{424,255, "(Option 15)"},
+{425,255, "Daudzfunkcionālais taustiņš 2"},
+{426,255, "Daudzfunkcionālais taustiņš 3"},
+{427,255, "Daudzfunkcionālais taustiņš 4"},
+{428,255, "Daudzfunkcionālais taustiņš 5"},
+{429,255, "Daudzfunkcionālais taustiņš 6"},
+{430,255, "Daudzfunkcionālais taustiņš 7"},
+{431,255, "Konts 2"},
+{432,255, "Konts 3"},
+{433,255, "Konts 4"},
+{434,255, "1024-65400, default 5004, must be even"},
+{435,255, "(default 5060)"},
+{436,255, "0.5 sec"},
+{437,255, "1 sec"},
+{438,255, "2 sec"},
+{439,255, "4 sec"},
+{440,255, "8 sec"},
+{441,255, "zvana tonis 2"},
+{442,255, "zvana tonis 3"},
+{443,255, "izvēle 2"},
+{444,255, "izvēle 3"},
+{445,255, "izvēle 4"},
+{446,255, "izvēle 5"},
+{447,255, "izvēle 6"},
+{448,255, "izvēle 7"},
+{449,255, "izvēle 8"},
+{450,255, "\"Atsāknēt\""},
+{451,255, "(pēc noklusējuma 5062)"},
+{452,255, "(pēc noklusējuma 5064)"},
+{453,255, "(pēc noklusējuma 5066)"},
+{454,255, "EXT taustiņš 1"},
+{455,255, "EXT taustiņš 2"},
+{456,255, "EXT taustiņš 3"},
+{457,255, "EXT taustiņš 4"},
+{458,255, "EXT taustiņš 5"},
+{459,255, "EXT taustiņš 6"},
+{460,255, "EXT taustiņš 7"},
+{461,255, "EXT taustiņš 8"},
+{462,255, "EXT taustiņš 9"},
+{463,255, "EXT taustiņš 10"},
+{464,255, "EXT taustiņš 11"},
+{465,255, "EXT taustiņš 12"},
+{466,255, "EXT taustiņš 13"},
+{467,255, "EXT taustiņš 14"},
+{468,255, "EXT taustiņš 15"},
+{469,255, "EXT taustiņš 16"},
+{470,255, "EXT taustiņš 17"},
+{471,255, "EXT taustiņš 18"},
+{472,255, "EXT taustiņš 19"},
+{473,255, "EXT taustiņš 20"},
+{474,255, "EXT taustiņš 21"},
+{475,255, "EXT taustiņš 22"},
+{476,255, "EXT taustiņš 23"},
+{477,255, "EXT taustiņš 24"},
+{478,255, "EXT taustiņš 25"},
+{479,255, "EXT taustiņš 26"},
+{480,255, "EXT taustiņš 27"},
+{481,255, "EXT taustiņš 28"},
+{482,255, "EXT taustiņš 29"},
+{483,255, "EXT taustiņš 30"},
+{484,255, "EXT taustiņš 31"},
+{485,255, "EXT taustiņš 32"},
+{486,255, "EXT taustiņš 33"},
+{487,255, "EXT taustiņš 34"},
+{488,255, "EXT taustiņš 35"},
+{489,255, "EXT taustiņš 36"},
+{490,255, "EXT taustiņš 37"},
+{491,255, "EXT taustiņš 38"},
+{492,255, "EXT taustiņš 39"},
+{493,255, "EXT taustiņš 40"},
+{494,255, "EXT taustiņš 41"},
+{495,255, "EXT taustiņš 42"},
+{496,255, "EXT taustiņš 43"},
+{497,255, "EXT taustiņš 44"},
+{498,255, "EXT taustiņš 45"},
+{499,255, "EXT taustiņš 46"},
+{500,255, "EXT taustiņš 47"},
+{501,255, "EXT taustiņš 48"},
+{502,255, "EXT taustiņš 49"},
+{503,255, "EXT taustiņš 50"},
+{504,255, "EXT taustiņš 51"},
+{505,255, "EXT taustiņš 52"},
+{506,255, "EXT taustiņš 53"},
+{507,255, "EXT taustiņš 54"},
+{508,255, "EXT taustiņš 55"},
+{509,255, "EXT taustiņš 56"},
+{510,255, "EXT taustiņš 57"},
+{511,255, "EXT taustiņš 58"},
+{512,255, "EXT taustiņš 59"},
+{513,255, "EXT taustiņš 60"},
+{514,255, "EXT taustiņš 61"},
+{515,255, "EXT taustiņš 62"},
+{516,255, "EXT taustiņš 63"},
+{517,255, "EXT taustiņš 64"},
+{518,255, "EXT taustiņš 65"},
+{519,255, "EXT taustiņš 66"},
+{520,255, "EXT taustiņš 67"},
+{521,255, "EXT taustiņš 68"},
+{522,255, "EXT taustiņš 69"},
+{523,255, "EXT taustiņš 70"},
+{524,255, "EXT taustiņš 71"},
+{525,255, "EXT taustiņš 72"},
+{526,255, "EXT taustiņš 73"},
+{527,255, "EXT taustiņš 74"},
+{528,255, "EXT taustiņš 75"},
+{529,255, "EXT taustiņš 76"},
+{530,255, "EXT taustiņš 77"},
+{531,255, "EXT taustiņš 78"},
+{532,255, "EXT taustiņš 79"},
+{533,255, "EXT taustiņš 80"},
+{534,255, "EXT taustiņš 81"},
+{535,255, "EXT taustiņš 82"},
+{536,255, "EXT taustiņš 83"},
+{537,255, "EXT taustiņš 84"},
+{538,255, "EXT taustiņš 85"},
+{539,255, "EXT taustiņš 86"},
+{540,255, "EXT taustiņš 87"},
+{541,255, "EXT taustiņš 88"},
+{542,255, "EXT taustiņš 89"},
+{543,255, "EXT taustiņš 90"},
+{544,255, "EXT taustiņš 91"},
+{545,255, "EXT taustiņš 92"},
+{546,255, "EXT taustiņš 93"},
+{547,255, "EXT taustiņš 94"},
+{548,255, "EXT taustiņš 95"},
+{549,255, "EXT taustiņš 96"},
+{550,255, "EXT taustiņš 97"},
+{551,255, "EXT taustiņš 98"},
+{552,255, "EXT taustiņš 99"},
+{553,255, "EXT taustiņš 100"},
+{554,255, "EXT taustiņš 101"},
+{555,255, "EXT taustiņš 102"},
+{556,255, "EXT taustiņš 103"},
+{557,255, "EXT taustiņš 104"},
+{558,255, "EXT taustiņš 105"},
+{559,255, "EXT taustiņš 106"},
+{560,255, "EXT taustiņš 107"},
+{561,255, "EXT taustiņš 108"},
+{562,255, "EXT taustiņš 109"},
+{563,255, "EXT taustiņš 110"},
+{564,255, "EXT taustiņš 111"},
+{565,255, "EXT taustiņš 112"},
+{566,22, "--- NAV ATBILDES"},
+{567,22, "Nav atbildes"},
+{568,22, "saņem no servera"},
+{569,22, "403 NAV ATĻAUTS"},
+{570,22, "Jūsu pieprasījums"},
+{571,22, "atļauts"},
+{572,22, "404 NAV ATĻAUTS"},
+{573,22, "Numurs neeksistē"},
+{574,22, "party not online"},
+{575,22, "408 TIME OUT"},
+{576,22, "486 AIZŅEMTS"},
+{577,22, "Remote party is busy"},
+{578,22, "488 NOT ACCEPTABLE"},
+{579,22, "Try different vocoder"},
+{580,22, "SRTP Enforce Failed"},
+{581,22, "Terminate Call"},
+{582,22, "NAV ATBILDES"},
+{583,22, "Nav reģistrēts"},
+{584,22, "DIAL NUMBER (BLIND) OR"},
+{585,22, "SELECT LINE (ATTENDED)"},
+{586,22, "LINE0: CALL PARK"},
+{587,22, "DIAL THE ORBIT NUMBER "},
+{588,22, "AND PRESS SEND        "},
+{589,22, "SELECT THE LINE TO"},
+{590,22, "OR DIAL NUMBER"},
+{591,255, "Reģistrēt ienākošos / izejošos zvanus"},
+{592,255, "Izslēgt zvanu reģistrēšanu"},
+{593,22, "Saņemtie zvanu"},
+{594,18, "Veiktie zvani"},
+{595,18, "Neatbildētie zvani"},
+{596,255, "\"Atcelt\""},
+{597,18, "Noņemt"},
+{598,18, "IM ieraksts"},
+{599,18, "DzēstVisu"},
+{600,18, "--ZIŅAS BEIGAS--"},
+{601,255, "diena(s)"},
+{602,255, "stunda(s)"},
+{603,255, "minūte(s)"},
+{604,18, "ZVANA"},
+{605,18, "LĪNIJA"},
+{606,18, "TURĒT"},
+{607,18, "ZVANĪT"},
+{608,18, "PĀRSŪTĪT"},
+{609,18, "KONFERENCE"},
+{610,18, "LAPA"},
+{611,18, "ZVANĪT"},
+{612,18, "LIETOT"},
+{613,18, "JAUNS ZIŅOJUMS"},
+{614,18, "KLUSUMS"},
+{615,18, "Saruna"},
+{616,12, "NOTEIK KONFERENCE"},
+{617,6, "Atcelt"},
+{618,255, "atspējot"},
+{619,255, "detected NAT type is "},
+{620,255, "full cone"},
+{621,255, "restricted cone"},
+{622,255, "port restricted cone"},
+{623,255, "symmetric NAT"},
+{624,255, "symmetric UDP firewall"},
+{625,255, "UDP blocked"},
+{626,255, "open Internet"},
+{627,255, "G723 rate"},
+{628,255, "6.3kbps encoding rate"},
+{629,255, "5.3kbps encoding rate"},
+{630,255, "SIP Transport"},
+{631,255, "Use RFC3581 Symmetric Routing:"},
+{632,255, "Anonymous Call Rejection"},
+{633,255, "Disable in-call DTMF display"},
+{634,255, "eventlist BLF"},
+{635,255, "eventlist BLF URI"},
+{636,18, "Select iLBC"},
+{637,18, "Select G.722"},
+{638,18, "Select G.726-32"},
+{639,22, "NETWORK DOWN"},
+{640,22, "NETWORK STARTING"},
+{641,255, "Call Progress Tones"},
+{642,255, "Zvana tonis"},
+{643,255, "Message Waiting"},
+{644,255, "Sistēmas zvana signāls"},
+{645,255, "Atzvana signāls"},
+{646,255, "Zvana gaidīšanas signāls"},
+{647,255, "Ja aizņemts signāls"},
+{648,255, "Refer-To Use Target Contact"},
+{649,18, "Saglabāt kontaktu grāmatā"},
+{650,255, "Rindas signāls"},
+{651,255, "Syntax: "},
+{652,255, "(Frequencies are in Hz and cadence on and off are in 10ms)"},
+{653,255, "Delayed Call Forward Wait Time"},
+{654,255, "(Allowed range 1-120, in seconds.)"},
+{655,255, "Enable Shared Call Appearance:"},
+{656,255, "iLBC frame size"},
+{657,255, "20ms"},
+{658,255, "30ms"},
+{659,255, "iLBC payload type"},
+{660,255, "(between 96 and 127, default is 97)"},
+{661,255, "SIP Registration Failure Retry Wait Time"},
+{662,255, "(in seconds. Between 1-3600, default is 20)"},
+{663,22, "Savienot"},
+{664,22, "KONFERENCES ZVANS"},
+{665,22, "Neizdevās"},
+{666,22, "Kļūdas kods: "},
+{667,22, "Savienots"},
+{668,22, "Neizdevās"},
+{669,22, "Visu zvanu pāradresācija"},
+{670,22, "Pāradresēt, ja aizņemts"},
+{671,22, "Pāradresēt, ja neatbild"},
+{672,22, "Pāradresēt uz numuru:"},
+{673,18, "LĪNIJAS"},
+{674,18, "LĪNIJA6"},
+{675,18, "AUSTIŅAS"},
+{676,18, "DOMOFONS"},
+{677,18, "KONTAKTU GRĀMATA"},
+{678,18, "IZVĒLES TAUSTIŅŠ 1"},
+{679,18, "IZVĒLES TAUSTIŅŠ 2"},
+{680,18, "IZVĒLES TAUSTIŅŠ 3"},
+{681,18, "IZVĒLES TAUSTIŅŠ 4"},
+{682,255, "Konts 5"},
+{683,255, "Konts 6"},
+{684,16, "Neatb.Zv"},
+{685,16, "Pāradr"},
+{686,16, "Labot"},
+{687,16, "Atcelt pāradresāciju"},
+{688,16, "Vairāk ->"},
+{689,16, "Jauns zvans"},
+{690,16, "BeigtZvanu"},
+{691,16, "Atkārtot"},
+{692,16, "Atzvans"},
+{693,16, "Zvanīt"},
+{694,16, "Notīrīt"},
+{695,16, "Atpakaļ ->"},
+{696,255, "LCD apgaismojums"},
+{697,255, "0-8"},
+{698,255, "Konts 5"},
+{699,255, "Konts 6"},
+{700,255, "Aktīvs"},
+{701,255, "Gaidīt"},
+{702,255, "Klusums:"},
+{703,16, "Atbildēt"},
+{704,16, "Noraidīt"},
+{705,22, "Pārbauda "},
+{706,22, "Aizņems kādu laiku"},
+{707,255, "Static IP"},
+{708,255, "XML Application"},
+{709,255, "IP Setting"},
+{710,255, "Offhook Auto Dial"},
+{711,255, "(User ID/extension to dial automatically when offhook, max length 35) "},
+{712,255, "Disable Multiple Media Attribute in SDP: "},
+{713,16, "XML Service"},
+{714,255, "(default 5068)"},
+{715,255, "(default 5070)"},
+{716,22, "Onhook Dialing"},
+{717,255, "Konts"},
+{718,255, "Display Konta Vārds<br> instead of Date:"},
+{719,255, "(Numeric Input Supported Only)"},
+{720,255, "Onhook Threshold:"},
+{721,255, "Hookflash OFF"},
+{722,255, "Atspējot zvanu reģistrēšanu:"},
+{723,255, "Atspējot neatbildēto zvanu ekrāna apgaismojumu"},
+{724,255, "Izvēlēties līniju "},
+{725,255, "Servera adrese"},
+{726,255, "Izvēles taustiņa nosaukums"},
+{727,255, "Daudzfunkcionālais taustiņš 8"},
+{728,255, "Daudzfunkcionālais taustiņš 9"},
+{729,255, "Daudzfunkcionālais taustiņš 10"},
+{730,255, "Daudzfunkcionālais taustiņš 11"},
+{731,255, "Daudzfunkcionālais taustiņš 12"},
+{732,255, "Daudzfunkcionālais taustiņš 13"},
+{733,255, "Daudzfunkcionālais taustiņš 14"},
+{734,255, "Daudzfunkcionālais taustiņš 15"},
+{735,255, "Daudzfunkcionālais taustiņš 16"},
+{736,255, "Daudzfunkcionālais taustiņš 17"},
+{737,255, "Daudzfunkcionālais taustiņš 18"},
+{738,255, "Lapa uz augšu"},
+{739,255, "Lapa uz leju"},
+{740,255, "Neatbildēts"},
+{741,255, "Pāradresācija"},
+{742,255, "Atbildēt"},
+{743,255, "Atzvanīt"},
+{744,255, "Noraidīt"},
+{745,18, "Acct"},
+{746,255, "BLF"},
+{747,255, "Reset Vlan Config"},
+{748,19, "Lejupielādēt kontaktu grāmatu"},
+{749,19, "LCD kontrasts"},
+{750,255, "Domofona lietotāja ID"},
+{751,255, "Austiņu ports:"},
+{752,18, "2.5mm"},
+{753,23, "RJ22"},
+{754,255, "Headset TX gain (dB)"},
+{755,255, "Headset RX gain (dB)"},
+{756,18, " 0 dB"},
+{757,18, "-6 dB"},
+{758,18, "+6 dB"},
+{759,255, "Kabul"},
+{760,255, "Tehran"},
+{761,255, "Venezuela"},
+{762,255, "English"},
+{763,255, "Downloaded Language"},
+{764,255, "Language File postfix"},
+{765, 255, "Sistēmas laiks"},
+{766,255, "Part Number"},
+{767,255, "ATVIENOTS"},
+{768,255, "LDAP Directory"},
+{769,255, "Skatīt mapi"},
+{770,255, "Lejupielādēt mapi"},
+{771,255, "LDAP Configuration"},
+{772,255, "Izvēlēties filtru"},
+{773,255, "Filtra uzstādījumi"},
+{774,255, "Iesauka"},
+{775,255, "Uzvārds"},
+{776,255, "Vārds"},
+{777,255, "Telefona numurs"},
+{778,255, "LDAP Script Server Path"},
+{779,255, "Optional"},
+{780, 22, "Dzēst visus ierakstus"},
+{781, 22, "Apstiprina"},
+{782, 32, "Dzēst visus ierakstus?"},
+{783, 32, "Dzēst ierakstu?"},
+{784,255, "Chinese"},
+{785, 22, "480 NAV PIEEJAMS"},
+{786, 22, "Meklēt"},
+{787, 22, "Nav atrasts"},
+{788,255, "Atspējot IP Calls"},
+{789,255, "Atspējot Conference"},
+{790,255, "(5-720, in minutes, 0 for disable automatic downloading)"},
+{791, 18, "ĀTRAIS ZVANS 8"},
+{792, 18, "ĀTRAIS ZVANS 9"},
+{793, 18, "ĀTRAIS ZVANS 10"},
+{794, 18, "ĀTRAIS ZVANS 11"},
+{795, 18, "ĀTRAIS ZVANS 12"},
+{796, 18, "ĀTRAIS ZVANS 13"},
+{797, 18, "ĀTRAIS ZVANS 14"},
+{798, 18, "ĀTRAIS ZVANS 15"},
+{799, 18, "ĀTRAIS ZVANS 16"},
+{800, 18, "ĀTRAIS ZVANS 17"},
+{801, 18, "ĀTRAIS ZVANS 18"},
+{802, 18, "Autentificēšanas konfigurācija"},
+{803, 18, "Lietotājvārds"},
+{804, 18, "Parole"},
+{805, 18, "Tīkla uzstādījumi"},
+{806, 18, "atiestatīt"},
+{807, 18, "Autentificēšanas kļūda"},
+{808, 32, "Iekārtas kļūda."},
+{809,255, "Lietotājvārda un paroles kļūda, mēģiniet vēlreiz!"},
+{810, 32, "Nesekmīga autentifikācija 3. reizi!"},
+{811, 32, "Lejupielādēt neizdevās"},
+{812, 64, "Lejupielāde neizdevās, atsāknējiet iekārtu!"},
+{813, 32, "Saglabāt lietotājvārdu un paroli"},
+{814, 18, "Parvaldīt grupu"},
+{815, 18, "Parādīt grupu"},
+{816, 18, "Jauna grupa"},
+{817, 18, "Dzēst grupu"},
+{818, 18, "Rediģēt grupu"},
+{819, 18, "Vārds"},
+{820, 18, "Bloķētie kontakti"},
+{821, 25, "Dzēst grupu?"},
+{822, 25, "Grupa"},
+{823, 25, "Izvēlieties numuru"},
+{824, 25, "Uz sākumu"},
+{825, 25, "Šūna"},
+{826, 25, "Darbs"},
+{827, 25, "Fax"},
+{828, 25, "Grupas ieraksti"},
+{829, 75, "Nospiediet kontaktu grāmatas taustiņu lai izietu"},
+{830, 30, "Austiņu taustiņu režīms"},
+{831, 18, "Noklusētais režīms"},
+{832, 40, "Austiņu / skaļruņa režīms"},
+{833,255, "Keep-Alive Using SIP OPTIONS"},
+{868, 16, "am"},
+{869, 16, "pm"},
+{870,255, "Reģistrēts"},
+{871,255, "Nav reģistrēts"},
+{872,255, "Ring Timeout"},
+{873,255, "(in seconds. Between 30-3600, default is 60)"},
+{874,255, "LCD apgaismojums"},
+{875,255, "Paroles kļūda"},
+{876,255, "Lūdzu ievadiet vēlreiz"},
+{877,255, "Reģistrē"},
+{878,255, "Nosūta reģistrācijas apliecinājumu"},
+{879,255, "in seconds, default is"},
+{880,255, "Send Flash Event: "},
+{881, 32, "Neatļauts numurs"},
+{882, 32, "No dial plan rules matched"},
+{883, 32, "REMOTE HELD"},
+{884,255, "Enable MPK sending DTMF"},
+{885,255, " button pressing will have no effect if set to Yes"},
+{886,255, "Atspējot savienošanu"},
+{887,255, "Lietot citu faila nosaukumu"},
+{888,255, "DND"},
+{889,255, " Taustiņš"},
+{890,255, "Nezināms"},
+{891,255, "PPPoE Settings"},
+{892,25, "Savienotie zvani"},
+{893,25, "Savienoto zvanu ieraksti"},
+{894,255, "Display CID instead of Name"},
+{895,18, "SESIJA BEIGUSIES"},
+{896,255, "SUBSCRIBE for Registration Event:"},
+{897,255, "BLF Call-pickup Prefix"},
+{898,255, "(this prefix is prepended when answering call with BLF key)"},
+{899,255, "Public Mode"},
+{900,32, "LogOut"},
+{901,32, "Pieteikties"},
+{902,32, "Atteikties"},
+{903,255, "Lūdzu izvēlieties zvanu rindu lai pievienotos"},
+{904,32, "Piesakās..."},
+{905,32, "Atsakās..."},
+{906,32, "Neizdevās pieteikties!"},
+{907,32, "Pieteikties"},
+{908,32, "Lietotājvārds"},
+{909,32, "Parole"},
+{910,32, "Lietotājvārds, lietotājs"},
+{911,32, "Lietotājvārds, parole"},
+{912,32, "Tab"},
+{913,32, "Download Screen XML At Boot-up"},
+{914,32, "PC Port Mode"},
+{915,32, "CallPark"},
+{916,32, "PickUp"},
+{917,32, "Switch"},
+{918,32, "Hub"},
+{919,32, "Select A Green MPK Key to Park a Call"},
+{921,32, "Disable Multicast Filter"},
+{922,32, "Data VLAN Tag"},
+{923,255, "(can't use the same non-zero value as 802.1Q tag)"},
+{924,32, "Enable Constraint Mode"},
+{925,32, "Multi Purpose Key"},
+{926,32, "Edit UserID"},
+{927,32, "Semi-attended Transfer Mode"},
+{928,32, "RFC5589"},
+{929,32, "Send REFER with early dialog"},
+{930,32, "Support SIP Instance ID"},
+{931,255, "XML Config File Password"},
+{944,32, "Speed Dial via active Konts"},
+{1001,255, "Symmetric RTP"},
+{1002,255, "Support SIP Instance ID"},
+{1003,32, "DNS Mode"},
+{1004,32, "Enable WDT"},
+{1005,32, "Disable WDT"},
+{1006,255, "STUN"},
+{1007,255, "Keep-Alive"},
+{1008,255, "UPnP"},
+{1009,255, "Auto"},
+{1010,255, "VPN"},
+{1011,255, "Remove OBP from Route"},
+{1012,32, "SAVIENOTS"},
+{1013,32, "Beigts"},
+{1014,32, "Neizdevās"},
+{1015,255, "Dial Plan"},
+{1016,255, "Validate Incoming Messages"},
+{1017,255, "Transfer on Conference Hangup"},
+{1018,32, "Vairāk"},
+{1019,32, "Atpakaļ"},
+{1020,32, "Uzvārds"},
+{1021,32, "Rediģēt vārdu"},
+{1022,32, "Rediģēt uzvārdu"},
+{1023,255, "SSL Certificate"},
+{1024,255, "SSL Private Key"},
+{1025,255, "SSL Private Key Password"},
+{1026,255, "Configuration via Keypad Menu"},
+{1027,255, "Neierobežots"},
+{1028,255, "Pamatiestatījumi"},
+{1029,255, "Constraint Mode"},
+{1030,255, "Korean"},
+{1031,255, "Japanese"},
+{1032,255, "Skaļāk"},
+{1033,255, "Klusāk"},
+{1034,255, "Please Use 5V Power"},
+{1035,255, "Simplified Chinese"},
+{1036,255, "Traditional Chinese"},
+{1037,255, "Italian"},
+{1038,255, "Spanish"},
+{1039,255, "French"},
+{1040,255, "German"},
+{1041,32, "Ielādē valodu..."},
+{1042,255, "HTTP/HTTPS lietotājvārds"},
+{1043,255, "HTTP/HTTPS parole"},
+{1044,255, "Lietotāja uzstādīta laika josla"},
+{1045,18, "NEW MESSAGE"},
+{1046,18, "Sv."},
+{1047,18, "Pr."},
+{1048,18, "Ot."},
+{1049,18, "Tr."},
+{1050,18, "Ce."},
+{1051,18, "Pk."},
+{1052,18, "Se."},
+{1053,18, "$W, $M$D"},
+{1054,18, "Nāk.Logs"},
+{1055,18, "Iestatījumi"},
+{1056,18, "Konts"},
+{1057,18, "Extension Boards"},
+{1058,18, "Automātiski"},
+{1059,18, "Nezināma valoda"},
+{1060,32, "Lietot konfigurēto IP"},
+{1061,32, "Primary IP"},
+{1062,32, "Backup IP 1"},
+{1063,32, "Backup IP 2"},
+{1064,32, "Līnija"},
+{1065,32, "Dalīta līnija"},
+{1066,32, "Līnijas taustiņš"},
+{1067,32, "Līnijas taustiņš"},
+{1068,32, "Daudzfunkcionālie taustiņi"},
+{1069,32, "Turēt"},
+{1070,32, "Neizdevās pārtvert zvanu"},
+{1071,32, "Check Domain Certificates"},
+{1072,255, "When set to Yes/Enabled, we will check the domain certificate as defined in RFC5922"},
+{1073,32, "Secondary SIP Server"},
+{1074,32, "Zvana pārtveršanas noildze"},
+{1075,32, "(15-60 sec) "},
+{1076,16, "Pārtvert zvanu"},
+{1077,32, "Apstiprina iestatījumus"},
+{1078,32, "Laika prognozes atjaunināšana"},
+{1079,32, "Pilsētas kods"},
+{1080,32, "Atjaunināšanas intervāls"},
+{1081,255, "(5-360 min)"},
+{1082,32, "Mērvienība"},
+{1083,32, "Fārenheita"},
+{1084,32, "Celsija"},
+{1085,32, "Biržas atjaunināšana"},
+{1086,32, "Valūtas kursa atjaunināšana"},
+{1087,32, "atspējot"},
+{1088,32, "Iespējot"},
+{1100,255, "Tornado"},
+{1101,255, "Vētra"},
+{1102,255, "Orkāns"},
+{1103,255, "Stiprs pērkona negaiss"},
+{1104,255, "Pērkona negaiss"},
+{1105,255, "Slapjš sniegs"}, (Softkey, idle screen, to switch between multiple screens)
+{1106,255, "Slapjš sniegs,255, "},
+{1107,255, "Lietus ar sniegu"},
+{1108,255, "Sasalstošs lietus"},
+{1109,255, "Smalks lietus"},
+{1110,255, "Sasalstošs lietu"},
+{1111,255, "Lietusgāzes 1"},
+{1112,255, "Lietusgāzes 2"},
+{1113,255, "Sniegputenis"},
+{1114,255, "Sniegputenis"},
+{1115,255, "Sniegputenis"},
+{1116,255, "Sniegputenis"},
+{1117,255, "Krusa"},
+{1118,255, "Slapjš sniegs"},
+{1119,255, "Apmācies"},
+{1120,255, "Migla"},
+{1121,255, "Dūmaka"},
+{1122,255, "Apmācies"},
+{1123,255, "Brāzmains"},
+{1124,255, "Brāzmains"},
+{1125,255, "Auksts"},
+{1126,255, "Mākoņais"},
+{1127,255, "Mainīgs mākoņu daudzums"},
+{1128,255, "Mainīgs mākoņu daudzums"},
+{1129,255, "Mainīgs mākoņu daudzums"},
+{1130,255, "Mainīgs mākoņu daudzums"},
+{1131,255, "Skaidrs"},
+{1132,255, "Saulains"},
+{1133,255, "Skaidrs"},
+{1134,255, "Skaidrs"},
+{1135,255, "Krusa"},
+{1136,255, "Karsts"},
+{1137,255, "Pērkona negaiss"},
+{1138,255, "Pērkona negaiss 1"},
+{1139,255, "Pērkona negaiss 2"},
+{1140,255, "Lietusgāzes"},
+{1141,255, "Sniegputenis"},
+{1142,255, "Sniegputenis"},
+{1143,255, "Sniegputenis"},
+{1144,255, "Apmācies"},
+{1145,255, "Lietusgāzes"},
+{1146,255, "Sniegputenis"},
+{1147,255, "Lietusgāzes"},
+{1148,255, "Nav pieejams"},
+{1149,255, "Nezināms"},
+{1150,255, "Augsts"},
+{1151,255, "Zems"},
+{1152,255, "Apmācies"},
+{1153,255, "Rīt"},
+{1154,255, "802.1X Mode"},
+{1155,255, "Atspējot"},
+{1156,255, "Identity"},
+{1157,255, "MD5 Password"},
+{1158,255, "Turpināt"},
+{1159,255, "PPPoE Service Name"},
+{1160,255, "GMT-12:00 (International Date Line West)"},
+{1161,255, "GMT-11:00 (Midway Island, Samoa)"},
+{1162,255, "GMT-10:00 (US Hawaiian Time)"},
+{1163,255, "GMT-09:00 (US Alaska Time)"},
+{1164,255, "GMT-08:00 (US Pacific Time, Los Angeles)"},
+{1165,255, "GMT-07:00 (US Mountain Time, Denver)"},
+{1166,255, "GMT-07:00 (Mountain Time (Arizona, no DST))"},
+{1167,255, "GMT-06:00 (Central Time)"},
+{1168,255, "GMT-06:00 (Central America)"},
+{1169,255, "GMT-05:00 (Eastern Time)"},
+{1170,255, "GMT-04:00 (Caracas, San Juan)"},
+{1171,255, "GMT-04:00 (Atlantic Time)"},
+{1172,255, "GMT-04:00 (Atlantic Time (New Brunswick))"},
+{1173,255, "GMT-03:30 (Newfoundland Time)"},
+{1174,255, "GMT-03:00 (Greenland)"},
+{1175,255, "GMT-03:00 (Brazil, Sao Paulo)"},
+{1176,255, "GMT-02:00 (Argentina)"},
+{1177,255, "GMT-02:00 (Mid-Atlantic)"},
+{1178,255, "GMT-01:00 (Azores, Cape Verde Is.)"},
+{1179,255, "GMT (Edinburgh, Monrovia)"},
+{1180,255, "GMT (London, Great Britain)"},
+{1181,255, "GMT (Lisbon, Portugal)"},
+{1182,255, "GMT (Dublin, Ireland)"},
+{1183,255, "GMT+01:00 (Paris, Vienna, Warsaw, Roma, Madrid, Prague, Berlin, Budapest, Amsterdam, Belgium)"},
+{1184,255, "GMT+01:00 (Roma, Paris, Madrid, Prague, Berlin, Budapest, Amsterdam, Barcelona)"},
+{1185,255, "GMT+01:00 (Brussels, Belgium)"},
+{1186,255, "GMT+02:00 (Israel, Cairo, Athens, Istanbul, Bucharest)"},
+{1187,255, "GMT+02:00 (Helsinki, Athens, Tallinn, Bucharest)"},
+{1188,255, "GMT+02:00 (Kyiv, Ukraine)"},
+{1189,255, "GMT+03:00 (Kuwait, Baghdad, Tehran, Nairobi)"},
+{1190,255, "GMT+03:00 (Moscow, Russia)"},
+{1191,255, "GMT+03:00 (St.Petersburg, Russia)"},
+{1192,255, "GMT+04:00 (Abu Dhabi, Baku)"},
+{1193,255, "GMT+05:00 (Islamabad, Ekaterinburg, Karachi, Tashkent)"},
+{1194,255, "GMT+05:30 (Chennai, New Delhi, Mumbai)"},
+{1195,255, "GMT+05:45 (Kathmandu)"},
+{1196,255, "GMT+06:00 (Almaty, Astana, Dhaka, Novosibirsk)"},
+{1197,255, "GMT+06:30 (Rangoon)"},
+{1198,255, "GMT+07:00 (Bankok, Hanoi, Krasnoyarsk)"},
+{1199,255, "GMT+07:00 (Jakarta)"},
+{1200,255, "GMT+08:00 (Beijing, Taipei, Kuala Lumpur, Irkutsk)"},
+{1201,255, "GMT+08:00 (Singapore)"},
+{1202,255, "GMT+08:00 (Ulaanbaatar, Mongolia)"},
+{1203,255, "GMT+08:00 (Perth)"},
+{1204,255, "GMT+09:00 (Japan, Korea, Yakutsk)"},
+{1205,255, "GMT+09:30 (Adelaide)"},
+{1206,255, "GMT+09:30 (Darwin)"},
+{1207,255, "GMT+10:00 (Guam)"},
+{1208,255, "GMT+10:00 (Hobart)"},
+{1209,255, "GMT+10:00 (Hobart, Sydney, Melbourne, Canberra)"},
+{1210,255, "GMT+10:00 (Brisbane)"},
+{1211,255, "GMT+11:00 (Magadan, Solomon Is., New Caledonia)"},
+{1212,255, "GMT+12:00 (Auckland, Wellington)"},
+{1213,255, "GMT+12:00 (Fiji)"},
+{1214,255, "GMT+13:00 (Nuku'alofa)"},
+{1215,255, "Temperatūra"},
+{1216,255, "Laika prognoze"},
+{1217,255, "Šodien"},
+{1218,255, "Birža"},
+{1219,255, "Atjaunināts"},
+{1220,255, "Valūta"},
+{1221,32, "Atjaunināt"},
+{1222,32, "Atjaunināt"},
+{1223,32, "Mainīt"},
+{1224,255, "Enable STAR key Keypad locking"},
+{1225,255, "Ievadīt paroli taustiņu bloķēšanai / atbloķēšanai"},
+{1226,255, "NETWORK DOWN"},
+{1227,255, "ACS URL"},
+{1228,255, "Nepareizs lietotājvārds / parole"},
+{1229,255, "Nepareizs sērijas numurs"},
+{1230,255, "TR-069 lietotājvārds"},
+{1231,255, "TR-069 parole"},
+{1232,255, "Apstiprpināt"},
+{1233,255, "Automātiski pieteikties"},
+{1234,255, "Jauna parole"},
+{1235,255, "Ievadīt jauno paroli"},
+{1236,255, "Paroli nav nomainīt"},
+{1237,255, "Parole nomainīta"},
+{1238,255, "Pieslēdzas..."},
+{1239,255, "Paroles nesakrīt"},
+{1240,255, "Nomaina paroli..."},
+{1241,255, "Pieslēgšanās noildze"},
+{1242,255, "Paroles maiņas noildze"},
+{1243,255, "Provision via ACS?"},
+{1244,255, "Pāradresēt zvanus"},
+{1245,255, "Atcelt zvanu pāradresāciju"},
+{1246,255, "Pievienot"},
+{1247,255, "Pāradresēts zvans"},
+{1248,255, "Pāradresēti zvani"},
+{1249,255, "TR-069"},
+{1250,255, "Periodic Inform Enable"},
+{1251,255, "Periodic Inform Interval"},
+{1252,255, "Lietotājvārds"},
+{1253,255, "Parole"},
+{1254,255, "Change Password"},
+{1255,255, "Iespējot automātisku pierakstīšanu"},
+{1256,255, "Atspējot automātisku pierakstīšanos"},
+{1257,255, "Apstiprināt"},
+{1258,255, "Conference URI"},
+{1259,255, "Enable TR-069"},
+{1260,255, "SUBSCRIBE for Registration"},
+{1261,255, "Vecā parole"},
+{1262,255, "Apstiprināt paroli"},
+{1263,255, "S/N"},
+{1264,255, "Noildze"},
+{1265,255, "Dial DTMF"},
+{1266,255, "Pieejama jaunākā programmaparatūra"},
+{1267,255, "Atjaunināt uz jaunāku versiju??"},
+{1268,32, "Pāradresēts zvans"},
+{1269,32, "Jauns"},
+{1270,32, "Vecs"},
+{1271,32, "China Telecom Mode"},
+{1272,32, "No"},
+{1273,32, "Kam"},
+{1274,32, "Divt to"},
+{1275,255, "Administratora sadaļa"},
+{1276,255, "Laika uzstādījumi"},
+{1277,255, "GMT-06:00 (Guadalajara, Mexico City, Monterrey)"},
+{1278,255, "GMT-07:00 (Chihuahua, La Paz, Mazatlan)"},
+{1279,255, "GMT-08:00 (Baja California)"},
+{1280,255, "Service Status"},
+{1281,255, "Core Dump"},
+{1282,255, "Send SIP Log"},
+{1283,32, "Downloading SCR XML"},
+{1284,32, "Erasing SCR XML"},
+{1285,255, "Iespējot laika prognozes atjauninājumus"},
+{1286,255, "Iespējot biržas atjauninājumus"},
+{1287,255, "Iespējot valūtas kursa atjauninājumus"},
+{1288,255, "Biržas kods"},
+{1289,255, "Valūtas kods"},
+{1290,255, "Izvēlēties līniju"},
+{1291,255, "Zvans"},
+{1292,32, "Savienot"},
+{1293,255, "Autoatbildētājs"},
+{1294,32, "Sadalīt"},
+{1295,255, "Atcelt visas pāradresācijas"},
+{1296,255, "Atcelt pāradresāciju, ja aizņemts"},
+{1297,255, "Atcelt pāradresāciju, ja neatbild"},
+{1298,32, "Zvanītāja ID atspējots"},
+{1299,32, "Zvanītāja ID iespējots"},
+{1300,255, "Open Internet"},
+{1301,255, "Full Cone NAT"},
+{1302,255, "Restricted Cone NAT"},
+{1303,255, "Port Restricted Cone NAT"},
+{1304,255, "Symmetric NAT"},
+{1305,255, "Symmetric UDP"},
+{1306,255, "UDP Blocked"},
+{1307,255, "Unknown NAT"},
+{1308,255, "TURN"},
+{1309,255, "UPnP"},
+{1310,255, "NAT-PMP"},
+{1311,255, "STUN"},
+{1312,255, "Self-Defined City Code"},
+{1313,255, "Authentication Method"},
+{1314,255, "Connection Request Port"},
+{1315,255, "G.726-32 Packing Mode"},
+{1316,255, "Enter alphanumeric"},
+{1317,255, "ASCII characters only"}, (Web, Basic Settings Page)
+{1318,255, "No white space please"}, (Web, Basic Settings Page)
+{1319,32, "EAP-MD5"}, (Web, Basic Settings Page)
+{1320,32, "Mode"}, (Web, Status Page)
+{1321,32, "802.1X"}, (Web, Status Page)
+{1322,32, "Balss pasts"}, (web, Advanced Settings Page)
+{1323,32, "Publisks"}, (Gui, Warning message for Download SCR XML)
+{1324,32, "Lietotājvārds"}, (Gui, Warning message for "Erase Custom SCR)
+{1325,32, "Parole"}, (Web, Basic Setting Page)
+{1326,32, "Nepieciešams ievadīt lietotājvārdu"}, (Web, Basic Setting Page)
+{1327,32, "Nepieciešams ievadīt paroli"}, (Web, Basic Setting Page)
+{1328,32, "Pieteikšanās..."}, (Web, Basic Setting Page)
+{1329,32, "Atteikšanās..."}, (Web, Basic Setting Page)
+{1330,32, "Noildze"},
+{1331,32, "Atteikšanās neizdevās"},
+{1332,32, "Pieteikšanās neizdevās"},
+{1333,32, "Nav sasniedzams serveris"},
+{1334,32, "Ielādē informāciju..."},
+{1335,32, "Saglabā konta informāciju..."},
+{1336,255, "Enter a valid IPv4 address"},
+{1337,32, "Nav ierakstu"},
+{1338,255, "Support Hotline"}, (LCD, indication msg when you use *xx to disable CallerID)
+{1339,255, "Some of the configuration changes will require reboot to take effect."}, (LCD, indication msg when you use *xx to enable CallerID)
+{1340,255, "Disable DHCP Option 248"}, (Web, Status Page)
+{1341,32, "Tīkla Statuss"}, (Web, Status Page)
+{1343,32, "TR-069 should be connected!"}, (Web, Status Page)
+{1344,32, "Wrong number"}, (Web, Status Page)
+{1345,32, "No answer"}, (Web, Status Page)
+{1346,32, "Line is busy"}, (Web, Status Page)
+{1347,32, "DNS 1"}, (Web, Status Page)
+{1348,32, "DNS 2"}, (Web, Status Page)
+{1349,32, "123"}, (Web, Status Page)
+{1350,32, "abc"}, (Web, Status Page)
+{1351,255, "Do not escape '#' as %23 in SIP URI"}, (Web, Status Page)
+{1352,32, "NotīrVisu"}, (Web, Status Page)
+{1353,255, "Dzēst visu zvanu vēsturi?"}, (Web, Advanced Settings Page)
+{1354,32, "Izvēlēties līniju zvana gaidīšanai"},
+{1355,255, "SIP URI Scheme when using TLS"},
+{1356,255, "(e.g., http://acs.mycompany.com, or IP address)"}, (Web, Account Pages)
+{1357,255, "Feature Key Synchronization"}, (Web, Validation for alphanumeric)
+{1358,255, "Reregister before Expiration"}, (Web, Validation for asciicharacters)
+{1359,255, "in seconds. Default 0 second"}, (Web, Validation for nowhitespace)
+{1360,32, "ConfCall"}, (Web, Basic Setting Page)
+{1361,32, "ReConf"},
+{1362,32, "Zvana Iespējas"},
+{1363,32, "Pāradr"}, (Softkey, softkey for voicemail)
+{1364,32, "Pāradresēt, ja aizņemts"}, (LCD, public mode menu title)
+{1365,32, "Pāradresēt, ja neatbild"}, (LCD, public mode username label)
+{1366,32, "Aizņemtības noildze"}, (LCD, public mode password label)
+{1367,32, "Konts is currently disabled."}, (LCD, public mode warning window)
+{1368,32, "Konts is not registered."}, (LCD, public mode warning window)
+{1369,32, "Atspējot"}, (LCD, public mode warning window)
+{1370,32, "Iespējot"}, (LCD, public mode warning window)
+{1371,32, "Nepieciešams ievadīt vērtību"}, (LCD, public mode warning window)
+{1372,32, "PārvZv"}, (LCD, public mode warning window)
+{1373,32, "Numurs uz kuru pāradresē zvanus"}, (LCD, public mode warning window)
+{1374,32, "Pāradresācijas veids"}, (LCD, public mode warning window)
+{1375,32, "Beznosacījuma pāradresācija"}, (LCD, public mode warning window)
+{1376,32, "Zvanu pāradresācija atlikta"}, (LCD, public mode warning window)
+{1377,255, "Use Actual Ephemeral Port in Contact with TCP/TLS"}, (Web, Validation for ipv4part)
+{1378,32, "Balss pasts"}, (LCD, Empty record page)
+{1379,32, "Iestatīt balss pasta UserID"}, (Web, customer support number, this is for Tianwei OEM model only)
+{1380,32, "Tastatūra bloķēta"}, (Web, update message)
+{1381,32, "IPv4"}, (Web, Advanced settings)
+{1382,32, "IPv6"}, (Gui, Menu)
+{1383,32, "Internet Protocol"}, (LCD, tr-069 warning window)
+{1384,32, "Prefer IPv4"}, (LCD, ChinaTelecom OEM Display Strings upon receiving 404)
+{1385,32, "Prefer IPv6"}, (LCD, ChinaTelecom OEM Display Strings upon receiving 408)
+{1386,255, "Allow DHCP Option120 to override SIP server"}, (LCD, ChinaTelecom OEM Display Strings upon receiving 486)
+{1387,255, "Enter a valid IPv4/IPv6 address"}, (LCD, Status, Netowrk Status)
+{1388,32, "CONNECTED"}, (LCD, Status, Netowrk Status)
+{1389,32, "Atjaunot rūpnīcas iestatījumus?"}, (LCD, public mode softkey label)
+{1390,32, "You will lose all your configuration settings and data. Confirm to continue?"}, (LCD, public mode softkey label)
+{1391,32, "TR-069 Timeout"}, ( Web, advanced setting )
+{1392,32, "Tīkla kļūda"}, (LCD, call history page)
+{1393,32, "Lai veiktu izmaiņas nepieciešams pārlādēt aparātu. Vai vēlaties veikt to tagad?"}, (LCD, clearall call history page)
+{1394,32, "Ielādē..."}, (LCD, N-way conference add)
+{1395,32, "Starting DHCP..."}, (Web, Account setting page)
+{1396,32, "Starting DHCP...done"}, ( Web, advanced setting )
+{1397,32, "Ielādē lietotāja datus..."}, ( Web, advanced setting )
+{1398,32, "Ielādē lietotāja datus... pabeigts"}, (Web, Account setting page)
+{1399,32, "Loading application..."}, (Web, Account setting page)
+{1400,32, "Starting PPPoE..."}, (Softkey, after conference hold)
+{1401,32, "Starting PPPoE...done"}, (Softkey, after call made for conference)
+{1402,32, "Setting static IP"}, (LCD MENU, Call features)
+{1403,32, "PPPoE: Connecting"}, (LCD MENU, Call features)
+{1404,32, "PPPoE: Authenticating"}, (LCD MENU, Call features)
+{1405,32, "PPPoE: Get Address"}, (LCD MENU, Call features)
+{1406,32, "PPPoE: Connected"}, (LCD MENU, Call features)
+{1407,32, "PPPoE: Auth. Failed"}, (LCD MENU, Call features warning msg)
+{1408,32, "Firmware Recovery"}, (LCD MENU, Call features warning msg)
+{1409,32, "Programmaparatūras atjaunināšana"}, (Softkey, Call features)
+{1410,32, "Atjaunināšana"}, (Softkey, Call features)
+{1411,32, "Lejupielādēt zvana signālus"}, (LCD MENU, Call features warning msg)
+{1412,32, "Atgūšana nav veikt"},
+{1413,32, "Atsāknēšana"},
+{1414,32, "Lejupielāde"},
+{1415,32, "ATVIENOTS"},
+{1416,255, "Parolei jāsastāda vismaz 6 simbolus"},
+{1417,255, "802.1Q/VLAN Tag needs to be greater than 0"}, (Web, Account setting page)
+{1418,255, "Value between [0] and [1]"}, (LCD MENU, Voicemails)
+{1419,255, "Nav autentifikācijas"}, (LCD MENU, Voicemails warning msg)
+{1420,255, "Basic"}, (LCD, gxp1400 keypad lock)
+{1421,255, "Digest"}, (LCD, DirectIP screen, Softkey)
+{1422,255, "Nepareiza iepriekšējā parole"}, (LCD, DirectIP screen, Softkey)
+{1423,255, "Jitter Buffer Type"}, (Web, Basic setting page)
+{1424,255, "Fiksēts"}, (Web, Basic setting page)
+{1425,255, "Adaptīvs"}, (Web, Basic setting page)
+{1426,255, "Jitter Buffer Length"}, (Web, basic setting page)
+{1427,255, "Value is required"}, (Web, Validation for ipv4ipv6)
+{1428,255, "Nevar izdzēst / rediģēt fiksētu grupu"}, (LCD MENU, Status)
+{1429,255, "Par daudz grupas!"}, (LCD, Menu factory reset)
+{1430,255, "Grupa"}, (LCD, Menu factory reset level2)
+{1431,255, "Nevar pievienot grupai"}, (LCD Warning Screen, msg on warning bar when TR-069 connection get timeout)
+{1432,255, "Nederīgs grupas nosaukums"}, (LCD Warning Screen, msg on warning bar when network connect has problem)
+{1433,255, "Meklēšanas rezultāti"}, (LCD, Menu to reboot after configuration change)
+{1434,255, "Grupas"}, (LCD, System Bootup message)
+{1435,255, "Grupa jau eksistē!"}, (LCD, System Bootup message)
+{1436,255, "Ģimene"}, (LCD, System Bootup message)
+{1437,255, "Draugi"}, (LCD, System Bootup message)
+{1438,255, "Darbs"}, (LCD, System Bootup message)
+{1439,32, "Tag must be between 0 and 4095"}, (LCD, System Bootup message)
+{1440,32, "Priority must be 0-7"}, (LCD, System Bootup message)
+{1441,32, "Tag must be non zero first"}, (LCD, System Bootup message)
+{1442,255, "Vārds"}, (LCD, System Bootup message)
+{1443,255, "Uzvārds"}, (LCD, System Bootup message)
+{1444,255, "Tālruņa numurs"}, (LCD, System Bootup message)
+{1445,255, "Nav ieraksta"}, (LCD, System Bootup message)
+{1446,255, "Ieraksts nav atrasts"}, (LCD, System Bootup message)
+{1447,255, "Eksportēt kontaktu grāmatu XML"}, (LCD, System Bootup message)
+{1448,255, "Importēt kontaktu grāmatu XML"},
+{1449,255, "Importēt kontaktu grāmatu"},
+{1450,255, "Augšupielādē..."},
+{1451,255, "Augšuplāde"},
+{1452,255, "Lūdzu uzgaidiet..."},
+{1453,255, "Lūdzu uzgaidiet..."},
+{1454,255, "Augšupielāde neizdevās"},
+{1455,255, "Zvana"}, (LCD MENU, TR069 Status)
+{1456,255, "Lūdzu uzgaidiet..."}, (Web, Password validation message)
+{1457,255, "Zvana [0]..."}, (Web, 802.1 condition validatoin)
+{1458,255, "SUCCESS"}, (Web, Range value validation)
+{1459,255, "NEIZDEVĀS"}, (Web, Advanced settings: Authentication Method)
+{1460,255, "Nākamais"}, (Web, Advanced settings: Authentication Method)
+{1461,255, "Iepriekšējais"}, (Web, Advanced settings: Authentication Method)
+{1462,255, "Kontakti"}, (LCD MENU, TR-069:Change Password:Old password, error message when user input wrong old password)
+{1463,255, "KONTAKTU GRĀMATA"}, (Web, Account page, for define jitter buffer type)
+{1464,255, "Meklēt kontaktu grāmatā"}, (Web, Account page, Fixed jitter buffer type)
+{1465,32, "Processing web update"}, (Web, Account page, Adaptive jitter buffer type)
+{1466,255, "Konts"}, (Web, Account page, for define jitter buffer length)
+{1467,255, "Groups"}, (Web, required field validation)
+{1468,255, "Saglabāt"}, (LCD, Warning message for trying to delete a permanent group)
+{1469,255, "Dzēst"}, (LCD, Warning message for trying to add more than maximum groups)
+{1470,255, "Rediģēt kontaktu"}, (MENU LCD)
+{1471,255, "Pievienot kontaktu"}, (LCD, Warning message for joining non existent group)
+{1472,255, "Pievienot jaunu kontaktu"}, (LCD, Warning message for invalid group names)
+{1473,255, "Nosūta pieprasījumu"}, (LCD, Phonebook search result page title)
+{1474,255, "Pieprasījums saņemts"}, (MENU LCD, Title for Menu Groups Page)
+{1475,255, "Procesā"}, (LCD, Warning message for duplicate Groups)
+{1476,255, "Pabeigts"}, (LCD, Permanent Group Name)
+{1477,255, "Noildze"}, (LCD, Permanent Group Name)
+{1478,255, "Izvēlētais web ieraksts nav saglabāts sistēmā"}, (LCD, Permanent Group Name)
+{1479,255, "Web ieraksts sistēmā nav atrasts"}, (LCD, Warning message for invalid 802.1 tag)
+{1480,255, "Kontaktu grāmatai jaunu ierakstu pievienot nav iespējams, trūkst brīva vieta"}, (LCD, Warning message for invalid 802.1 priority)
+{1481,255, "Neapstrādātu ierakstu kļūda"}, (LCD, Warning message for 802.1 priority without tag)
+{1482,255, "Dotais ieraksts ir nederīgs, apstrāde neizdevās"}, (Web, Phonebook List - Column Name)
+{1483,255, "Kontaktu grāmata nav pieejama"}, (Web, Phonebook List - Column Name)
+{1484,255, "All Groups"}, (Web, Phonebook List - Column Name)
+{1485,255, "Ievadiet tikai ciparus"}, (Web, Phonebook List - Message)
+{1486,32, "Rediģēt un zvanīt"}, (Web, Phonebook List - Message)
+{1487,255, "Call History Flash Writing"}, (Web, Phonebook Page - Links)
+{1488,255, "0 means this option is disabled"}, (Web, Phonebook Page - Links)
+{1489,255, "Rakstīšanas noildze"}, (Web, Phonebook Page - Import Modal)
+{1490,32, "Konferences zvans"}, (Web, Phonebook Page - Import Modal)
+{1491,32, "enable FLASH key as CONF:"}, (Web, Phonebook Page - Import Modal)
+{1492,255, "Max Unsaved Log"}, (Web, Phonebook Page - Import Modal)
+{1493,32, "Tastatūras diagnostika"}, (Web, Phonebook Page - Import Modal)
+{1494,32, "Press all available keys..."}, (Web, Phonebook Page - Import Modal)
+{1495,32, "DONE. Press HOOK to exit..."}, (Web, Phonebook Page - Calling Modal)
+{1496,32, "Date Display Format"}, (Web, Phonebook Page - Calling Modal)
+{1497,32, "yyyy-mm-dd"}, (Web, Phonebook Page - Calling Modal)
+{1498,32, "dd-mm-yyyy"}, (Web, Phonebook Page - Calling Modal)
+{1499,32, "dd-mm-yyyy"}, (Web, Phonebook Page - Calling Modal)
+{1500,32, "dddd, MMMM dd"}, (Web, Phonebook List - Paging)
+{1501,32, "MMMM dd, dddd"}, (Web, Phonebook List - Paging)
+{1502,32, "$M$D, $W"}, (Web, Navigation Menu - TOP)
+{1503,32, "$Y-$o-$B"}, (Web, Navigation Menu - SUB)
+{1504,32, "$o-$B-$Y"}, (Web, Phonebook search input watermark)
+{1505,32, "$B-$o-$Y"}, (LCD, Warning Message: System Update)
+{1506,255, "(some options might not fit for the screen layout) "}, (Web, Contact Editor)
+{1507,255, "Copyright"}, (Web, Contact Editor)
+{1508,32, "ResumeApp"}, (Web, Editor Options)
+{1509,32, "Beigt"}, (Web, Editor Options)
+{1510,32, "Vēlaties beigt?"}, (Web, Contact Editor)
+{1511,255, "Empty core dump files"}, (Web, Contact Editor)
+{1512,32, "Iespējot automātisku atgūšana"}, (Web, Phonebook Page - Links)
+{1513,255, "Auto recover from abnormal"}, (Web, Phonebook Page - Process Result)
+{1514,32, "%s"}, (Web, Phonebook Page - Process Result)
+{1515,32, "%s Zvana"}, (Web, Phonebook Page - Process Result)
+{1516,32, "Zvanīt %s"}, (Web, Phonebook Page - Process Result)
+{1517,32, "%s Zvana"}, (Web, Phonebook Page - Process Result)
+{1518,32, "Zvans %s"}, (Web, Phonebook Page - Process Result)
+{1519,32, "Turēt %s"}, (Web, Phonebook Page - Process Result)
+{1520,32, "Savienojums %s neizdevās"}, (Web, Phonebook Page - Process Result)
+{1521,32, "Savienot ar %s"}, (Web, Phonebook Page - Process Result)
+{1522,32, "Lūdzu uzgaidiet..."}, (Web, Phonebook Page - Process Result)
+{1523,32, "Konferences zvans"}, (Web, Phonebook Page - Process Result)
+{1524,32, "Remote Party"}, (Web, Phonebook Page - Group Selector)
+{1525,32, "Dial number OR select attended line"}, (Web, Validation for digitonly)
+{1526,32, "Savieno zvanu"}, (LCD, call history entry and phonebook entry)
+{1527,32, "Invalid IP Address"}, (Web, call history saving parameter)
+{1528,32, "%s Paging"}, (Web, call history saving parameter)
+{1529,32, "Atspējot zvanu gaidīšanu"}, (Web, call history saving parameter)
+{1530,32, "Iespējot zvanu gaidīšanu"},
+{1531,255, "Lejupielādēt konfigurāciju"},
+{1532,255, "Lejupielādēt"}, (Web, call history saving parameter)
+{1533,255, "Apstiprināt paroli"},
+{1534,255, "Neatbilstoša parole"},
+{1535,32, "Kontaktu grāmatā nav brīvas vietas"},
+{1536,255, "Zvanam izmantot skaļruni"},
+{1537,32, "%s °F"},
+{1538,32, "%s °C"},
+{1539,22, "Jauns IM(s) "},
+{1540,18, "ĀTRAIS ZVANS 19"},
+{1541,18, "ĀTRAIS ZVANS 20"},
+{1542,18, "ĀTRAIS ZVANS 21"}, (Date time format. Do not translate. Rearrange only.)
+{1543,18, "ĀTRAIS ZVANS 22"}, (Date time format. Do not translate. Rearrange only.)
+{1544,18, "ĀTRAIS ZVANS 23"}, (Date time format. Do not translate. Rearrange only.)
+{1545,18, "ĀTRAIS ZVANS 24"}, (Date time format. Do not translate. Rearrange only.)
+{1546,18, "Līnija7"},
+{1547,18, "Līnija8"}, (Web, copyright statement)
+{1548,255, "Handset TX gain (dB)"}, (Softkey, Resume Application)
+{1549,32, "Pāradresētie zvani"}, (LCD, MenuTitle- Exit XML App)
+{1550,32, "Pāradresēt zvanu"}, (LCD, MenuBody- Exit XML App)
+{1551,32, "Līnija%s"}, (Web, function to empty core dump files)
+{1552,32, "Pāradresēt"}, (LCD, auto recover message)
+{1553,32, "ĀTRAIS ZVANS %s"}, (Web, auto recover option)
+{1554,32, "Konts %s"}, (LCD, CallStatus String: EMPTY INPUT %s as simply display status)
+{1555,32, "Konts %s"}, (LCD, CallStatus String: DIALING %s as Account)
+{1556,32, "Daudzfunkcionālais taustiņš %s"}, (LCD, CallStatus String: RINGING %s as calling number)
+{1557,32, "izvēle %s"}, (LCD, CallStatus String: CALLING %s as calling number)
+{1558,32, "EXT Key %s"}, (LCD, CallStatus String: CONNECTED %s as calling number)
+{1559,32, "IZVĒLES TAUSTIŅŠ %s"}, (LCD, CallStatus String: ONHOLD %s as calling number)
+{1560,32, "EXT %s"}, (LCD, CallStatus String: FAILED %s as calling number)
+{1561,32, "lietotāja zvana tonis %s"}, (LCD, CallStatus String: TRANSFER %s as calling number)
+{1562,32, "CallPark"}, (LCD, Callscreen waiting msg)
+{1563,32, "Domofons"}, (LCD, Callscreen Conference call)
+{1564,255, "IPv4 Address"}, (LCD, Callscreen strings)
+{1565,255, "IPv6 Address"}, (LCD, Callscreen strings)
+{1566,32, "Turēt"}, (LCD, Callscreen strings)
+{1567,32, "Atgūt"}, (LCD, Direct IP Call strings)
+{1568,32, "Balss pasts"}, (LCD, CallStatus String: PAGING %s as calling number)
+{1569,32, "Servera adrese"}, (LCD, call feature, *50)
+{1570,32, "Ports"}, (LCD, call feature, *51)
+{1571,32, "Base"}, (Web, Download Device Configuration title/Advanced Settings Page)
+{1572,32, "Lietotājvārds"}, (Web, Download Device Configuration button/Advanced Settings Page)
+{1573,32, "Parole"}, (Web, confirm password label)
+{1574,32, "LDAP Number Filter"}, (Web, confirm password error)
+{1575,32, "LDAP Name Filter"}, (LCD, Add new entry)
+{1576,255, "LDAP Version"}, (Web, Always ring speaker option)
+{1577,32, "LDAP Name Attributes"}, (LCD, F Degree format)
+{1578,32, "LDAP Number Attributes"}, (LCD, C Degree format)
+{1579,32, "LDAP Display Name"}, (LCD, New Instant Messages)
+{1580,32, "Max. Hits"}, (LCD, Speed dial keys)
+{1581,32, "Meklēšanas noildze"}, (LCD, Speed dial keys)
+{1582,32, "Kārtot pēc..."}, (LCD, Speed dial keys)
+{1583,255, "LDAP Lookup"}, (LCD, Speed dial keys)
+{1584,255, "Ienākošie zvani"}, (LCD, Speed dial keys)
+{1585,32, "Skatīt kontaktu"}, (LCD, Speed dial keys)
+{1586,255, "Izmantot skaļruni"}, (LCD, Line Key)
+{1587,255, "Automātiskie uzstādījumi"}, (LCD, Line Key)
+{1588,255, "Manuālie uzstādījumi"}, (Web, basic config page)
+{1589,255, "Full Static"}, (Softkey, Softkey for Forwaded CallLog)
+{1590,255, "Prefix Static"}, (LCD Menu, forward call in preference)
+{1591,255, "Static IPv6 Address"}, (LCD Screen, display name of the LINE, %s as line number)
+{1592,255, "IPv6 Prefix (64 bits)"},
+{1593,255, "IPv6 Prefix length"},
+{1594,255, "Proxy"},
+{1595,255, "(0-32000, 0 means all)"},
+{1596,255, "LDAP Search"},
+{1597,32, "LDAP Directory Search"},
+{1598,32, "Filtrs"},
+{1599,32, "All"},
+{1600,32, "Vārdi"},
+{1601,32, "Numuri"},
+{1603,255, "Offhook timeout"},
+{1604,255, "(10-60 in seconds, default 30 seconds)"},
+{1605,255, "LDAP"},
+{1606,255, "Izejošie zvani"},
+{1607,255, "Versija 2"}, (LCD, Softkey Call Hold)
+{1608,255, "Versija 3"}, (LCD, Softkey Call Unhold)
+{1609,255, "(0-180, in seconds)"},
+{1610,32, "Sakārtots"},
+{1611,32, "Unsorted"},
+{1612,32, "Konts is shared line."},
+{1613,255, "Austiņu tips"},
+{1614,255, "Normāls"},
+{1615,255, "Plantronics EHS"},
+{1616,255, "Match Incoming Caller ID"},
+{1617,255, "Matching Rules"}, (WEB, Advanced setting page, LDAP related setting)
+{1618,255, "Distinctive Ringtones"},
+{1619,32, "LDAP Searching..."},
+{1620,32, "Meklēšana pabeigta"},
+{1621,32, "Nav atrasts"},
+{1622,32, "Nederīgi parametri"}, (WEB, Advanced setting page, LDAP related setting)
+{1623,32, "Meklēšana neizdevās"},
+{1624,255, "Allow only A-Z, a-z, and 0-9"}, (WEB, Advanced setting page, LDAP related setting)
+{1625,32, "Telefons"}, (WEB, Advanced setting page, LDAP related setting)
+{1626,32, "Apraksts"},
+{1627,32, "Meklēšanas noildze"}, (WEB, comment for possible one way audio when configure)
+{1628,32, "Atspējot Telnet"}, (web, basic setting page, IPv6 selection)
+{1629,255, "In-call dial number on pressing transfer key"}, (web, basic setting page, IPv6 selection)
+{1630,255, "The WebGUI has been locked out for 15 minutes."}, (web, basic setting page, IPv6 Static selection)
+{1631,255, "Use phonebook key for LDAP search"}, (web, basic setting page, IPv6 Static selection)
+{1632,32, "Atslēgts"}, (web, basic setting page, IPv6 full Static IP address)
+{1633,32, "SN duplicated"}, (web, basic setting page, IPv6 IP Prefix)
+{1634,32, "Par daudz nepareizu mēģinājumu"}, (web, basic setting page, IPv6 IP Prefix length)
+{1635,32, "Ārkārtas zvans"}, (web, basic setting page, HTTP and HTTPS Proxy)
+{1636,32, "ĀRKĀRTAS ZVANS"}, (web, advanced setting page, Max Hits. for LDAP)
+{1637,255, "Secondary Outbound Proxy"}, (WEB, MPK function)
+{1638,32, "Advice of Charge"}, (LCD, LDAP Directory Search Title)
+{1639,255, "Lookup Display Name"}, (Softkey, Search Filter)
+{1640,255, "CPE SSL Certificate"}, (LCD, LDAP search filter option)
+{1641,255, "CPE SSL Private Key"}, (LCD, LDAP search filter option)
+{1642,255, "Tālrunis"}, (LCD, LDAP search filter option)
+{1643,255, "Veiktais zvans"}, (WEB, advanced setting page)
+{1644,255, "Pirmais iespējamais"}, (WEB, advanced setting page)
+{1645,255, "Zvanīt"}, (softkey, displayed on idle/call screen when LDAP is configured)
+{1646,255, "Jūsu sesijas laiks beigsies pēc 1 min."}, (WEB, Advanced setting page, LDAP related setting)
+{1647,255, "Click &quot;OK&quot; to extend your online session or click &quot;Log Off&quot; to end the session immediately."}, (WEB, Advanced setting page, LDAP related setting)
+{1648,255, "OK"}, (WEB, Advanced setting page, LDAP related setting)
+{1649,255, "Attiekties"}, (WEB, Advanced setting page, LDAP related setting)
+{1650,32, "Rediģēt/Zvanīt"}, (LCD, LDAP search result option)
+{1651, 40, "Austiņas"}, (LCD, LDAP search result option)
+{1652,32, "Aģents"}, (LCD, Call feature error)
+{1653,255, "Publiskot zvanu centrā"}, (WEB, Advanced setting, EHS headset setting)
+{1654,255, "Tiešsaistē"}, (WEB, Advanced setting, EHS headset setting)
+{1655,255, "Aizņemts"}, (WEB, Advanced setting, EHS headset setting)
+{1656,255, "Bezsaistē"}, (WEB, Account setting, Ringtone setting)
+{1657,255, "Publish Mode"}, (WEB, Account setting, Ringtone setting)
+{1658,255, "On The Phone"}, (WEB, Account setting, Ringtone setting)
+{1659,255, "Away"}, (Menu, LDAP search status warning window)
+{1660,255, "Datne jau eksistē."}, (Menu, LDAP search status warning window)
+{1661,255, "OpenVPN Enable"}, (Menu, LDAP search status warning window)
+{1662,255, "OpenVPN Server Address"}, (Menu, LDAP search status warning window)
+{1663,255, "OpenVPN Server Port"}, (Menu, LDAP search status warning window)
+{1664,255, "OpenVPN CA"}, (WEB, Validation, valid password)
+{1665,255, "OpenVPN Certificate"}, (LDAP detail)
+{1666,255, "OpenVPN Client Key"}, (LDAP detail)
+{1667,255, "File successfully deleted"}, (Menu, LDAP search status warning window)
+{1668,255, "Error deleting file"}, (WEB, Advanced setting page, Telnet)
+{1669,255, "OpenVPN IP"}, (WEB, advanced page)
+{1670,255, "Caller ID Display"}, (WEB, login attempts)
+{1671,255, "From Header"}, (WEB, advnaced page)
+{1674,255, "Parole"}, (LCD, TR-069 Warning window)
+{1675,255, "CA Certificate"}, (LCD, TR-069 Warning window)
+{1676,255, "Client Certificate"}, (LCD, TR-069 Warning window)
+{1677,255, ".pem file"}, (Softkey, Public mode emergency call)
+{1678,255, "with both certificate and private key"}, (Account name, Public mode emergency call)
+{1679,255, "Pārbaudīt atjauninājumus katru dienu"}, (WEB, Account)
+{1680,255, "Pārbaudīt atjauninājumus katru nedēļu"}, (LCD, Call Screen String)
+{1681,255, "Stundas(0-23)"}, (WEB, LDAP)
+{1682,255, "Dienas(0-6)"}, (WEB, Advanced setting)
+{1683,32, "EAP-TLS"}, (WEB, Advanced setting)
+{1684,32, "EAP-PEAPv0/MSCHAPv2"}, (WEB, PHONE, Title)
+{1685,32, "Datne eksistē"}, (WEB, PHONE, Label)
+{1686,32, "Datne neeksistē, skatīt WebUI"}, (WEB, PHONE, Option Label)
+{1687,32, "Mirrored"}, (WEB, PHONE, Button)
+{1688,32, "Zvanu centrs"}, (WEB, Session Timeout)
+{1689,255, "Disposition Code"}, (WEB, Session Timeout)
+{1690,255, "Emergency Escalation"}, (WEB, Session Timeout, button OK)
+{1691,255, "Customer Originated Trace"}, (WEB, Session Timeout, button Log Off)
+{1692,255, "Call Information"}, (Menu Softkey, call log entry page)
+{1693,255, "Gaidīšanas laiks"}, (Headset Softkey)
+{1694,255, "Lietotājvārds"}, (Call Center Publish Mode, LCD, softkey label)
+{1695,255, "Zvanu centra nosaukums"}, (Call Center Publish Mode, LCD , web)
+{1696,255, "Zvanu rinda"}, (Call Center Publish Mode, LCD)
+{1697,255, "Ilgākais gaidīšanas laiks"}, (Call Center Publish Mode, LCD)
+{1698,32, "Vārds"}, (Call Center Publish Mode, LCD)
+{1699,255, "Noklusējuma"}, (Call Center Publish Mode, LCD)
+{1700,255, "Use Privacy Header"}, (Call Center Publish Mode, LCD)
+{1701,255, "Use P-Preferred-Identity Header"}, (Call Center Publish Mode, LCD)
+{1702,255, "Hoteling Event"}, (WEB, OPENVPN)
+{1703,255, "BS-CCenter"}, (WEB, OPENVPN)
+{1704,255, "Pieteicies"}, (WEB, OPENVPN)
+{1705,255, "Attiecies"}, (WEB, OPENVPN)
+{1706,255, "GuestAddress"}, (WEB, OPENVPN)
+{1707,255, "Call Center Hoteling Feature"}, (WEB, OPENVPN)
+{1708,255, "Call Center Guest Login"}, (WEB, OPENVPN)
+{1709,255, "BS Call Center"}, (WEB, OPENVPN)
+{1710,255, "Call Center Status"}, (WEB, OPENVPN)
+{1711,255, "Aģenta statuss"}, (WEB, OPENVPN)
+{1712,255, "Pieteikties"}, (WEB, Caller ID)
+{1713,255, "Atteikties"}, (WEB, Caller ID)
+{1714,255, "Nav pieejams"}, (WEB, 802.1x)
+{1715,255, "Pieejams"}, (WEB, 802.1x)
+{1716,255, "Wrap-Up"}, (WEB, 802.1x)
+{1717,255, "Zvanu centra aģenta statuss"}, (WEB, 802.1x)
+{1718,32, "Aizturētie zvani"}, (WEB, 802.1x)
+{1719,32, "Aizturētie zvani"}, (WEB, auto provision)
+{1720,255, "GMT-05:00 (Eastern Time without daylight saving)"}, (WEB, auto provision)
+{1721,255, "When this item is enabled, Feature Key Synchronization will be enabled regardless of web settings."}, (WEB, auto provision)
+{1722,255, "Call Center Agent Feature"}, (WEB, auto provision)
+{1723,255, "Nomainīt aģenta statusu"}, (Web, Basic Setting Page)
+{1724,255, "only one g729 is allowed in Conf"}, (Web, Basic Setting Page)
+{1725,255, "Call-Waiting Tone Gain"}, (Web, Basic Setting Page)
+{1726,255, "SIP Date Header Priority"}, (Web, Basic Setting Page)
+{1727,255, "NTP First"}, (Web, Basic Setting Page, PC Port)
+{1728,255, "Date Header First"}, (SOFTKEY, BS call center)
+{1729,255, "Zems"}, (LCD, call center MENU option)
+{1730,255, "Vidējs"}, (LCD, call center MENU option)
+{1731,255, "Augsts"}, (LCD, call center MENU option)
+{1732,255, "DND Call Feature On"}, (LCD, call center MENU option )
+{1733,255, "DND call Feature Off"}, (LCD, call center call info )
+{1734,255, "Date Header Konts"}, (LCD, call center call info )
+{1735,255, "pieteicies"}, (LCD, call center call info )
+{1736,255, "atteicies"}, (LCD, call center call info )
+{1737,255, "Nav jaunākas programmaparatūras"}, (LCD, call center call info )
+{1738,255, "Pārbaudīt atjauninājumus"}, (LCD, LDAP result detail)
+{1739,255, "Pārbaudīt atjauninājumus fonā"}, (WEB, account setting)
+{1740,255, "Authenticate Incoming INVITE"}, (WEB, account setting)
+{1741,255, "Accept Incoming SIP from Proxy Only"}, (WEB, account setting)
+{1742,255, "Kods nav pieejams"}, (LCD, Web, call center MENU option)
+{1743,255, "Use First Matching Vocoder in 200OK SDP"}, (LCD, Web, call center MENU option)
+{1744,32, "Klusums"}, (LCD, call center MENU option)
+{1745,255, "Barošanas avots"}, (LCD, call center MENU option)
+{1746,255, "PSU"}, (LCD, call center MENU option)
+{1747,255, "PoE"}, (LCD, call center MENU option)
+{1748,255, "Star Key Lock"}, (LCD, call center MENU option)
+{1749,255, "Iespējot/Atspējot"}, (LCD, Web, call center MENU option)
+{1750,255, "Iestatīt klusumu kā DND"}, (LCD, Web, call center MENU option)
+{1751,255, "Atjaunināšanas ziņojums"}, (LCD, Web, call center MENU option)
+{1752,255, "Ir pieejama jaunākā programmaparatūra."}, (LCD, Web, call center MENU option)
+{1753,255, "Vai atjaunināt tagad?"}, (LCD, Web, call center MENU option)
+{1754,255, "Phone will start to download new phonebook XML file."}, (LCD, Web, call center MENU option)
+{1755,32, "Jauns"}, (LCD, Web, call center MENU option)
+{1756,32, "Dzēst visu"}, (LCD, Web, call center MENU option)
+{1757,32, "Kopliet.Telefongrāmata"}, (LCD, call center MENU option)
+{1758,32, "Kontaktu grāmata"}, (SOFTKEY)
+{1759,32, "Local Group"}, (LCD, Menu Title)
+{1760,32, "Pārlikt"}, (Web, config2 page)
+{1761,32, "Dzēst visu"}, (Web, call center, account page)
+{1762,255, "Broadsoft Phonebook List"},
+{1763,255, "Group ID"},
+{1764,255, "Department"}, (LCD, warning window on pressing conf key)
+{1765,255, "Broadsoft Call Log"}, (WEB, Advanced Setting page)
+{1766,255, "Broadsoft Call Log List"}, (WEB, Advanced Setting page)
+{1767,255, "Broadsoft Call Log Entry"}, (WEB, Advanced Setting page)
+{1768,255, "Broadsoft Phonebook Entry"}, (WEB, Advanced Setting page)
+{1769,255, "Broadsoft Xsi Failed"}, (WEB, Advanced Setting page)
+{1770,255, "Broadsoft Search"}, (WEB, Advanced Setting page)
+{1771,255, "Notiek dzēšana"}, (WEB, Advanced Setting page)
+{1772,255, "Neviens"}, (WEB, Account Setting page)
+{1773,255, "Sūtīt"}, (WEB, Account Setting page)
+{1774,255, "Saturs"}, (WEB, Advanced Setting page)
+{1775,255, "Jauna ziņa"}, (LCD, call center MENU option)
+{1776,255, "Iesūtne"}, (LCD, call center MENU option)
+{1777,255, "Nosūtīts"}, (LCD, TR069 no new firmware warning message)
+{1778,255, "Nosūtīšana neizdevās"}, (LCD, TR069 MENU option)
+{1779,32, "Genesys"}, (LCD, TR069 MENU warning message)
+{1780,255, "Genesys Login Status"}, (WEB, Account Setting page)
+{1781,255, "Genesys Login"}, (WEB, Account Setting page)
+{1782,255, "Genesys Logout"}, (LCD, BS Call Center Menu)
+{1783,255, "Atteikties?"}, (WEB, Account Setting page)
+{1784,32, "Atbildēt"}, (Softkey, call screen on gxp1160)
+{1785,255, "Unlock attempt remaining: %s"}, (LCD, Status Menu)
+{1786,255, "Unable to unlock for %s min."}, (LCD, Status Menu)
+{1787,255, "Mēģiniet vēlāk"}, (LCD, Status Menu)
+{1788,255, "UCM Connection"}, (LCD, Preference Menu)
+{1789,255, "UCM Server List"}, (LCD, star key lock in Preference Menu)
+{1790,255, "Input Server IP Manually"}, (WEB, Advanced Setting page)
+{1791,255, "Searching..."}, (LCD, firmware upgrading window when receiving request from system side)
+{1792,32, "Ieraksts ieslēgts"}, (LCD, firmware upgrading window when receiving request from system side)
+{1793,32, "Ieraksts izslēgts"}, (LCD, firmware upgrading window when receiving request from system side)
+{1794,32, "CallPark"}, (LCD, phonebook download confirm Menu)
+{1795,255, "Lietotāju saraksts"}, (LCD, Softkey)
+{1796,255, "Savienojas ar UCM serveri..."}, (LCD, Softkey)
+{1797,255, "Provision Req. Successful"}, (LCD, Menu)
+{1798,255, "Provision Req. Failed"}, (LCD, Menu)
+{1799,32, "Savienojas"}, (LCD, Menu)
+{1800,255, "Nederīga IP!"}, (LCD, Softkey)
+{1801,255, "Nederīgs ports!"}, (LCD, Softkey)
+{1802,255, "User-Konts Selection"}, (LCD, Broadsoft phonebook result window titile)
+{1803,32, "PIEŠĶIRT"}, (LCD, Broadsoft phonebook result)
+{1804,32, "MODIFY"}, (LCD, Broadsoft phonebook result)
+{1805,255, "Available Konts"}, (LCD, Broadsoft call log window titile)
+{1806,255, "Assign Confirmation"}, (LCD, Broadsoft call log result window titile)
+{1807,255, "Request UCM for new configuration (Current configuration will be overwritten)"}, (LCD, Broadsoft call log entry window titile)
+{1808,255, "Send Assignment"}, (LCD, Broadsoft phonebook rentry window titile)
+{1809,255, "office phone"}, (LCD, Broadsoft Xsi warning window)
+{1810,255, "call center phone"}, (LCD, Broadsoft phonebook search window titile)
+{1811,255, "Pieteikties/Atteikties"}, (LCD, Broadsoft call log warning window)
+{1812,255, "Iestatījumu atjaunināšana neizdevās"}, (LCD, Menu)
+{1813,255, "Piesakās"}, (LCD, Menu and soft key for IM)
+{1814,32, "Nav iestatīts numurs"}, (LCD, Menu for IM)
+{1815,64, "Select sort option"}, (LCD, Menu for IM)
+{1816,32, "Rediģēt"}, (LCD, Menu for IM)
+{1817,32, "Grupas nav pieejamas"}, (LCD, Menu for IM)
+{1818,64, "Nav atrasts kontaktu grāmatas ieraksts"}, (LCD, Menu for IM)
+{1819,32, "Laiks"}, (softkey, genesys)
+{1820,32, "Ilgums"}, (LCD, genesys menu)
+{1821,32, "Numurs"}, (LCD, genesys menu)
+{1822,255, "Tīkla uzstādījumi"}, (LCD, genesys menu)
+{1823,32, "Are you sure you want to reset Vlan configuration?"}, (LCD, genesys menu)
+{1824,32, "Abort. All Vlan configuration are already in its default values."}, (LCD, soft key for Instant message entry menu)
+{1825,32, "Reset vlan configuration to default values."}, (LCD, warning window for star keypad lock)
+{1826,32, "Konts Status"}, (LCD, warning window for star keypad lock)
+{1827,32, "Sistēmas informācija"}, (LCD, warning window for star keypad lock)
+{1828,32, "Vai vēlaties atsāknēt tagad?"}, (LCD, UCM connection menu)
+{1829,32, "Start Provision"}, (LCD, inside UCM connection menu)
+{1830,32, "Are you sure you want to start provision now?"}, (LCD, inside UCM connection menu)
+{1831,32, "Izvēlēties"}, (LCD, inside UCM connection menu)
+{1832,32, "Atzīmēt"}, (LCD, UCM call softkey)
+{1833,32, "Neatzīmēt"}, (LCD, UCM call softkey)
+{1834,32, "Dismiss"}, (LCD, UCM call softkey)
+{1835,32, "Submit"}, (LCD, inside UCM connection menu)
+{1836,32, "Vai vēlaties atjaunot rūpnīcas iestatījumus?"}, (LCD, warning window on connecting to ucm server)
+{1837,32, "LCD on/off"}, (LCD, inside UCM connection menu)
+{1838,32, "LCD Diagnosticēšana"}, (LCD, warning window on connecting to ucm server)
+{1839,32, "Signāli"}, (Softkey, UCM)
+{1840,32, "Izskats"}, (LCD, UCM Manual connect)
+{1841,32, "LCD Brightness"}, (LCD, UCM Manual connect)
+{1842,32, "Idle LCD Brightness"}, (LCD, UCM connection menu)
+{1843,32, "Hardware"}, (LCD, UCM connection softkey)
+{1844,32, "Bluetooth"}, (LCD, UCM connection softkey)
+{1845,32, "Operations"}, (LCD, UCM connection menu)
+{1846,32, "Sistēmas iestatījumi"}, (LCD, UCM connection menu)
+{1847,32, "Telefona iestatījumi"}, (LCD, UCM connection menu)
+{1848,32, "Static IP Settings"}, (LCD, UCM connection menu)
+{1849,32, "Atjaunojot rūpnīcas iestatījumus tiks dzēsti visi dati un iestatījumi."}, (LCD, UCM connection menu)
+{1850,32, "Meklēt vēlreiz"}, (LCD, UCM connection menu)
+{1851,32, "Savienot"}, (LCD, UCM connection menu)
+{1852,32, "Atvienot"}, (LCD, Pingan login warning windonw)
+{1853,32, "Atslēgt"}, (LCD, Pingan login warning windonw)
+{1854,32, "Barošana"}, (Dial softkey on Contact Detail)
+{1855,32, "Sākt meklēšanu"}, (Sort on phonebook)
+{1856,32, "Redzams"}, (Softkey on Group interface)
+{1857,32, "Ieslēgts"}, (Display when no default groups exist)
+{1858,32, "Izslēgts"}, (Display when no records or search is nothing)
+{1859,32, "Bluetooth Meklēšana"}, (Label in Call History)
+{1860,32, "Telefons"}, (Label in Call History)
+{1861,32, "Sistēma"}, (Label in Call History)
+{1862,32, "Ziņojumi"}, (LCD, network in main menu for avaya)
+{1863,32, "Konts, Network and System Information"}, (LCD, confirm Reset Vlan message)
+{1864,32, "SIP Configuration and Call Features"}, (LCD, abort vlan reset)
+{1865,32, "Connections, Provision Settings and Factory Functions"}, (LCD, reset vlan tip)
+{1866,32, "Zvanu vēsture"}, (LCD, Menu Page)
+{1867,32, "Local, LDAP and Broadsoft Phonebooks and Groups"}, (LCD, Menu Page)
+{1868,32, "Displeja un skaņas iestatījumi"}, (LCD, Reboot message)
+{1869,32, "Ziņapmaiņa un balss pasts"}, (LCD, Provision message)
+{1870,32, "Please use provided 5V power adapter."}, (LCD, Provision message)
+{1871,32, "Lejupielādē programmaparatūras datus"}, (LCD, Menu Softkey)
+{1872,32, "Apstiprina programmaparatūras datus"}, (LCD, Menu Softkey)
+{1873,32, "Provision is still running, please retry later."}, (LCD, Menu Softkey)
+{1874,32, "PreConf"}, (LCD, Menu Softkey)
+{1875,32, "Savienot"}, (LCD, Menu Softkey)
+{1876,32, "Saglabāt izmaiņas un atiestatīt ierīci"}, (LCD, Factory reset message)
+{1877,32, "Biežāk izmantotie"}, (LCD, Factory function page)
+{1878,32, "Disable Caller ID"}, (LCD, Factory function page)
+{1879,32, "Caller ID Disabled"}, (LCD, Preference page)
+{1880,32, "Enable Caller ID"}, (LCD, Preference page)
+{1881,32, "Caller ID Enabled"}, (LCD, Preference page)
+{1882,32, "Atspējot zvana gaidīšanu"}, (LCD, Preference page)
+{1883,32, "Zvana gaidīšana atspējota"}, (LCD, Status page)
+{1884,32, "Iespējot zvana gaidīšanu"}, (LCD, System page)
+{1885,32, "Zvana gaidīšana iespējota"}, (LCD, System page)
+{1886,32, "Call with Caller ID Blocked"}, (LCD, System page)
+{1887,32, "Caller ID has been blocked"}, (LCD, Phone page)
+{1888,32, "Call with Caller ID Enabled"}, (LCD, Network page)
+{1889,32, "Caller ID has been sent"}, (LCD, System page)
+{1890,32, "Call with Call Waiting Disabled"}, (LCD, Bluetooth softkey)
+{1891,32, "Call Waiting has been disabled"}, (LCD, Bluetooth softkey)
+{1892,32, "Call with Call Waiting Enabled"}, (LCD, Bluetooth softkey)
+{1893,32, "Call Waiting has been enabled"}, (LCD, Bluetooth softkey)
+{1894,32, "Set All Call Forward"}, (LCD, Bluetooth page)
+{1895,32, "Cancel All Call Forward"}, (LCD, Bluetooth page)
+{1896,32, "All Call Forward has been Cancelled"}, (LCD, Bluetooth page)
+{1897,32, "Set Busy Call Forward"}, (LCD, Bluetooth page)
+{1898,32, "Cancel Busy Call Forward"}, (LCD, Bluetooth page)
+{1899,32, "Busy Call Forward has been Cancelled"}, (LCD, Bluetooth page)
+{1900,32, "Set No Answer Call Forward"}, (LCD, Menu page)
+{1901,32, "Cancel No Answer Call Forward"}, (LCD, Menu page)
+{1902,32, "No Answer Call Forward has been Cancelled"}, (LCD, Menu page)
+{1903,32, "Dialing"}, (LCD, Menu page)
+{1904,32, "Paging"}, (LCD, Menu page)
+{1905,32, "Quick IP Dialing"}, (LCD, Menu page)
+{1906,32, "Overview"}, (LCD, Menu page)
+{1907,32, "Lines"}, (LCD, Menu page)
+{1908,32, "DTMF"}, (LCD, Menu page)
+{1909,32, "INFO"}, (LCD, Menu page)
+{1910,32, "CONF"}, (LCD, power popup )
+{1911,32, "STATUS"}, (LCD, Provision message)
+{1912,32, "BT On"}, (LCD, Provision message)
+{1913,32, "BT Off"}, (LCD, Provision message)
+{1914,32, "System Report"}, (Softkey, before call made for conference)
+{1915,255, "No Extension Available"}, (LCD, Bluetooth page)
+{1916,255, "Pick Extension Timeout"}, (LCD, Menu page)
+{1917,255, "Pick Extension Disabled"}, (LCD, Phonebook page)
+{1918,255, "Number Assigned Already"}, (CLCD, Call Features)
+{1919,255, "Number Not Existing"}, (CLCD, Call Features)
+{1920,255, "Konts out of Range"}, (CLCD, Call Features)
+{1921,255, "Assign Userlist Disabled"}, (CLCD, Call Features)
+{1922,255, "Level"}, (CLCD, Call Features)
+{1923,255, "Confirm Logout?"}, (CLCD, Call Features)
+{1924,255, "Public Mode Logout After"}, (CLCD, Call Features)
+{1925,255, "Invalid Expiration Time"}, (CLCD, Call Features)
+{1926,255, "Add to N-Way Call"}, (CLCD, Call Features)
+{1927,255, "Select a line to join the current N-Way Call"}, (CLCD, Call Features, NO NEED)
+{1928,255, "Are you sure you want to reload the current screen?"}, (CLCD, Call Features)
+{1929,255, "The change(s) has not yet been saved."}, (CLCD, Call Features, NO NEED)
+{1930,255, "You have reached the maximum allowed G729"}, (CLCD, Call Features)
+{1931,255, "Broadsoft Executive Assistant"}, (CLCD, Call Features, NO NEED)
+{1932,255, "BS-Exec"}, (CLCD, Call Features)
+{1933,255, "Executive Filtering"}, (CLCD, Call Features, NO NEED)
+{1934,255, "Executive-Assistant Divert"}, (CLCD, Call Features)
+{1935,255, "Executive-Assistant Divert Address"}, (CLCD, Call Features)
+{1936,255, "Executive-Assistant Filtering"}, (CLCD, Call Features)
+{1937,32, "Paired"}, (CLCD, Call Features)
+{1938,32, "Unpaired"}, (CLCD, Call Features)
+{1939,32, "Disconnected"}, (CLCD, Call Features)
+{1940,32, "Connected"}, (CLCD, Call Features)
+{1941,32, "Devices"}, (CLCD, Call Features)
+{1942,32, "Bluetooth Phonebook"}, (CLCD, Call Features)
+{1943,32, "Local Call Log"}, (CLCD, Call Screen)
+{1944,255, "parked at"}, (CLCD, Call Screen)
+{1945,32, "Paired devices"}, (CLCD, Call Screen)
+{1946,32, "Reading contact file"}, (CLCD, Call Screen Command Tag)
+{1947,32, "Lock"}, (CLCD, Call Screen Command Tag)
+{1948,32, "Unlock"}, (CLCD, Call Screen Tabs)
+{1949,32, "Locked"}, (CLCD, Call Screen Tabs - Information)
+{1950,32, "Unlocked"}, (CLCD, Call Screen Tabs - Conference)
+{1951,255, "Flexible Seating"}, (CLCD, Call Screen Tabs - Status)
+{1952,32, "Enter PIN"}, (Bluetooth softkey)
+{1953,255, "Nepareizs PIN kods."}, (Bluetooth softkey)
+{1954,255, "Swap"}, (CLCD, CSS crash message)
+{1955,255, "Auto Language Download"}, (LCD, warning window for UCM)
+{1956,255, "Server URL"}, (LCD, warning window for UCM)
+{1957,255, "Datne"}, (LCD, warning window for UCM)
+{1958,32, "Email"}, (LCD, warning window for UCM)
+{1959,32, "Iela"}, (LCD, warning window for UCM)
+{1960,32, "Pilsēta"}, (LCD, warning window for UCM)
+{1961,32, "Pasta indekss"}, (LCD, warning window for UCM)
+{1962,32, "Valsts"}, (LCD, preference volume menu )
+{1963,255, "Bluetooth atvienots"}, (LCD, Avaya auto login feature)
+{1964,255, "ExactMatch"},
+{1965,255, "QuickMatch"},
+{1966,255, "Vārds"}, (LCD, UC-One)
+{1967,255, "Extension"}, (LCD, UC-One)
+{1968,255, "Konferences zvana numurs"}, (LCD, UC-One)
+{1969,255, "Web URL"}, (LCD, UC-One)
+{1970,255, "Konferences zvana Pin"}, (LCD, UC-One)
+{1971,255, "Statuss"}, (LCD, UC-One)
+{1972,255, "Paslēpt"}, (LCD, UC-One)
+{1973,255, "Bluetooth statuss"}, (CLCD, Bluetooth Status)
+{1974,255, "Bluetooth iestatījumi"}, (CLCD, Bluetooth Status)
+{1975,255, "Bluetooth MAC"}, (CLCD, Bluetooth Status)
+{1976,255, "Broadsoft IM&P Client has been disconnected"}, (CLCD, UC-One)
+{1977,255, "Download all the new release files for this language ?"}, (CLCD, Language download message)
+{1978,255, "Download and go back to this version ?"}, (CLCD, Language download message)
+{1979,255, "Already have all these language files in local, download all again ?"}, (CLCD, Language download message)
+{1980,255, "Start to download this file ?"}, (CLCD, Language download message)
+{1981,255, "New release"}, (CLCD, Language download message)
+{1982,255, "Old release"}, (CLCD, Language download message)
+{1983,255, "There is no language file available to download."}, (CLCD, Language download message)
+{1984,255, "Language Download"}, (CLCD, Language download message)
+{1985,255, "Other language files downloading. Please try it later."}, (CLCD, Language download message)
+{1986,255, "No Available Item"}, (CLCD, Container String)
+{1987,255, "Language and Input"}, (CLCD, Input Mode)
+{1988,255, "Default Input Selection"}, (CLCD, Input Mode)
+{1989,255, "Multi-Tap"}, (CLCD, Input Multi-Tap Mode)
+{1990,255, "Shiftable"}, (CLCD, Input Shiftable Mode)
+{1991,255, "Up-to-date"}, (CLCD, Language download message)
+{1992,255, "XML download failed. Please check language download setting."}, (CLCD, Language download message)
+{1993,255, "Search Mode"}, (CLCD, Phone book search default)
+{1994,255, "Extension"}, (CLCD, Broadsoft Directory)
+{1995,255, "XML URL"}, (CLCD, Language setting message)
+{1996,255, "XML file is downloading...."}, (CLCD, Language setting message)
+{1997,255, "Searching for last connected hands free device"}, (CLCD, Bluetooth Status)
+{1998,255, "Nevar savienoties ar iekārtu. Veikt Bluetooth meklēšanu?"}, (CLCD, Bluetooth Status)
+{1999,255, "Ekrānsaudzētājs"}, (CLCD, Menu option appearance)
+{2000,255, "Ekrānsaudzētāja noildze"}, (CLCD, Menu option appearance)
+{2001,32, "Kontaktu grāmata"}, (Softkey)
+{2002,32, "Broadsoft IM&P contact list has been updated"},
+{2003,255, "Brīvroku iekārta nav pievienota"}, (CLCD, Bluetooth Status)
+{2004,32, "Tie izmantotas austiņas"}, (CLCD, Bluetooth Status)
+{2005,32, "Aizturētie zvani"}, (CLCD, Default Broadsoft Directory Name)
+{2006,32, "Saņemtie zvani"}, (CLCD, Default Broadsoft Directory Name)
+{2007,32, "Group Directory"}, (CLCD, Default Broadsoft Directory Name)
+{2008,32, "Enterprise Directory"}, (CLCD, Default Broadsoft Directory Name)
+{2009,32, "Group Common"}, (CLCD, Default Broadsoft Directory Name)
+{2010,32, "Enterprise Common"}, (CLCD, Default Broadsoft Directory Name)
+{2011,32, "Personal Directory"}, (CLCD, Default Broadsoft Directory Name)
+{2012,255, "Not support second hands free dial"}, (Handsfree popup)
+{2013,255, "Datums Laiks"}, (LCD, date and time)
+{2014,255, "Iestatīt laiku"}, (LCD, set current time manually)
+{2015,255, "NTP Server"}, (LCD, set current time manually)
+{2016,255, "Executive IP Phone"},
+{2017,255, "Conference Room"}, (CLCD, Conference Info)
+{2018,255, "Participants"}, (CLCD, Conference Info)
+{2019,255, "ConfRoom"}, (CLCD, Conference Info Softkey)
+{2020,255, "has joined"}, (CLCD, Conference Info Update)
+{2021,255, "has left"}, (CLCD, Conference Info Update)
+{2022,255, "BS-IM&P"}, (UC-One Feature Softkey)
+{2023,255, "Multicast"}, (MPK Mode SOftkey)
+{2024,255, "Ieraksts"}, (MPK MOde Softkey)
+{2025,255, "Security Pin"}, (LCD, UC-One)
+{2026,255, "DialDTMF"}, (LCD, UC-One)
+{2027,255, "Neizdevās veikt zvanu"}, (LCD, Bluetooth)
+{2028,255, "Brīvroku režīma zvans"}, (LCD, Bluetooth)
+{2029,255, "Lūdzu piesakaties"},
+{2030,255, "Pieteikšanās"},
+{2031,255, "Tukšs"},
+{2032,255, "IP Geographic Information"},
+{2033,255, "Atlikušie mēģinājumi"}, (LCD, warning window for star keypad lock)
+{2034,255, "Unable to try for"}, (LCD, warning window for star keypad lock)
+{2035,32, "CallingSIP"}, (Conference call option)
+{2036,32, "CallingHF"}, (Conference call option)
+{2037,32, "SwitchAcct"}, (Conference call option)
+{2038,32, "Failed to parse XML file"}, (UCMDetect module)
+{2039,32, "Recording is configured with USB. Please plug in a USB drive or change your configuration."},
+{2040,32, "Recording on UCM."},
+{2041,32, "Recording locally."},
+{2042,32, "Features"},
+{2043,32, "ConfMenu"},
+{2044,32, "Invite User"},
+{2045,32, "Dial User"},
+{2046,32, "Bridge Conference"},
+{2047,32, "UnBridge All"},
+{2048,32, "Option"},
+{2049,32, "Conference Menu"},
+{2050,32, "Hands Free Konts"},
+{2051,255, "Do you want to disconnect the current device and try to connect with the hands free device?"},
+{2052,255, "XML download still pending. Please try again later."},
+{2053,255, "SP-Active"}, (Softkey Label)
+{2054,255, "Input User Manually"}, (UCMDetect module, user list view)
+{2055,255, "User to Select"}, (UCMDetect module, selection view)
+{2056,255, "Konts to Apply"}, (UCMDetect module, selection view)
+{2057,255, "Invalid User ID"}, (UCMDetect module, warning window)
+{2058,255, "Select Server from Network"}, (UCMDetect module, server list view)
+{2059,255, "Select User ID"}, (UCMDetect module, user list view)
+{2060,255, "UCM Detect"}, (Menu option for UCMDetect module)
+{2061,255, "Language Update"}, (Autolanguage update app)
+{2062,255, "Meet-Me ID"}, (CEI/CCM Menu Option)
+{2063,255, "Kick"}, (CEI/CCM Menu Option)
+{2064,255, "Kick All"}, (CEI/CCM Menu Option)
+{2065,255, "Mute"}, (CEI/CCM Menu Option)
+{2066,255, "Mute All"}, (CEI/CCM Menu Option)
+{2067,255, "Unmute"}, (CEI/CCM Menu Option)
+{2068,255, "Unmute All"}, (CEI/CCM Menu Option)
+{2069,255, "Bloķēt"}, (CEI/CCM Menu Option)
+{2070,255, "Atbloķēt"}, (CEI/CCM Menu Option)
+{2071,255, "Prompt"}, (CEI/CCM Menu Option)
+{2072,255, "Handsfree device cannot be put on hold"},
+{2073,255, "Handsfree device ignores on hold request"},
+{2074,255, "Handsfree device ignores the redial request"},
+{2075,255, "Please check configuration"},
+{2076,255, "Run out of resources"},
+{2077,255, "Invalid permission"}, (Menu Access Mode Changed Warning Window)
+{2078,32, "IERAKSTĪT"}, (GXP16XX Key Name)
+{2079,255, "Description"},
+{2080,255, "Value"},
+{2081,255, "Diverted From "}, (Call Screen Info)
+{2082,255, "UZ SĀKUMU"}, (This is used for the 16xx diagnostic mode to print HOME. Required because it has to be "Main Page" in other languages)
+{2083,255, "Certificate Verification Fail"},
+{2084,255, "Certificate Verification Pass"},
+{2085,255, "Certificate Verification"},
+{2086,255, "Remote"},
+{2087,32, "Call with Dialed Number Hidden"}, (CLCD, Call Features)
+{2088,255, "Unknown Contact"}, (LCD, Broadsoft IM&P)
+{2089,255, "Broadsoft Xsi"}, (LCD, Broadsoft Xsi)
+{2090,255, "Xsi User Service"},
+{2091,255, "Remote Office"},
+{2092,255, "Remote Number"},
+{2093,255, "BroadWorks Anywhere"},
+{2094,255, "Simultaneous Ring"},
+{2095,255, "Caller ID Blocking"},
+{2096,255, "Call Forwarding"},
+{2097,255, "Do Not Disturb"},
+{2098,255, "Alert for Click-to-Dial"},
+{2099,255, "Alert for Group Paging"},
+{2100,255, "Forwarding Always"},
+{2101,255, "Forwarding Busy"},
+{2102,255, "Forwarding No Answer"},
+{2103,255, "Forwarding Number"},
+{2104,255, "Enable RingSplash"},
+{2105,255, "New Location"},
+{2106,255, "Enable Location"},
+{2107,255, "Outbound Number"},
+{2108,255, "Diversion Inhibitor"},
+{2109,255, "Answer Confirmation"},
+{2110,255, "Control service"},
+{2111,255, "Updating"},
+{2112,255, "Block Ring"},
+{2113,255, "Ring Record"},
+{2114,255, "NO of Rings"},
+{2115,255, "Invalid Number"},
+{2116,255, "Need A Number"},
+{2117,255, "Answered"},
+{2118,255, "Dialed"},
+{2119,255, "Missed"},
+{2120,255, "Transferred"},
+{2121,32, "Please check filters"}, (LDAP module, warning window)
+{2122,255, "Cannot bind: Please check protocol"}, (LDAP module, warning window)
+{2123,255, "Broadsoft Only"},
+{2124,255, "Select Search Scope"},
+{2125,255, "Selected Contact is Deleted, re-searching"},
+{2126,255, "SearchAll"},
+{2127,255, "All Contacts"},
+{2128,32, "Trnf>VM"},
+{2129,255, "Monitored Call Park"},
+{2130,255, "Verifying"},
+{2131,255, "Bluetooth name"},
+{2132,255, "Bluetooth PinCode"},
+{2133,255, "Handsfree mode"},
+{2134,255, "Detect/connect UCM server to process auto-provision"},
+{2135,255, "Pairing"},
+{2136,255, "Connecting"},
+{2137,255, "Pair Request From"},
+{2138,255, "Select User to Kick from Conference"}, (Conference Kick)
+{2139,32, "BLFPickup"}, (HomeModule softkey)
+{2140,32, "is calling"}, (FeatureModule display)
+{2141,32, "Bluetooth is in used"}, (BluetoothApp popup)
+{2142,32, "Config Upgrade Via"},
+{2143,32, "Firmware Upgrade Via"},
+{2144,255, "Local Call Log"},
+{2145,32, "System Status"},
+{2146,255, "Self-defined Firmware Server"},
+{2147,255, "DHCP Opt43/66 Override FW"},
+{2148,255, "3CX Auto Provision"},
+{2149,255, "Confirm to delete custom SCR?"},
+{2150,32, "Security"},
+{2151,255, "Config via Keypad Menu"},
+{2152,255, "Web Access Mode"},
+{2153,255, "Disable SSH"},
+{2154,32, "IPv4 Settings"},
+{2155,255, "DHCP Settings"},
+{2156,255, "Vendor Class ID(Option 60)"},
+{2157,255, "PC Port Settings"},
+{2158,255, "OpenVPN Settings"},
+{2159,255, "IPv6 Settings"},
+{2160,255, "Host Name(Option 12)"},
+{2161,255, "PC Port VLAN Tag"},
+{2162,255, "PC Port Priority Value"},
+{2163,255, "OpenVPN Port"},
+{2164,255, "OpenVPN Transport"},
+{2165,255, "OpenVPN: Enabled"},
+{2166,255, "Lines enabled for G729: "},
+{2167,255, "Preferred DNS Server"},
+{2168,255, "Language"},
+{2169,255, "DHCP Opt43/66 Override FW"},
+{2170,255, "3CX Auto Provision"},
+{2171,32, "Do not power off the phone"},
+{2172,32, "NOT REGISTERED"},
+{2173,32, "Conf"},
+{2174,32, "No Available Line"},
+{2175,32, "NO LAN CABLE"},
+{2176,32, "NO Konts VALID"},
+{2177,32, "INTERNET DOWN"},
+{2178,32, "Maximum 5-way Conference"}, (Softkey: First)
+{2179,32, "Contact"}, (LCD, View Contact)
+{2180,32, "Title"}, (LCD, Contact: Title)
+{2181,32, "Primary"}, (LCD, Contact: Primary)
+{2182,255, "has been bridged"}, (CLCD, Conference Info Update)
+{2183,255, "has been unbridged"}, (CLCD, Conference Info Update)
+{2184,255, "has been muted"}, (CLCD, Conference Info Update)
+{2185,255, "has been unmuted"}, (CLCD, Conference Info Update)
+{2186,32, "Toggle"}, (LCD, Option Toggle)
+{2187,255, "Reached Maximum G729"}, (LCD, warning window on pressing conf key)
+{2188,32, "Company"}, (LCD, Contact: Company)
+{2189,32, "Job"}, (LCD, Contact: Job)
+{2190,32, "Vēsture"},
+{2191,32, "maksimums 5-līniju konferences zvans"},
+{2192,32, "Stāvvieta ir pilna"}, (Popup window when parking lot is full and parking again)
+{2193,32, "Taustiņš 1MPK"}, (Softkey Label)
+{2194,32, "Taustiņš 2MPK"}, (Softkey Label)
+{2195,32, "Taustiņš 3MPK"}, (Softkey Label)
+{2196,32, "Paplašinājums"},
+{2197,32, "Mobīlais"},
+{2198,32, "hirangana Uzvārds"},
+{2199,32, "hirangana Vārds"},
+{2200,32, "Vairāk taustiņu"}, (LCD, MORE softkey menu)
+{2201,32, "Kontakti"}, (Softkey)
+{2202,32, "Klusums"}, (Softkey)
+{2203,32, "Konference"}, (Softkey)
+{2204,32, "Ieslēgt mikrofonu"}, (Softkey)
+{2205,255, "Izvēlēties lietotāju, kuru atšķirt no konferences"}, (Conference Split)
+{2206,255, "lejupielāde neizdevās"}, ( Popup window )
+{2207,255, "izdevās"}, ( Popup window )
+{2208,255, "Pārbauda lietotājvārdu un paroli, lūdzu uzgaidiet"}, ( Popup window )
+{2209,255, "Lietotājvārda un paroles lauki nevar būt tukši!"}, ( Popup window )
+{2210,255, "Lietotājvārds vai parole ir nepareizi! "}, ( Popup window )
+{2211,32, "Tiešais IP"}, (CLCD, softkey)
+{2212,32, "Grupa"}, (CLCD, Broadsoft Directory Tab)
+{2213,32, "Uzņēmums"}, (CLCD, Broadsoft Directory Tab)
+{2214,32, "GroupCommon"}, (CLCD, Broadsoft Directory Tab)
+{2215,32, "EnterpriseCommon"}, (CLCD, Broadsoft Directory Tab)
+{2216,32, "Personīgais"}, (CLCD, Broadsoft Directory Tab)
+{2217,255, "Nav atrasti nekādi broadsoft ieraksti"}, (CLCD, Broadsoft Directory)
+{2218,32, "Saglabāt lokāli"}, (CLCD, Softkey Broadsoft Profile App)
+{2219,32, "Nospiežot tīkla atjaunināšanu, jūs atgriezīsieties tukšajā lapā."}, (LCD, Warning Message: System Update)
+{2220,255, "Broadsoft adrešu grāmata nav pareizi konfigurēta. Lūdzu, pārbaudiet savus iestatījumus."}, (LCD, Warning Message: Broadsoft Directory configuration error)
+{2221,255, "Konfigurācija ir atjaunināta. Novirzīt atpakaļ uz tukšu lapu"}, (LCD, Warning Message: configuraiton updated)
+{2222,255, "Tiek testēta audio atgriezeniskā cilpa...spiediet iziet, lai atgrieztos iepriekšējā solī."}, ( LCD, audio loopback test display message )
+{2223,32, "BlindTrnf"}, (Softkey in call transfer page)
+{2224,32, "AttTrnf"}, (Softkey in call transfer page)
+{2225,255, "Aktīva LCD noildze"}, (CLCD, Menu option appearance)
+{2226,32, "Ieslēgts, ja nav aktīva virtuālā daudzfunkcionālā atslēga"}, (CLCD, Menu option appearance)
+{2227,32, "Atlikušie laiki:"},
+{2228,32, "Zvana atkārtošanas noildze:"},
+{2229,32, "Atkārtot zvanu uz:"},
+{2230,32, "Klātbūtne"}, (softkey, genesys)
+{2231,255, "Aģenta pieteikšanās statuss"}, (LCD, genesys menu)
+{2232,255, "Aģenta pieteikšanās "}, (LCD, genesys menu)
+{2233,255, "Aģenta atteikšanās"}, (LCD, genesys menu)
+{2234,32, "AllMode"}, (CLCD, Softkey VPK Menu All Mode)
+{2235,32, "Atslēgties un paslēpt izvēlni no LCD"}, (LCD, Bluetooth page)
+{2236,255, "Vai vēlaties sākt automātisku zvanu atkārtošanu?"},
+{2237,32, "Virtuālās daudzfunkcionālās atslēgas"}, (CLCD, Softkey VPK Menu)
+{2238,32, "Viedais virtuālo daudzfunkcionālās atslēgas režīms"}, (CLCD, Softkey VPK Menu Smart Mode)
+{2239,32, "VPKAllMode"}, (CLCD, Softkey VPK Menu All Mode)
+{2240,32, "SmartMode"}, (CLCD, Softkey VPK Menu Smart Mode)
+{2241,255, "Galvenā izvēlne šobrīd ir atslēgta."},
+{2242,32, "Sasniegts maksimālais iLBC/G723"},
+{2243,32, "Adrešu grāmata"}, (Softkey)
+{2244,32, "Balss pasts"}, (Softkey)
+{2245,32, "Tīkla piekļuves ports"}, (LCD, Status, System Information)
+{2246,32, "Kluss"}, (Menu, ringtone)
+{2247,255, "Noklusējuma grupas nevar mainīt"}, (LCD, Phonebook, Group)
+{2248,32, "Pārsūtīts no "}, (Call Screen Info)
+{2249,32, "Mērķis"}, (CLCD, Call Module, Softkey Target)
+{2250,32, "Mērķis avots"}, (CLCD, Call Module, Target Source)
+{2251,32, "Viedās virtuālās daudzfunkcionālās atslēgas mērķis"}, (CLCD, Call Module, Smart VPK Target)
+{2252,32, "Izvēlieties zvana numuru"}, (CLCD, Select Dial Number Window)
+{2253,32, "atbilstība"}, (CLCD, Input Search match database record)
+{2254,255, "Izvēlēties reģistrētu kontu"}, (CLCD, Select Dial Account Window)
+{2255,255, "Nederīgs RTP porta diapazons"}, (LCD, Callscren)
+{2256,32, "Slēgts režīms"}, (LCD, Constraint Mode)
+{2257,32, "Vietējo zvanu vēsture"}, (LCD, Call History Menu,Target Source Menu)
+{2258,32, "Pakalpojums nav pieejams"}, (LCD, Service Update Error)
+{2259,32, "Meteoroloģiskie pakalpojumi atslēgti"}, (LCD, Weather Need Enable)
+{2260,32, "Valūtu pakalpojumi atslēgti"}, (LCD, Currency Need Enable)
+{2261,32, "LDAP protokols"}, (LCD, LDAP configuration)
+{2262,32, "LDAP"}, (LCD, LDAP configuration)
+{2263,32, "LDAPS"}, (LCD, LDAP configuration)
+{2264,32, "Ienākošo zvanu pārlūkošana"}, (LCD, LDAP configuration)
+{2265,32, "Izejošo zvanu pārlūkošana"}, (LCD, LDAP configuration)
+{2266,32, "Mainīts"}, (LCD, LDAP configuration)
+{2616,255, "GMT+02:00 (Cairo)"},
+{2617,255, "GMT+03:00 (Kuwait, Baghdad, Istanbul, Nairobi)"}
+{4030,2, "Sv"}
+{4031,2, "P"}
+{4032,2, "O"}
+{4033,3, "T"}
+{4034,2, "C"}
+{4035,2, "Pk"}
+{4036,3, "S"}
+{4037,255, "%d. %m, %a"}
+{4332,255, "GMT (Casablanca)"}
+{4461,255, "GMT-06:00 (Mexico City)"},

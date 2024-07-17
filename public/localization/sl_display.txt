@@ -1,0 +1,2163 @@
+{sl},
+{Slovenščina},
+INDEX  MAX LENGTH  STRING
+{0,23, "Inicializacija..."},
+{1,23, "HTTP "},
+{2,23, "TFTP "},
+{3,23, "Prejem nastavitev..."},
+{4,23, "Pisanje "},
+{5,23, "Nalaganje "},
+{6,23, "NE IZKLAPLJAJ!!"},
+{7,18, "Zgrešeni klici"},
+{8,18, "Zgrešeni klic"},
+{9,22, "Pritisni ^ za pregled"},
+{10,22, "Sinhr. imenika XML..."},
+{11,22, "To lahko traja minuto"},
+{12,23, "Ponovni zagon..."},
+{13,18, "Seznam klicev"},
+{14,18, "Stanje"},
+{15,18, "Hitra sporočila"},
+{16,18, "Direktni IP klic"},
+{17,18, "Osebne nast."},
+{18,18, "Strojne nast."},
+{19,18, "Tovarniške funkc."},
+{20,18, "Ponovni zagon"},
+{21,18, "Izhod"},
+{22,18, "Meni"},
+{23,18, "Omrežje"},
+{24,18, "SIP"},
+{25,18, "Avdio"},
+{26,18, "Nadgradnja"},
+{27,18, "Tovarniške nast."},
+{28,18, "Nazaj"},
+{29,18, "V redu"},
+{30,18, "PREKLICI"},
+{31,18, "DHCP"},
+{32,18, "IP"},
+{33,7, "Maska"},
+{34,7, "Prehod"},
+{35,18, "Vpisi MAC naslov"},
+{36,18, "NE MOTI"},
+{37,18, "Zvenenje"},
+{38,18, "Glasnost zvon."},
+{39,18, "Tovarniške funkc."},
+{40,18, "Mrežna zanka"},
+{41,18, "Avdio zanka"},
+{42,22, "Diagn. tipk in LED"},
+{43,18, "Tipka:"},
+{44,22, "Vpisi MAC naslov"},
+{45,18, "Imenik"},
+{46,18, "Dohodni klici"},
+{47,18, "Odhodni klici"},
+{48,18, "Zgrešeni klici"},
+{49,18, "Prenesi SCR XML"},
+{50,18, "Izbrisi SCR"},
+{51,18, "Vklopi NE MOTI"},
+{52,18, "Izklopi NE MOTI"},
+{53,18, "Privzeto zvonenje"},
+{54,18, "Zvonenje 1"},
+{55,18, "Zvonenje 2"},
+{56,18, "Zvonenje 3"},
+{57,18, "Eternet zanka"},
+{58,18, "Avdio zanka"},
+{59,18, "Diagn. način"},
+{60,18, "Onemog. Diag. Vrata"},
+{61,18, "Omog. Diag. Vrata"},
+{62,18, "Uredi MAC naslov"},
+{63,18, "testiranje ..."},
+{64,18, "nazaj = V redu"},
+{65,18, "Puščica gor"},
+{66,18, "Puščica dol"},
+{67,18, "KLICATELJ/Levo"},
+{68,18, "Puščica Levo"},
+{69,18, "KLICANI/Desno"},
+{70,18, "Puščica Desno"},
+{71,18, "NEMO/BRISI"},
+{72,18, "FLASH"},
+{73,18, "LINIJA 1"},
+{74,18, "LINIJA 2"},
+{75,18, "LINIJA 3"},
+{76,18, "LINIJA 4"},
+{77,18, "SPOROCILO"},
+{78,18, "PREUSMERITEV"},
+{79,18, "KONFERENCA"},
+{80,18, "ZADRZI"},
+{81,18, "ZVOCNIK"},
+{82,18, "POSLJI"},
+{83,18, "HITRO KLICANJE 1"},
+{84,18, "HITRO KLICANJE 2"},
+{85,18, "HITRO KLICANJE 3"},
+{86,18, "HITRO KLICANJE 4"},
+{87,18, "HITRO KLICANJE 5"},
+{88,18, "HITRO KLICANJE 6"},
+{89,18, "HITRO KLICANJE 7"},
+{90,18, "IP:"},
+{91,18, "Račun "},
+{92,18, "DA"},
+{93,18, "NE"},
+{94,18, "Ni na voljo"},
+{95,18, "Zagon"},
+{96,18, "Prog"},
+{97,18, "MAC: "},
+{98,18, "Nov vnos"},
+{99,22, "Naloži XML imenik"},
+{100,18, "Klici"},
+{101,18, "Brisi"},
+{102,18, "Uredi ime"},
+{103,18, "Uredi številko"},
+{104,18, "Ime"},
+{105,18, "Številka:"},
+{106,18, "Račun:  "},
+{107,18, "Potrdi vnos"},
+{108,18, "Preklici in nazaj"},
+{109,18, "Vnos v imenik"},
+{110,22, "Dodaj vnos v imenik"},
+{111,18, "Izberi račun"},
+{112,18, "Izberi PCMU"},
+{113,18, "Izberi PCMA"},
+{114,18, "Izberi G.723.1"},
+{115,18, "Izberi G.729(A/B)"},
+{116,18, "Izberi GSM"},
+{117,18, "Preklici"},
+{118,18, "Prog. Strežnik"},
+{119,18, "Strežnik z nast."},
+{120,18, "Uporabi TFTP"},
+{121,18, "Uporabi HTTP"},
+{122,18, "SIP posrednik"},
+{123,18, "Izhodni posrednik"},
+{124,18, "SIP ID uporabnika"},
+{125,18, "SIP ID avtorizac."},
+{126,18, "SIP Geslo"},
+{127,18, "Shrani"},
+{128,18, "ned., "},
+{129,18, "pon., "},
+{130,18, "tor., "},
+{131,18, "sre., "},
+{132,18, "čet., "},
+{133,18, "pet., "},
+{134,18, "sob., "},
+{135,18, "jan."},
+{136,18, "feb."},
+{137,18, "mar."},
+{138,18, "apr."},
+{139,18, "maj."},
+{140,18, "jun."},
+{141,18, "jul."},
+{142,18, "avg."},
+{143,18, "sep."},
+{144,18, "okt."},
+{145,18, "nov."},
+{146,18, "dec."},
+{147,255, " Konfiguracija naprave"},
+{148,255, "Naprava je trenutno zasedena."},
+{149,255, "Prosimo, poskusite kasneje preko spodnje povezave."},
+{150,255, "Kliknite za prijavo kasneje"},
+{151,255, "STANJE"},
+{152,255, "OSNOVNE NASTAVITVE"},
+{153,255, "NAPREDNE NASTAVITVE"},
+{154,255, "RACUN 1"},
+{155,255, "EXT Tipka"},
+{156,255, "MAC naslov"},
+{157,255, "Model"},
+{158,255, "Dodatni panel 1"},
+{159,255, "Verzija programa"},
+{160,255, "Geslo končnega uporabnika"},
+{161,255, "IP Naslov"},
+{162,255, "dinamično določen z DHCP (privzeto) ali PPPoE"},
+{163,255, "Ce ni najden DHCP, poskusi PPPoE(če je izpolnjeno spodnje)"},
+{164,255, "PPPoE ID računa"},
+{165,255, "PPPoE geslo"},
+{166,255, "Ime gostitelja"},
+{167,255, "(Možnost 12)"},
+{168,255, "Ime domene"},
+{169,255, "ID skupine proizvajalca"},
+{170,255, "(Možnost 60)"},
+{171,255, "Prednostni DNS strežnik"},
+{172,255, "Statično določen:"},
+{173,255, "Maska omrežja"},
+{174,255, "Privzeti prehod:"},
+{175,255, "DNS strežnik 1"},
+{176,255, "DNS strežnik 2"},
+{177,255, "Večnamenska tipka  1"},
+{178,255, "Način tipke"},
+{179,255, "Hitro klicanje"},
+{180,255, "Asterisk (BLF)"},
+{181,255, "Nadzornik prisotnosti"},
+{182,255, "Račun"},
+{183,255, "Račun 1"},
+{184,255, "Program--"},
+{185,255, "Zagonski nalagalnik--"},
+{186,255, "Čas delovanja"},
+{187,255, "Registrirano"},
+{188,255, "Vse pravice pridržane Grandstream Networks, Prevod Narvis d.o.o."},
+{189,255, "ID Uporabnika"},
+{190,255, "Način Tipke"},
+{191,255, "PPPoE povezava"},
+{192,255, "Geslo"},
+{193,255, "\"Prijava\""},
+{194,255, "Oprostite, prijavno geslo ni prepoznano. Prosimo, poskusite ponovno."},
+{195,255, "Naprava se ponovno zaganja..."},
+{196,255, "Ponovno se lahko prijavite s klikom na spodnjo povezavo čez 60 sekund."},
+{197,255, "Kliknite za ponovno prijavo"},
+{198,255, "Spremembe nastavitev so bile shranjene."},
+{199,255, "Časovni pas"},
+{200,255, "Mednarodna datumska meja "},
+{201,255, "Otok Midway, Samoa"},
+{202,255, "ZDA - Havaji"},
+{203,255, "ZDA - Aljaska "},
+{204,255, "ZDA Pacifik, Los Angeles"},
+{205,255, "ZDA Zahodno, Denver"},
+{206,255, "ZDA Centralno, Chicago"},
+{207,255, "ZDA Vzhodno, New York"},
+{208,255, "Atlantik, Quebec"},
+{209,255, "Novofundlandija"},
+{210,255, "Grenlandija"},
+{211,255, "Srednji-Atlantik"},
+{212,255, "Azori, Cape Verdi Is."},
+{213,255, "London, Dublin, Edinburg, Lizbona, Kazablanka, Monrovia"},
+{214,255, "Ljubljana, Pariz, Amsterdam, Berlin, Rim, Dunaj, Madrid, Varsava, Bruselj"},
+{215,255, "Izrael, Kairo, Atene, Helsinki, Istanbul, Bukaresta"},
+{216,255, "Moskva, Kuvajt, Bagdad, Teheran, Nairobi"},
+{217,255, "Abu Dhabi, Baku"},
+{218,255, "Islamabad, Ekaterinburg, Karachi, Tashkent"},
+{219,255, "Chennai, New Delhi, Mumbai"},
+{220,255, "Katmandu"},
+{221,255, "Almaty, Astana, Dhaka, Novosibirsk"},
+{222,255, "Rangon"},
+{223,255, "Bangkok, Dzakarta, Hanoi, Krasnoyarsk"},
+{224,255, "Peking, Singapur, Taipei, Kuala Lumpur, Irkutsk, Perth"},
+{225,255, "Japonska, Koreja, Yakutsk"},
+{226,255, "Adelaide, Darwin"},
+{227,255, "Brisban, Sidney, Melburne, Canberra, Guam, Hobart"},
+{228,255, "Magadan, Salomonski otoki, Nova Kaledonija"},
+{229,255, "Auckland, Wellington, Fidzi"},
+{230,255, "Nuku'alofa"},
+{231,255, "Dovoli DHCP Moznost 2, da nastavi casovno pas"},
+{232,255, "Ne"},
+{233,255, "Da"},
+{234,255, "Poletni čas:"},
+{235,255, "Dodatno pravilo:"},
+{236,255, "LCD osvetlitev vedno vključena:"},
+{237,255, "Prikaz ure"},
+{238,255, "12 urni"},
+{239,255, "24 urni"},
+{240,255, "Prikaz datuma"},
+{241,255, "leto-mesec-dan"},
+{242,255, "mesec-dan-leto"},
+{243,255, "dan-mesec-leto"},
+{244,255, "Prikazi uro namesto datuma:"},
+{245,255, "Sistemski način naprave"},
+{246,255, "Način naprave:"},
+{247,255, "Stikalo (privzeto)"},
+{248,255, "NAT/usmerjevalnik"},
+{249,255, "NAT/konfiguracija usmerjevalnika"},
+{250,255, "Dovoli http dostop preko WAN priključka:"},
+{251,255, "(Dostop do http strežnika preko WAN priključka bo zavrnjen, če je nastavljeno na Ne)"},
+{252,255, "Pošlji odgovor na ICMP na WAN priključku:"},
+{253,255, "(Enota ne bo poslala PING odgovora na WAN priključku, ce je nastavljeno na Ne)"},
+{254,255, "Kloniran WAN MAC naslov:"},
+{255,255, "(šestnajstiško)"},
+{256,255, "Maska omrežja:"},
+{257,255, "privzeto je"},
+{258,255, "LAN DHCP osnovni IP:"},
+{259,255, "osnovni IP za LAN priključek, privzeti je"},
+{260,255, "DHCP IP čas zakupa:"},
+{261,255, "(v urah, privzeto je 120 ur oz. 5 dni)"},
+{262,255, "DMZ IP:"},
+{263,255, "Posredovanje vrat:"},
+{264,255, "WAN priključek"},
+{265,255, "LAN IP"},
+{266,255, "LAN priključek"},
+{267,255, "Protokol"},
+{268,255, "Samo UDP"},
+{269,255, "Samo TCP"},
+{270,255, "\"Posodobi\""},
+{271,255, "Administratorsko geslo"},
+{272,255, "(namenoma ni prikazano zaradi varnosti)"},
+{273,255, "Zadušitev tišine"},
+{274,255, "Glasovnih okvirov po oddaji"},
+{275,255, "(do 10/20/32/64 za G711/G726/G723/odvisno od kodeka)"},
+{276,255, "Nivo 3 QoS"},
+{277,255, "(Diff-Serv ali prednostna vrednost)"},
+{278,255, "Nivo 2 QoS"},
+{279,255, "802.1Q/VLAN vrednost"},
+{280,255, "Prednostna Vrednost"},
+{281,255, "Casovna omejitev za neaktivnost tipk"},
+{282,255, "(v sekundah, privzeto je 4 sekunde)"},
+{283,255, "Uporabi # za klicanje"},
+{285,255, "Lokalna RTP vrata"},
+{286,255, "privzeto"},
+{287,255, "Uporabi naključna vrata"},
+{288,255, "interval preverjanja povezave"},
+{289,255, "(v sekundah, privzeto je 20 sekund)"},
+{290,255, "Uporabi NAT IP"},
+{291,255, "(če je specificirano, bo to uporabljeno v SIP/SDP sporočilih)"},
+{292,255, "STUN strežnik"},
+{293,255, "(URI ali IP naslov:vrata)"},
+{294,255, "Nadgradnja programa in prejemanje nastavitev"},
+{295,255, "Posodobitev preko"},
+{296,255, "Pot do strežnika s programom"},
+{297,255, "Pot do strežnika z nastavitvami"},
+{298,255, "Predpona programske datoteke"},
+{299,255, "Pripona programske datoteke"},
+{300,255, "Predpona nastavitvene datoteke"},
+{301,255, "Pripona nastavitvene datoteke"},
+{302,255, "Dovoli DHCP opciji 43 in 66 da nastavi strežnik"},
+{303,255, "Samodejna posodobitev"},
+{304,255, "Da, preverjaj za posodobitve dnevno"},
+{305,255, "minut (privzeto je 7 dni)"},
+{306,255, "Vedno preveri za nov program"},
+{307,255, "Preveri nov program samo kadar se spremeni predpona/pripona"},
+{308,255, "Vedno preskoči preverjanje programa"},
+{309,255, "Overi datoteko z nastavitvami"},
+{310,255, "(datoteka za nastavitvami bo overjena pred odobritvijo, če je nastavljeno na Da)"},
+{311,255, "Nalaganje XML imenika"},
+{312,255, "Omogoči nalaganje XML imenika"},
+{313,255, "Pot do strežnika z XML imenikom"},
+{314,255, "Interval osveževanja imenika"},
+{315,255, "Odstrani ročno dodane vnose pred nalaganjem"},
+{316,255, "Nalaganje XML, ko je zaslon v mirovanju"},
+{317,255, "Omogoči nalaganje XML, ko je zaslon v mirovanju"},
+{318,255, "Naslov XML strežnika za nalaganje Zaslona v mirovanju"},
+{319,255, "DTMF tip tovora"},
+{320,255, "Nivo sistemskega dnevnika"},
+{321,255, "BREZ"},
+{322,255, "DIAGNOSTIKA"},
+{323,255, "INFO"},
+{324,255, "OPOZORILA"},
+{325,255, "NAPAKE"},
+{326,255, "NTP strežnik"},
+{327,255, "(URI ali IP naslov)"},
+{328,255, "Dovoli DHCP opciji 42 da nastavi NTP strežnik"},
+{329,255, "Ločevalno zvonjenje"},
+{330,255, "Navadno zvonjenje 1, v uporabi, če je dohodna številka"},
+{331,255, "Navadno zvonjenje 2, v uporabi, če je dohodna številka"},
+{332,255, "Navadno zvonjenje 3, v uporabi, če je dohodna številka"},
+{333,255, "Onemogoči čakajoči klic"},
+{334,255, "Onemogoči ton za čakajoči klic"},
+{335,255, "Uporabi način hitrega klicanje po IP"},
+{336,255, "Zakleni posodabljanje preko tipkovnice:"},
+{337,255, "(konfiguriranje posodobitev preko tipkovnice je onemogočeno če je nastavljeno na Da"},
+{338,255, "Račun aktiven"},
+{339,255, "Ime računa"},
+{340,255, "(npr.: Moje Podjetje)"},
+{341,255, "SIP strežnik"},
+{342,255, "(npr.: sip.mojepodjetje.com, ali IP naslov)"},
+{343,255, "(npr.: proxy.mojponudnik.com, ali IP naslov)"},
+{344,255, "ID SIP uporabnika"},
+{345,255, "(uporabniški del SIP naslova)"},
+{346,255, "ID za overjanje"},
+{347,255, "(lahko enak ali drugačen od ID-ja SIP uporabnika"},
+{348,255, "Geslo za overitev"},
+{349,255, "(namenoma ni prikazano zaradi varnosti)"},
+{350,255, "(neobvezno, npr.: Janez Kranjski)"},
+{351,255, "Uporabi DNS SRV:"},
+{352,255, "ID uporabnik je telefonska številka:"},
+{353,255, "SIP prijava"},
+{354,255, "Odjavi pred ponovnem zagonom"},
+{355,255, "Potek registracije"},
+{356,255, "(v minutah, privzeto je 1 ura, največ 45 dni)"},
+{357,255, "lokalna SIP vrata"},
+{358,255, "SIP T1 Odmor"},
+{359,255, "s"},
+{360,255, "SIP T2 interval"},
+{361,255, "Prečkanje NAT-a (STUN)"},
+{362,255, "Ne, vendar pošiljaj informacijo o delovanju"},
+{363,255, "NAROCI se na MWI (obveščanje o sporočilih z utripanjem lučke"},
+{364,255, "OBJAVI prisotnost"},
+{365,255, "Posrednik-zahteva:"},
+{366,255, "ID za glasovno pošto"},
+{367,255, "(ID za sistem glasovne poste)"},
+{368,255, "Pošiljaj DTMF"},
+{369,255, "v zvoku"},
+{370,255, "preko RTP (RFC2833)"},
+{371,255, "preko SIP INFO"},
+{372,255, "Sprotno izbiranje"},
+{373,255, "Da (uporabite \"Da\" samo če posrednik podpira 484 odgovore)"},
+{374,255, "Predpona za klicni načrt"},
+{375,255, "(predpona bo dodana vsaki klicani številki)"},
+{376,255, "Omogoči klicne funkcije"},
+{377,255, "Da (če je nastavljeno na Da, bodo funkcije z * podprte lokalno)"},
+{378,255, "Dnevnik klicev"},
+{379,255, "Beleži vse klice"},
+{380,255, "Potek seje"},
+{381,255, "(v sekundah. Privzeto je 180)"},
+{382,255, "(v sekundah. Privzeto in minimalno 90)"},
+{383,255, "Zahteva klicalca za časomerilec"},
+{384,255, "Da (Zahteva za časomerilec pri odhodnih klicih)"},
+{385,255, "Zahteva klicanega za časomerilec"},
+{386,255, "Da (Kadar klicalec podpira časomerilec, vendar ga ni zahteval)"},
+{387,255, "Prisili časomerilec"},
+{388,255, "DA (Uporabi časomerilec tudi če ga oddaljeni ne podpira)"},
+{389,255, "UAC navedi osveževala"},
+{390,255, "Zanemari (Priporočeno)"},
+{391,255, "UAS navedi osveževala"},
+{392,255, "UAS (Ko od UAC ni navedena vrednost osveževala)"},
+{393,255, "Vsili POVABI"},
+{394,255, "Da (Vedno osveži s POVABI namesto POSODOBI)"},
+{395,255, "Omogoči 100prenos"},
+{396,255, "Zvonjenje računa"},
+{397,255, "sistemsko zvonjenje"},
+{398,255, "navadno zvonjenje 1"},
+{399,255, "Pošlji anonimno"},
+{400,255, "(ID klicalca bo blokiran, če je nastavljeno na Da)"},
+{401,255, "Metoda Anonimnosti:"},
+{402,255, "Uporabi iz glave"},
+{403,255, "Uporabi privatno glavo"},
+{404,255, "Samodejni dvig"},
+{405,255, "Dovoli samodejni dvig preko informacij o klicu"},
+{406,255, "Izključi zvočnik pri <br>prekinitvi linije"},
+{407,255, "Preveri SIP ID uporabnika za <br>dohodno POVABILO"},
+{408,255, "Prednostni dekodirnik"},
+{409,255, "(v prikazanem vrstnem redu)"},
+{410,255, "izbira 1"},
+{411,255, "SRTP način"},
+{412,255, "Izključeno"},
+{413,255, "Ne-prisilno vključeno"},
+{414,255, "Prisilno vključeno"},
+{415,255, "Posebna funkcija"},
+{416,255, "Standardno"},
+{417,255, "Nove nastavitve bodo veljavne po ponovnem zagonu."},
+{418,255, "Jezik zaslona"},
+{419,255, "Strežnik sistemskega dnevnika"},
+{420,255, "RACUN 2"},
+{421,255, "RACUN 3"},
+{422,255, "RACUN 4"},
+{423,255, "Dodatni panel 2"},
+{424,255, "(Možnost 15)"},
+{425,255, "Večnamenska tipka 2"},
+{426,255, "Večnamenska tipka 3"},
+{427,255, "Večnamenska tipka 4"},
+{428,255, "Večnamenska tipka 5"},
+{429,255, "Večnamenska tipka 6"},
+{430,255, "Večnamenska tipka 7"},
+{431,255, "Račun 2"},
+{432,255, "Račun 3"},
+{433,255, "Račun 4"},
+{434,255, "(1024-65400, privzeto 5004)"},
+{435,255, "(privzeto 5060)"},
+{436,255, "0.5 s"},
+{437,255, "1 s"},
+{438,255, "2 s"},
+{439,255, "4 s"},
+{440,255, "8 s"},
+{441,255, "navadno zvonjenje 2"},
+{442,255, "navadno zvonjenje 3"},
+{443,255, "izbira 2"},
+{444,255, "izbira 3"},
+{445,255, "izbira 4"},
+{446,255, "izbira 5"},
+{447,255, "izbira 6"},
+{448,255, "izbira 7"},
+{449,255, "izbira 8"},
+{450,255, "\"Ponovni zagon\""},
+{451,255, "(privzeto 5062)"},
+{452,255, "(privzeto 5064)"},
+{453,255, "(privzeto 5066)"},
+{454,255, "Dodatna tipka 1"},
+{455,255, "Dodatna tipka 2"},
+{456,255, "Dodatna tipka 3"},
+{457,255, "Dodatna tipka 4"},
+{458,255, "Dodatna tipka 5"},
+{459,255, "Dodatna tipka 6"},
+{460,255, "Dodatna tipka 7"},
+{461,255, "Dodatna tipka 8"},
+{462,255, "Dodatna tipka 9"},
+{463,255, "Dodatna tipka 10"},
+{464,255, "Dodatna tipka 11"},
+{465,255, "Dodatna tipka 12"},
+{466,255, "Dodatna tipka 13"},
+{467,255, "Dodatna tipka 14"},
+{468,255, "Dodatna tipka 15"},
+{469,255, "Dodatna tipka 16"},
+{470,255, "Dodatna tipka 17"},
+{471,255, "Dodatna tipka 18"},
+{472,255, "Dodatna tipka 19"},
+{473,255, "Dodatna tipka 20"},
+{474,255, "Dodatna tipka 21"},
+{475,255, "Dodatna tipka 22"},
+{476,255, "Dodatna tipka 23"},
+{477,255, "Dodatna tipka 24"},
+{478,255, "Dodatna tipka 25"},
+{479,255, "Dodatna tipka 26"},
+{480,255, "Dodatna tipka 27"},
+{481,255, "Dodatna tipka 28"},
+{482,255, "Dodatna tipka 29"},
+{483,255, "Dodatna tipka 30"},
+{484,255, "Dodatna tipka 31"},
+{485,255, "Dodatna tipka 32"},
+{486,255, "Dodatna tipka 33"},
+{487,255, "Dodatna tipka 34"},
+{488,255, "Dodatna tipka 35"},
+{489,255, "Dodatna tipka 36"},
+{490,255, "Dodatna tipka 37"},
+{491,255, "Dodatna tipka 38"},
+{492,255, "Dodatna tipka 39"},
+{493,255, "Dodatna tipka 40"},
+{494,255, "Dodatna tipka 41"},
+{495,255, "Dodatna tipka 42"},
+{496,255, "Dodatna tipka 43"},
+{497,255, "Dodatna tipka 44"},
+{498,255, "Dodatna tipka 45"},
+{499,255, "Dodatna tipka 46"},
+{500,255, "Dodatna tipka 47"},
+{501,255, "Dodatna tipka 48"},
+{502,255, "Dodatna tipka 49"},
+{503,255, "Dodatna tipka 50"},
+{504,255, "Dodatna tipka 51"},
+{505,255, "Dodatna tipka 52"},
+{506,255, "Dodatna tipka 53"},
+{507,255, "Dodatna tipka 54"},
+{508,255, "Dodatna tipka 55"},
+{509,255, "Dodatna tipka 56"},
+{510,255, "Dodatna tipka 57"},
+{511,255, "Dodatna tipka 58"},
+{512,255, "Dodatna tipka 59"},
+{513,255, "Dodatna tipka 60"},
+{514,255, "Dodatna tipka 61"},
+{515,255, "Dodatna tipka 62"},
+{516,255, "Dodatna tipka 63"},
+{517,255, "Dodatna tipka 64"},
+{518,255, "Dodatna tipka 65"},
+{519,255, "Dodatna tipka 66"},
+{520,255, "Dodatna tipka 67"},
+{521,255, "Dodatna tipka 68"},
+{522,255, "Dodatna tipka 69"},
+{523,255, "Dodatna tipka 70"},
+{524,255, "Dodatna tipka 71"},
+{525,255, "Dodatna tipka 72"},
+{526,255, "Dodatna tipka 73"},
+{527,255, "Dodatna tipka 74"},
+{528,255, "Dodatna tipka 75"},
+{529,255, "Dodatna tipka 76"},
+{530,255, "Dodatna tipka 77"},
+{531,255, "Dodatna tipka 78"},
+{532,255, "Dodatna tipka 79"},
+{533,255, "Dodatna tipka 80"},
+{534,255, "Dodatna tipka 81"},
+{535,255, "Dodatna tipka 82"},
+{536,255, "Dodatna tipka 83"},
+{537,255, "Dodatna tipka 84"},
+{538,255, "Dodatna tipka 85"},
+{539,255, "Dodatna tipka 86"},
+{540,255, "Dodatna tipka 87"},
+{541,255, "Dodatna tipka 88"},
+{542,255, "Dodatna tipka 89"},
+{543,255, "Dodatna tipka 90"},
+{544,255, "Dodatna tipka 91"},
+{545,255, "Dodatna tipka 92"},
+{546,255, "Dodatna tipka 93"},
+{547,255, "Dodatna tipka 94"},
+{548,255, "Dodatna tipka 95"},
+{549,255, "Dodatna tipka 96"},
+{550,255, "Dodatna tipka 97"},
+{551,255, "Dodatna tipka 98"},
+{552,255, "Dodatna tipka 99"},
+{553,255, "Dodatna tipka 100"},
+{554,255, "Dodatna tipka 101"},
+{555,255, "Dodatna tipka 102"},
+{556,255, "Dodatna tipka 103"},
+{557,255, "Dodatna tipka 104"},
+{558,255, "Dodatna tipka 105"},
+{559,255, "Dodatna tipka 106"},
+{560,255, "Dodatna tipka 107"},
+{561,255, "Dodatna tipka 108"},
+{562,255, "Dodatna tipka 109"},
+{563,255, "Dodatna tipka 110"},
+{564,255, "Dodatna tipka 111"},
+{565,255, "Dodatna tipka 112"},
+{566,22, "--- NI ODGOVORA"},
+{567,22, "Ni bilo odgovora"},
+{568,22, "prejeto od strežnika"},
+{569,22, "403 PREPOVEDANO"},
+{570,22, "Zahteva ni"},
+{571,22, "dovoljena"},
+{572,22, "404 NI NAJDENO"},
+{573,22, "Napačna številka"},
+{574,22, "Oddaljeni ni prisoten"},
+{575,22, "408 CAS POTEKEL"},
+{576,22, "486 ZASEDENO"},
+{577,22, "Oddaljeni zaseden"},
+{578,22, "488 NI SPREJEMLJIVO"},
+{579,22, "Poskusite drug dekoder"},
+{580,22, "SRTP ojačenje omog."},
+{581,22, "Končaj klic"},
+{582,22, "NI ODGOVORA"},
+{583,22, "Ni registriran"},
+{584,22, "KLICI (brez najave) ali"},
+{585,22, "IZBERI LINIJO (najava)"},
+{586,22, "LINIJA 0: PARKIRANO"},
+{587,22, "KLICI GLOBALNO ST."},
+{588,22, "IN PRITISNI POSLJI    "},
+{589,22, "IZBERI LINIJO DO"},
+{590,22, "KONFERENCA Z"},
+{591,255, "Beleži le dohodno/odhodno (zgrešeni klici ne bodo beleženi)"},
+{592,255, "Onemogoči dnevnik klicev"},
+{593,22, "Vnos doh. klica"},
+{594,18, "Vnos odh. klica"},
+{595,18, "Vnos zgr. klica"},
+{596,255, "\"Preklici\""},
+{597,18, "Odstrani"},
+{598,18, "IM Vnos"},
+{599,18, "Počisti vse"},
+{600,18, "-KONEC SPOROCILA-"},
+{601,255, "dnevi"},
+{602,255, "ure"},
+{603,255, "minute"},
+{604,18, "ZVONJENJE"},
+{605,18, "LINIJA"},
+{606,18, "CAKAJ"},
+{607,18, "KLICANJE"},
+{608,18, "PREVEZAVA"},
+{609,18, "KONFERENCA"},
+{610,18, "STRAN"},
+{611,18, "KLICI"},
+{612,18, "Z UPORABO"},
+{613,18, "NOVA SPOROCILA"},
+{614,18, "NEMO"},
+{615,18, "POGOVOR"},
+{616,12, "KONFERENCA"},
+{617,6, "Prekliči"},
+{618,255, "onemogočeno"},
+{619,255, "zaznan NAT tip je"},
+{620,255, "polni stožec"},
+{621,255, "omejen stožec"},
+{622,255, "stožec, omejen z vrati"},
+{623,255, "simetrični"},
+{624,255, "simetrični UDP požarni zid"},
+{625,255, "UDP blokiran"},
+{626,255, "odprt internet"},
+{627,255, "G723 hitrost"},
+{628,255, "6.3kb/s"},
+{629,255, "5.3kb/s"},
+{630,255, "SIP transport"},
+{631,255, "Uporabljaj RFC3581 simetrično usmerjanje:"},
+{632,255, "Zavrzi anonimne klice"},
+{633,255, "Onemogoči prikaz DTMF med klicem"},
+{634,255, "seznam dogodkov BLF"},
+{635,255, " URI naslov za seznam dogodkov BLF"},
+{636,18, "Izberi iLBC"},
+{637,18, "Izberi G.722"},
+{638,18, "Izberi G.726-32"},
+{639,22, "NEAKTIVNO OMREŽJE"},
+{640,22, "ZAGON OMREŽJA"},
+{641,255, "Toni za napredovanje klica"},
+{642,255, "Klicni ton"},
+{643,255, "Čakajoče sporočilo"},
+{644,255, "Sistemsko zvonjenje"},
+{645,255, "Zvonjenje povratnega klica"},
+{646,255, "Zvonjenje čakajočega klica"},
+{647,255, "Ton za zasedeno"},
+{648,255, "Kontakt za Sklic-na"},
+{649,18, "Shrani v imenik"},
+{650,255, "Ton za novo ureditev"},
+{651,255, "Sintaksa: "},
+{652,255, "(Frekvence so v Hz, ritem je v korakih po 10ms)"},
+{653,255, "Zakasnitev preusmeritve klica"},
+{654,255, "(Dovoljen v mejah med 1-120 s.)"},
+{655,255, "Omogoči izgled klica v skupni rabi:"},
+{656,255, "velikost okvirja iLBC"},
+{657,255, "20ms"},
+{658,255, "30ms"},
+{659,255, "iLBC tip tovora"},
+{660,255, "(med 96 in 127, privzeto je 97)"},
+{661,255, "Čakanje po neuspeli SIP prijavi"},
+{662,255, "(v sekundah. Med 1 in 3600, privzeto je 20)"},
+{663,22, "Prevezovanje"},
+{664,22, "KONFERENCA"},
+{665,22, "Klic ni uspel"},
+{666,22, "Koda razloga: "},
+{667,22, "Prevezava uspešna"},
+{668,22, "Prevezava neuspešna"},
+{669,22, "Preusm. vseh klicev"},
+{670,22, "Preusm. če zasedeno"},
+{671,22, "Preusm. če ni odgovora"},
+{672,22, "Vpišite št. za preusmeritev:"},
+{673,18, "LINIJA 5"},
+{674,18, "LINIJA 6"},
+{675,18, "SLUSALKE"},
+{676,18, "INTERKOM"},
+{677,18, "IMENIK"},
+{678,18, "PROGR. TIPKA 1"},
+{679,18, "PROGR. TIPKA 2"},
+{680,18, "PROGR. TIPKA 3"},
+{681,18, "PROGR. TIPKA 4"},
+{682,255, "RACUN 5"},
+{683,255, "RACUN 6"},
+{684,16, "Zgreš. klici"},
+{685,16, "Preusm. vse"},
+{686,16, "Zbriši"},
+{687,16, "Prekliči preusm."},
+{688,16, "Več ->"},
+{689,16, "Nov klic"},
+{690,16, "Končaj Klic"},
+{691,16, "Ponovi klic"},
+{692,16, "Vrni klic"},
+{693,16, "Kliči"},
+{694,16, "Počisti"},
+{695,16, "Vrni ->"},
+{696,255, "Svetlost LCD zaslona"},
+{697,255, "(0-8, kjer 0 pomeni najtemnejše in 8 najsvetlejše)"},
+{698,255, "Račun 5"},
+{699,255, "Račun 6"},
+{700,255, "Aktivno"},
+{701,255, "Neaktivno"},
+{702,255, "Izključi zvonec v načinu slušalk:"},
+{703,16, "Odgovori"},
+{704,16, "Zavrni"},
+{705,22, "Priprava na pisanje"},
+{706,22, "To lahko traja"},
+{707,255, "Statični IP"},
+{708,255, "XML aplikacija"},
+{709,255, "IP nastavitev"},
+{710,255, "Samodejno klicanje pri dvignjeni slušalki"},
+{711,255, "(ID uporabnik/int. st., ki naj bo samodejno klicana pri dvigu slušalke, max. dolz. 35) "},
+{712,255, "Onemogoči večkratne medijske atribute v SDP: "},
+{713,16, "XML storitev"},
+{714,255, "(privzeto 5068)"},
+{715,255, "(privzeto 5070)"},
+{716,22, "Klicanje"},
+{717,255, "RACUN"},
+{718,255, "Prikazi ime računa<br> namesto datuma:"},
+{719,255, "(Podprt samo numeričen vnos)"},
+{720,255, "Zakasnitev dviga:"},
+{721,255, "Lučka na slušalki izključena"},
+{722,255, "Onemogoči dnevnik klicev:"},
+{723,255, "Onemogoči osvetlitev zaslona za zgrešene klice"},
+{724,255, "Izberi linijo "},
+{725,255, "Pot strežnika"},
+{726,255, "Oznaka programske tipke"},
+{727,255, "Večnamenska tipka 8"},
+{728,255, "Večnamenska tipka 9"},
+{729,255, "Večnamenska tipka 10"},
+{730,255, "Večnamenska tipka 11"},
+{731,255, "Večnamenska tipka 12"},
+{732,255, "Večnamenska tipka 13"},
+{733,255, "Večnamenska tipka 14"},
+{734,255, "Večnamenska tipka 15"},
+{735,255, "Večnamenska tipka 16"},
+{736,255, "Večnamenska tipka 17"},
+{737,255, "Večnamenska tipka 18"},
+{738,255, "Stran gor"},
+{739,255, "Stran dol"},
+{740,255, "Zgrešeno"},
+{741,255, "Preusmerjeno"},
+{742,255, "Odgovor"},
+{743,255, "Ponovni klic"},
+{744,255, "Zavrni"},
+{745,18, "Račun"},
+{746,255, "BLF"},
+{747,255, "Ponastavi Vlan"},
+{748,19, "Naloži imenik"},
+{749,19, "LCD kontrast"},
+{750,255, "Uporabniški ID Interkoma"},
+{751,255, "Tip priključka slušalk:"},
+{752,18, "2.5mm"},
+{753,23, "RJ22"},
+{754,255, "Ojačenje odhodnega zvoka slušalk (dB)"},
+{755,255, "Ojačenje dohodnega zvoka slušalk (dB)"},
+{756,18, " 0 dB"},
+{757,18, "-6 dB"},
+{758,18, "+6 dB"},
+{759,255, "Kabul"},
+{760,255, "Teheran"},
+{761,255, "Venezuela"},
+{762,255, "Angleščina"},
+{763,255, "Sekundarni jezik"},
+{764,255, "Pripona jezikovne datoteke"},
+{765, 255, "Sistemski čas"},
+{766,255, "Številka produkta"},
+{767,255, "IZKLJUČEN"},
+{768,255, "LDAP mapa"},
+{769,255, "Mapa pogleda"},
+{770,255, "Mapa prenosov"},
+{771,255, "Išči konfiguracijo"},
+{772,255, "Izberi filter"},
+{773,255, "Vrednost filtra"},
+{774,255, "Skupno ime"},
+{775,255, "Priimek"},
+{776,255, "Ime"},
+{777,255, "Telefonska številka"},
+{778,255, "Mapa strežnika LDAP skripte"},
+{779,255, "Neobvezno"},
+{780, 22, "Izbris vseh vnosov"},
+{781, 22, "Potrditev"},
+{782, 32, "Potrditev za izbris vseh vnosov?"},
+{783, 32, "Potrditev za izbris vnosa?"},
+{784,255, "Kitajski"},
+{785, 22, "480 NI DOSEGLJIV"},
+{786, 22, "Išči"},
+{787, 22, "Ni najdeno"},
+{788,255, "Onemogoči direktni IP klic"},
+{789,255, "Onemogoči konferenco"},
+{790,255, "(5-720, v minutah)"},
+{791, 18, "Hitra tipka 8"},
+{792, 18, "Hitra tipka 9"},
+{793, 18, "Hitra tipka 10"},
+{794, 18, "Hitra tipka 11"},
+{795, 18, "Hitra tipka 12"},
+{796, 18, "Hitra tipka 13"},
+{797, 18, "Hitra tipka 14"},
+{798, 18, "Hitra tipka 15"},
+{799, 18, "Hitra tipka 16"},
+{800, 18, "Hitra tipka 17"},
+{801, 18, "Hitra tipka 18"},
+{802, 18, "Konfiguracija pristnosti"},
+{803, 18, "Uporabniško ime"},
+{804, 18, "Geslo"},
+{805, 18, "Omrežni način"},
+{806, 18, "Ponastavi"},
+{807, 18, "Napaka pri prijavi"},
+{808, 32, "Neveljavna naprava."},
+{809,255, "Napaka uporabniškega imena in gesla, poizkusi ponovno"},
+{810, 32, "Napaka pri prijavi, 3. poskus!"},
+{811, 32, "Napaka pri nalaganju"},
+{812, 64, "Nalaganje nastavitvene datoteke. Ponovno zaženi"},
+{813, 32, "Shrani uporabniško ime in geslo"},
+{814, 18, "Upravljaj skupino"},
+{815, 18, "prikazi skupino"},
+{816, 18, "Nova skupina"},
+{817, 18, "Izbrisi skupino"},
+{818, 18, "Uredi skupino"},
+{819, 18, "ime"},
+{820, 18, "Črna lista"},
+{821, 25, "Potrdi za izbris skupine?"},
+{822, 25, "Skupina"},
+{823, 25, "Izberi številko za klicanje"},
+{824, 25, "Domači"},
+{825, 25, "Mobilni"},
+{826, 25, "Pisarna"},
+{827, 25, "Fax"},
+{828, 25, "Skupinski zapisi "},
+{829, 75, "Pritisni Imenik za konec"},
+{830, 30, "Način slušalke"},
+{831, 18, "Običajni način"},
+{832, 40, "Preklop slušalka/zvočnik"},
+{833,255, "Ohrani povezavo z uporabo SIP FUNKCIJ"},
+{868, 16, "am"},
+{869, 16, "pm"},
+{870,255, "Prijavljen"},
+{871,255, "Ni prijavljen"},
+{872,255, "Pretečen čas zvenenja"},
+{873,255, "(v sekundah. Med 30-3600, privzeto je 60)"},
+{874,255, "LCD Svetlost"},
+{875,255, "Napačno geslo"},
+{876,255, "Ponovno vpisi"},
+{877,255, "Registracijski račun"},
+{878,255, "Registracija poslana"},
+{879,255, "v sekundah, "},
+{880,255, "Pošlji sporočilo: "},
+{881, 32, "Številka je prepovedana"},
+{882, 32, "Neujemanje s klicnim načrtom"},
+{883, 32, "ODDALJENO"},
+{884,255, "Omogoči MPK pošiljanje DTMF"},
+{885,255, " ob DA pritiskanje tipke ne bo imelo učinka"},
+{886,255, "Onemogoči preusmeritve"},
+{887,255, "Ročno izberi datoteko"},
+{888,255, "NE MOTI"},
+{889,255, " Gumb"},
+{890,255, "Anonimen"},
+{891,255, "PPPoE"},
+{892,25, "Preusmerjeni klici"},
+{893,25, "Preusmerjen klic"},
+{894,255, "Prikazi številko namesto imena"},
+{895,18, "SEJA JE POTEKLA"},
+{896,255, "Prijava za registracijska sporočila:"},
+{897,255, "Predpona za BLF Prevzem klica"},
+{898,255, "(ta predpona je dodana ob prevzemu klica z BLF tipko)"},
+{899,255, "Javni način"},
+{900,32, "Odjava"},
+{901,32, "Vpis"},
+{902,32, "Izpis"},
+{903,255, "Prosimo izberite klicno čakalno vrsto za pridružitev"},
+{904,32, "Prijavljanje..."},
+{905,32, "Prijavljanje..."},
+{906,32, "Prijava spodletela!"},
+{907,32, "Prijava"},
+{908,32, "Uporabniško ime"},
+{909,32, "Geslo"},
+{910,32, "Prijava, Uporabniško ime"},
+{911,32, "Prijava, Geslo"},
+{912,32, "Tab"},
+{913,32, "Naloži ekran XML ob zagonu"},
+{914,32, "PC izhod"},
+{915,32, "Parkiraj klic"},
+{916,32, "Prevzem"},
+{917,32, "Stikalo"},
+{918,32, "Hub"},
+{919,32, "IZBERI ZELENO MPK TIPKO PARKIRAJ KLIC"},
+{921,32, "Onemogoči Multicast Filter"},
+{922,32, "Podatkovna VLAN oznaka"},
+{923,255, "(ni mogoče uporabiti enake oznake kot pri 802.1Q)"},
+{924,32, "Omogoči omejitveni način "},
+{925,32, "Večnamenska tipka"},
+{926,32, "Spremeni UserID"},
+{927,32, "Predaja klica ob delni najavi"},
+{928,32, "RFC5589"},
+{929,32, "Pošlji REFER z zgodnjim sporočilom"},
+{930,32, "Podpora SIP takojšnji ID"},
+{931,255, "XML nastavitveni dokument"},
+{944,32, "Hitro klicanje preko tipkovnice"},
+{1001,255, "Simetričen RTP"},
+{1002,255, "Podpora SIP takojšnji ID"},
+{1003,32, "DNS Način"},
+{1004,32, "Omogoči WDT"},
+{1005,32, "Onemogoči WDT"},
+{1006,255, "STUN"},
+{1007,255, "Ohrani povezavo"},
+{1008,255, "UPnP"},
+{1009,255, "Samodejno"},
+{1010,255, "VPN"},
+{1011,255, "Odstrani OBP iz poti"},
+{1012,32, "PREUSMERJEN"},
+{1013,32, "Končuje"},
+{1014,32, "Spodletelo"},
+{1015,255, "Nacrt klicanja"},
+{1016,255, "Preveri dohodna sporočila"},
+{1017,255, "preusmeri na Konferenco in prekini"},
+{1018,32, "Več"},
+{1019,32, "Nazaj"},
+{1020,32, "Priimek"},
+{1021,32, "Uredi Ime"},
+{1022,32, "Uredi Priimek"},
+{1023,255, "SSL Certifikat"},
+{1024,255, "SSL osebno geslo"},
+{1025,255, "SSL osebno geslo"},
+{1026,255, "Nastavitev preko tipkovnice"},
+{1027,255, "Nezavarovan"},
+{1028,255, "Samo osnovne nastavitve"},
+{1029,255, "Omejen način"},
+{1030,255, "Korejski"},
+{1031,255, "Japonski"},
+{1032,255, "Zvisaj glasnost"},
+{1033,255, "Znizaj glasnost"},
+{1034,255, "Prosimo uporabite 5V napajanje "},
+{1035,255, "Preprost kitajski"},
+{1036,255, "Tradicionalni kitajski"},
+{1037,255, "Italijanski"},
+{1038,255, "Spanski"},
+{1039,255, "Francoski"},
+{1040,255, "Nemski"},
+{1041,32, "Nalaganje novega jezika..."},
+{1042,255, "HTTP/HTTPS Uporabniško ime"},
+{1043,255, "HTTP/HTTPS Geslo"},
+{1044,255, "Pravilo za poletni čas"},
+{1045,18, "NOVO SPOROCILO"},
+{1046,18, "Ned"},
+{1047,18, "Pon"},
+{1048,18, "Tor"},
+{1049,18, "Sre"},
+{1050,18, "Čet"},
+{1051,18, "Pet"},
+{1052,18, "Ned"},
+{1053,18, "$W$M$D"},
+{1054,18, "Menjaj"},
+{1055,18, "Nastavitve"},
+{1056,18, "Računi"},
+{1057,18, "Razširitvene enote"},
+{1058,18, "Samodejno"},
+{1059,18, "Neznan jezik"},
+{1060,32, "Uporabi nastavljen IP"},
+{1061,32, "Primarni IP"},
+{1062,32, "Kopija IP 1"},
+{1063,32, "Kopija IP 2"},
+{1064,32, "Linija"},
+{1065,32, "Skupna linija"},
+{1066,32, "Tipke linij"},
+{1067,32, "Tipka linije"},
+{1068,32, "Večnamenske tipke"},
+{1069,32, "Zasebno zadrži"},
+{1070,32, "Prevzem linije spodletel"},
+{1071,32, "Preveri domenske certifikate"},
+{1072,255, "Ce DA/OMOGOCENO, se preveri domenski certifikat kot je določeno z RFC5922"},
+{1073,32, "Sekundarni SIP strežnik"},
+{1074,32, "Čas prevzema linije potekel"},
+{1075,32, "(v sekundah. med 15-60, standardno je 15) "},
+{1076,16, "Prevzemi linijo"},
+{1077,32, "Uveljavljanje novih nastavitev"},
+{1078,32, "Posodobitev vremena"},
+{1079,32, "Postna številka"},
+{1080,32, "Interval posodobitve"},
+{1081,255, "(v minutah, med 5-360, standardno je 15)"},
+{1082,32, "Enota stopinj"},
+{1083,32, "Fahrenheit"},
+{1084,32, "Celzij"},
+{1085,32, "Posodobi delnice"},
+{1086,32, "Posodobi valuto"},
+{1087,32, "Onemogočen"},
+{1088,32, "Omogočen"},
+{1100,255, "Tornado"},
+{1101,255, "Tropska nevihta"},
+{1102,255, "Orkan"},
+{1103,255, "Mocne nevihte"},
+{1104,255, "Nevihte"},
+{1105,255, "Dez s snegom"}, (Softkey, idle screen, to switch between multiple screens)
+{1106,255, "Dez s snegom"},
+{1107,255, "Dez s snegom"},
+{1108,255, "Ledene dežne kaplje"},
+{1109,255, "Dezne kaplje"},
+{1110,255, "Zled"},
+{1111,255, "Plohe 1"},
+{1112,255, "Plohe 2"},
+{1113,255, "Rahel sneg"},
+{1114,255, "Rahle snežne padavine"},
+{1115,255, "Snezni zameti"},
+{1116,255, "Sneg"},
+{1117,255, "Toca"},
+{1118,255, "Leden dež"},
+{1119,255, "Prasni delci"},
+{1120,255, "Megleno"},
+{1121,255, "Smog"},
+{1122,255, "Meglica"},
+{1123,255, "Mocan veter"},
+{1124,255, "Vetrovno"},
+{1125,255, "Mrzlo"},
+{1126,255, "Oblacno"},
+{1127,255, "Oblacna noč"},
+{1128,255, "Oblacen dan"},
+{1129,255, "Delno oblačna noč"},
+{1130,255, "Delno oblačen dan"},
+{1131,255, "Jasna noč"},
+{1132,255, "Soncno"},
+{1133,255, "Jasna noč"},
+{1134,255, "Jasen dan"},
+{1135,255, "Dez s točo"},
+{1136,255, "Vroce"},
+{1137,255, "Posamezne nevihte"},
+{1138,255, "Razprsene nevihte 1"},
+{1139,255, "Razprsene nevihte 2"},
+{1140,255, "Razprsene plohe"},
+{1141,255, "Mocno sneženje"},
+{1142,255, "Posamezne snežinke"},
+{1143,255, "Sneg"},
+{1144,255, "Delno oblačno"},
+{1145,255, "Nevihte"},
+{1146,255, "Snezne plohe"},
+{1147,255, "Posamezne plohe"},
+{1148,255, "Ni podatka"},
+{1149,255, "Neznan"},
+{1150,255, "Visja"},
+{1151,255, "Nizja"},
+{1152,255, "Vlaznost"},
+{1153,255, "Jutri"},
+{1154,255, "802.1X mode"},
+{1155,255, "Onemogoci"},
+{1156,255, "Identiteta"},
+{1157,255, "MD5 Geslo"},
+{1158,255, "Nadaljuj"},
+{1159,255, "PPPoE ponudnik"},
+{1160,255, "GMT-12:00 (International Date Line West)"},
+{1161,255, "GMT-11:00 (Midway Island, Samoa)"},
+{1162,255, "GMT-10:00 (US Hawaiian Time)"},
+{1163,255, "GMT-09:00 (US Alaska Time)"},
+{1164,255, "GMT-08:00 (US Pacific Time, Los Angeles)"},
+{1165,255, "GMT-07:00 (US Mountain Time, Denver)"},
+{1166,255, "GMT-07:00 (Mountain Time (Arizona, no DST))"},
+{1167,255, "GMT-06:00 (Central Time)"},
+{1168,255, "GMT-06:00 (Central America)"},
+{1169,255, "GMT-05:00 (Eastern Time)"},
+{1170,255, "GMT-04:00 (Caracas, San Juan)"},
+{1171,255, "GMT-04:00 (Atlantic Time)"},
+{1172,255, "GMT-04:00 (Atlantic Time (New Brunswick))"},
+{1173,255, "GMT-03:30 (Newfoundland Time)"},
+{1174,255, "GMT-03:00 (Greenland)"},
+{1175,255, "GMT-03:00 (Brazil, Sao Paulo)"},
+{1176,255, "GMT-02:00 (Argentina)"},
+{1177,255, "GMT-02:00 (Mid-Atlantic)"},
+{1178,255, "GMT-01:00 (Azores, Cape Verde Is.)"},
+{1179,255, "GMT (Edinburgh, Monrovia)"},
+{1180,255, "GMT (London, Great Britain)"},
+{1181,255, "GMT (Lisbon, Portugal)"},
+{1182,255, "GMT (Dublin, Ireland)"},
+{1183,255, "GMT+01:00 (Paris, Vienna, Warsaw, Roma, Madrid, Prague, Berlin, Budapest, Amsterdam, Belgium)"},
+{1184,255, "GMT+01:00 (Roma, Paris, Madrid, Prague, Berlin, Budapest, Amsterdam, Barcelona)"},
+{1185,255, "GMT+01:00 (Brussels, Belgium)"},
+{1186,255, "GMT+02:00 (Israel, Cairo, Athens, Istanbul, Buchrest)"},
+{1187,255, "GMT+02:00 (Helsinki, Athens, Tallinn, Buchrest)"},
+{1188,255, "GMT+02:00 (Kyiv, Ukraine)"},
+{1189,255, "GMT+03:00 (Kuwait, Baghdad, Tehran, Nairobi)"},
+{1190,255, "GMT+03:00 (Moscow, Russia)"},
+{1191,255, "GMT+03:00 (St.Petersburg, Russia)"},
+{1192,255, "GMT+04:00 (Abu Dhabi, Baku)"},
+{1193,255, "GMT+05:00 (Islamabad, Ekaterinburg, Karachi, Tashkent)"},
+{1194,255, "GMT+05:30 (Chennai, New Delhi, Mumbai)"},
+{1195,255, "GMT+05:45 (Kathmandu)"},
+{1196,255, "GMT+06:00 (Almaty, Astana, Dhaka, Novosibirsk)"},
+{1197,255, "GMT+06:30 (Rangoon)"},
+{1198,255, "GMT+07:00 (Bankok, Hanoi, Krasnoyarsk)"},
+{1199,255, "GMT+07:00 (Jakarta)"},
+{1200,255, "GMT+08:00 (Beijing, Taipei, Kuala Lumpur, Irkutsk)"},
+{1201,255, "GMT+08:00 (Singapore)"},
+{1202,255, "GMT+08:00 (Ulaanbaatar, Mongolia)"},
+{1203,255, "GMT+08:00 (Perth)"},
+{1204,255, "GMT+09:00 (Japan, Korea, Yakutsk)"},
+{1205,255, "GMT+09:30 (Adelaide)"},
+{1206,255, "GMT+09:30 (Darwin)"},
+{1207,255, "GMT+10:00 (Guam)"},
+{1208,255, "GMT+10:00 (Hobart)"},
+{1209,255, "GMT+10:00 (Hobart, Sydney, Melbourne, Canberra)"},
+{1210,255, "GMT+10:00 (Brisbane)"},
+{1211,255, "GMT+11:00 (Magadan, Solomon Is., New Caledonia)"},
+{1212,255, "GMT+12:00 (Auckland, Wellington)"},
+{1213,255, "GMT+12:00 (Fiji)"},
+{1214,255, "GMT+13:00 (Nuku'alofa)"},
+{1215,255, "Temperatura"},
+{1216,255, "Napoved"},
+{1217,255, "Danes"},
+{1218,255, "Delnice"},
+{1219,255, "Zadnja nadgradnja"},
+{1220,255, "Valuta"},
+{1221,32, "Osveži delnice"},
+{1222,32, "Osveži valuto"},
+{1223,32, "Obrni valuto"},
+{1224,255, "Omogoči ZVEZDICO za zaklepanje tipkovnice"},
+{1225,255, "Geslo za odklepa/zaklepa"},
+{1226,255, "PREKINJENO OMREZJE"},
+{1227,255, "ACS URL"},
+{1228,255, "Napačno uporabniško ime/geslo"},
+{1229,255, "Napačna serijska številka"},
+{1230,255, "TR-069 Uporabniško ime"},
+{1231,255, "TR-069 Geslo"},
+{1232,255, "Shrani prijavne podatke"},
+{1233,255, "Samodejna prijava"},
+{1234,255, "Novo geslo"},
+{1235,255, "Ponovi geslo"},
+{1236,255, "Sprememba gesla spodletela"},
+{1237,255, "Geslo spremenjeno"},
+{1238,255, "Povezovanje..."},
+{1239,255, "Novo geslo se ne ujema"},
+{1240,255, "Spreminjanje gesla..."},
+{1241,255, "Potekel je čas prijave"},
+{1242,255, "Potekel je čas za spremembo gesla"},
+{1243,255, "Nadgradnja preko ACS?"},
+{1244,255, "Preusmerjeni klici"},
+{1245,255, "Vse preusmeritve preklicane"},
+{1246,255, "Dodaj"},
+{1247,255, "Nov preusmerjen klic"},
+{1248,255, "Novi preusmerjeni klici"},
+{1249,255, "TR-069"},
+{1250,255, "Omogoči redne informacije"},
+{1251,255, "Interval rednih informacij"},
+{1252,255, "Povezava zahteva uporabniško ime"},
+{1253,255, "Povezava zahteva geslo"},
+{1254,255, "Spremeni geslo"},
+{1255,255, "Omogoči samodejno prijavo"},
+{1256,255, "Onemogoči samodejno prijavo"},
+{1257,255, "Potrdi spremembe"},
+{1258,255, "URI konference"},
+{1259,255, "Omogoči TR-069"},
+{1260,255, "PRIJAVA za registracijo"},
+{1261,255, "Staro geslo"},
+{1262,255, "Potrditveno geslo"},
+{1263,255, "S/N"},
+{1264,255, "Potekel je čas povezave"},
+{1265,255, "Klici DTMF"},
+{1266,255, "Na voljo je nova posodobitev"},
+{1267,255, "Nadgradi na novo verzijo?"},
+{1268,32, "Preusmerjen klic"},
+{1269,32, "Nov"},
+{1270,32, "Star"},
+{1271,32, "China Telecom način"},
+{1272,32, "Od"},
+{1273,32, "Za"},
+{1274,32, "Preusmerjeno za"},
+{1275,255, "Prijava administrator"},
+{1276,255, "Nastavitve ure"},
+{1277,255, "GMT-06:00 (Guadalajara, Mexico City, Monterrey)"},
+{1278,255, "GMT-07:00 (Chihuahua, La Paz, Mazatlan)"},
+{1279,255, "GMT-08:00 (Baja California)"},
+{1280,255, "Status storitve"},
+{1281,255, "Posnetek jedra"},
+{1282,255, "Pošlji SIP dnevnik"},
+{1283,32, "Prenašanje SCR XML"},
+{1284,32, "Brisanje SCR XML"},
+{1285,255, "Omogoči posodobitev vremena"},
+{1286,255, "Omogoči posodobitev borznih tečajev"},
+{1287,255, "Omogoči posodobitev valutnih tečajev"},
+{1288,255, "Koda za borzne tečaje"},
+{1289,255, "koda za valutne tečaje"},
+{1290,255, "Izberi linijo ali nov klic"},
+{1291,255, "Nov klic"},
+{1292,32, "Predaja"},
+{1293,255, "Predaja brez najave"},
+{1294,32, "Razdvoji"},
+{1295,255, "Preklicane vse preusmeritve"},
+{1296,255, "Preklicana preusmeritev ob Zasedenosti"},
+{1297,255, "Preklicana preusmeritev ob Ni odgovora"},
+{1298,32, "Onemogoči pošiljanje lastne st."},
+{1299,32, "Omogoči pošiljanje lastne st."},
+{1300,255, "Javni internet"},
+{1301,255, "Polni NAT"},
+{1302,255, "Omejeni NAT"},
+{1303,255, "NAT omejen glede na vrata"},
+{1304,255, "Simetričen NAT"},
+{1305,255, "Simetričen UDP"},
+{1306,255, "UDP Blokiran"},
+{1307,255, "Nepoznan NAT"},
+{1308,255, "TURN"},
+{1309,255, "UPnP"},
+{1310,255, "NAT-PMP"},
+{1311,255, "STUN"},
+{1312,255, "Ročno definirana koda mesta"},
+{1313,255, "Način preverjanja pristnosti"},
+{1314,255, "Vrata za pošiljanje zahteve"},
+{1315,255, "G.726-32 Način pakiranja"},
+{1316,255, "Vnesite alfa numerične znake"},
+{1317,255, "Samo znaki ASCII"}, (Web, Basic Settings Page)
+{1318,255, "Vnesite brez presledkov"}, (Web, Basic Settings Page)
+{1319,32, "EAP-MD5"}, (Web, Basic Settings Page)
+{1320,32, "Način"}, (Web, Status Page)
+{1321,32, "802.1X"}, (Web, Status Page)
+{1322,32, "Glasovna pošta"}, (web, Advanced Settings Page)
+{1323,32, "Prijava za javni način"}, (Gui, Warning message for Download SCR XML)
+{1324,32, "Uporabniško ime"}, (Gui, Warning message for "Erase Custom SCR)
+{1325,32, "Geslo"}, (Web, Basic Setting Page)
+{1326,32, "Potrebno je uporabniško ime"}, (Web, Basic Setting Page)
+{1327,32, "Zahtevano je geslo"}, (Web, Basic Setting Page)
+{1328,32, "Obdelujem zahtevo za prijavo..."}, (Web, Basic Setting Page)
+{1329,32, "Obdelujem zahtevo za odjavo..."}, (Web, Basic Setting Page)
+{1330,32, "Časovna omejitev zahteve"},
+{1331,32, "Odjava ni uspela"},
+{1332,32, "Prijava ni uspela"},
+{1333,32, "Ne morem dostopati do strežnika"},
+{1334,32, "Nalagam podatke o računu..."},
+{1335,32, "Shranjujem podatke o računu..."},
+{1336,255, "Vnesite veljaven naslov IPv4 "},
+{1337,32, "Noben zapis se ne ujema"},
+{1338,255, "Telefonska številka za podporo"}, (LCD, indication msg when you use *xx to disable CallerID)
+{1339,255, "Nekatere spremembe nastavitev bodo uèinkovale šele po ponovnem zagonu."}, (LCD, indication msg when you use *xx to enable CallerID)
+{1340,255, "Onemogoèite možnost 248 DHCP"}, (Web, Status Page)
+{1341,32, "Stanje omrežja"}, (Web, Status Page)
+{1343,32, "TR-069 mora biti povezan!"}, (Web, Status Page)
+{1344,32, "Napačna številka"}, (Web, Status Page)
+{1345,32, "Brez odgovora"}, (Web, Status Page)
+{1346,32, "Linija je zasedena"}, (Web, Status Page)
+{1347,32, "DNS 1"}, (Web, Status Page)
+{1348,32, "DNS 2"}, (Web, Status Page)
+{1349,32, "123"}, (Web, Status Page)
+{1350,32, "abc"}, (Web, Status Page)
+{1351,255, "Ne izstopite '#' kot %23 v SIP URI"}, (Web, Status Page)
+{1352,32, "Izbris vseh"}, (Web, Status Page)
+{1353,255, "Potrjujete izbris zgodovine vseh klicev?"}, (Web, Advanced Settings Page)
+{1354,32, "Izberi čakajoči klic"},
+{1355,255, "Shema SIP URI med uporabo TLS"},
+{1356,255, "(npr. http://acs.mojadruzba.com, ali IP naslov)"}, (Web, Account Pages)
+{1357,255, "Sinhronizacija posebnega gumba"}, (Web, Validation for alphanumeric)
+{1358,255, "Ponovno se prijavi pred potekom"}, (Web, Validation for asciicharacters)
+{1359,255, "v sekundah. Privzeta nastavitev 0 sekund"}, (Web, Validation for nowhitespace)
+{1360,32, "Konferenčni klic"}, (Web, Basic Setting Page)
+{1361,32, "Ponovi konferenčni klic"},
+{1362,32, "Lastnosti klica"},
+{1363,32, "Posredovanje vseh klicev"}, (Softkey, softkey for voicemail)
+{1364,32, "Posredovanje klicev, če je številka zasedena"}, (LCD, public mode menu title)
+{1365,32, "Posredovanje klicev, če ni odgovora"}, (LCD, public mode username label)
+{1366,32, "Časovna omejitev, če ni odgovora"}, (LCD, public mode password label)
+{1367,32, "Račun je trenutno onemogočen."}, (LCD, public mode warning window)
+{1368,32, "Račun ni registriran."}, (LCD, public mode warning window)
+{1369,32, "Onemogoči"}, (LCD, public mode warning window)
+{1370,32, "Omogoči"}, (LCD, public mode warning window)
+{1371,32, "Vpišite vhodno vrednost"}, (LCD, public mode warning window)
+{1372,32, "Posredovanje klica"}, (LCD, public mode warning window)
+{1373,32, "Posredovanje klica na številko"}, (LCD, public mode warning window)
+{1374,32, "Vrsta posredovanja klica"}, (LCD, public mode warning window)
+{1375,32, "Takojšnje posredovanje klica"}, (LCD, public mode warning window)
+{1376,32, "Posredovanje klica z zamikom"}, (LCD, public mode warning window)
+{1377,255, "Uporabi dejanska kratkotrajna vrata v stiku s TCP/TLS"}, (Web, Validation for ipv4part)
+{1378,32, "Glasovna sporočila"}, (LCD, Empty record page)
+{1379,32, "Ustvari uporabniško ime za glasovno pošto"}, (Web, customer support number, this is for Tianwei OEM model only)
+{1380,32, "Številnica je zaklenjena"}, (Web, update message)
+{1381,32, "IPv4"}, (Web, Advanced settings)
+{1382,32, "IPv6"}, (Gui, Menu)
+{1383,32, "Internetni protokol"}, (LCD, tr-069 warning window)
+{1384,32, "Prednost ima IPv4"}, (LCD, ChinaTelecom OEM Display Strings upon receiving 404)
+{1385,32, "Prednost ima IPv6"}, (LCD, ChinaTelecom OEM Display Strings upon receiving 408)
+{1386,255, "Dovoli, da DHCP Option120 preglasi SIP strežnik"}, (LCD, ChinaTelecom OEM Display Strings upon receiving 486)
+{1387,255, "Vnesite veljaven naslov IPv4/IPv6"}, (LCD, Status, Netowrk Status)
+{1388,32, "POVEZAN"}, (LCD, Status, Netowrk Status)
+{1389,32, "Ali res želite ponastaviti na privzete nastavitve?"}, (LCD, public mode softkey label)
+{1390,32, "Izgubili boste vse svoje nastavitve in podatke. Potrdite za nadaljevanje."}, (LCD, public mode softkey label)
+{1391,32, "TR-069 časovna omejitev"}, ( Web, advanced setting )
+{1392,32, "Napaka povezave na omrežje"}, (LCD, call history page)
+{1393,32, "Za prevzem novih nastavitev morate napravo ponovno zagnati. Ponovno zaženi zdaj?"}, (LCD, clearall call history page)
+{1394,32, "Zaganjanje ..."}, (LCD, N-way conference add)
+{1395,32, "Zaganjanje DHCP-ja ..."}, (Web, Account setting page)
+{1396,32, "Zaganjanje DHCP-ja ... končano"}, ( Web, advanced setting )
+{1397,32, "Nalaganje uporabniških podatkov ..."}, ( Web, advanced setting )
+{1398,32, "Nalaganje uporabniških podatkov ... končano"}, (Web, Account setting page)
+{1399,32, "Nalaganje aplikacije ..."}, (Web, Account setting page)
+{1400,32, "Zaganjanje PPPoE-ja ..."}, (Softkey, after conference hold)
+{1401,32, "Zaganjanje PPPoE-ja ... končano"}, (Softkey, after call made for conference)
+{1402,32, "Nastavljanje statičnega IP-ja"}, (LCD MENU, Call features)
+{1403,32, "PPPoE: Vzpostavljanje povezave"}, (LCD MENU, Call features)
+{1404,32, "PPPoE: Preverjanje pristnosti"}, (LCD MENU, Call features)
+{1405,32, "PPPoE: Pridobi naslov"}, (LCD MENU, Call features)
+{1406,32, "PPPoE: Povezava vzpostavljena"}, (LCD MENU, Call features)
+{1407,32, "PPPoE: Prev. pristnosti ni uspelo"}, (LCD MENU, Call features warning msg)
+{1408,32, "Obnova sistemske programske opreme"}, (LCD MENU, Call features warning msg)
+{1409,32, "Posodobitev sistemske programske opreme"}, (Softkey, Call features)
+{1410,32, "Nadgrajevanje"}, (Softkey, Call features)
+{1411,32, "Prenos tonov zvonjenja"}, (LCD MENU, Call features warning msg)
+{1412,32, "Nepopolna obnova"},
+{1413,32, "Ponoven zagon"},
+{1414,32, "Prenos"},
+{1415,32, "NEPOVEZAN"},
+{1416,255, "Geslo mora imeti vsaj 6 znakov v kombinaciji črk in številk"},
+{1417,255, "Oznaka 802.1Q/VLAN mora biti veèja od 0"}, (Web, Account setting page)
+{1418,255, "Vrednost med [0] in [1]"}, (LCD MENU, Voicemails)
+{1419,255, "Brez preverjanja pristnosti"}, (LCD MENU, Voicemails warning msg)
+{1420,255, "Osnoven"}, (LCD, gxp1400 keypad lock)
+{1421,255, "Izvleček"}, (LCD, DirectIP screen, Softkey)
+{1422,255, "Napadeno staro geslo"}, (LCD, DirectIP screen, Softkey)
+{1423,255, "Tip medpomnilnika trepetanja"}, (Web, Basic setting page)
+{1424,255, "Popravljeno"}, (Web, Basic setting page)
+{1425,255, "Prilagojeno"}, (Web, Basic setting page)
+{1426,255, "Dolžina medpomnilnika trepetanja"}, (Web, basic setting page)
+{1427,255, "Vrednost je zahtevana"}, (Web, Validation for ipv4ipv6)
+{1428,255, "Ni mogoče izbrisati/spremeniti fiksne skupine"}, (LCD MENU, Status)
+{1429,255, "Preveč skupin!"}, (LCD, Menu factory reset)
+{1430,255, "Skupina"}, (LCD, Menu factory reset level2)
+{1431,255, "Ne morem se pridružiti skupini"}, (LCD Warning Screen, msg on warning bar when TR-069 connection get timeout)
+{1432,255, "Neveljavno ime skupine"}, (LCD Warning Screen, msg on warning bar when network connect has problem)
+{1433,255, "Rezultati iskanja"}, (LCD, Menu to reboot after configuration change)
+{1434,255, "Skupine"}, (LCD, System Bootup message)
+{1435,255, "Skupina že obstaja!"}, (LCD, System Bootup message)
+{1436,255, "Družina"}, (LCD, System Bootup message)
+{1437,255, "Prijatelji"}, (LCD, System Bootup message)
+{1438,255, "Zaposlitev"}, (LCD, System Bootup message)
+{1439,32, "Polje mora biti med 0 in 4095"}, (LCD, System Bootup message)
+{1440,32, "Prioriteta mora biti med 0 in 7"}, (LCD, System Bootup message)
+{1441,32, "Polje se ne sme zaèeti z niè"}, (LCD, System Bootup message)
+{1442,255, "Ime"}, (LCD, System Bootup message)
+{1443,255, "Priimek"}, (LCD, System Bootup message)
+{1444,255, "Telefonska številka"}, (LCD, System Bootup message)
+{1445,255, "Brez zapisa"}, (LCD, System Bootup message)
+{1446,255, "Noben zapis se ne ujema"}, (LCD, System Bootup message)
+{1447,255, "Izvozi imenik XML"}, (LCD, System Bootup message)
+{1448,255, "Uvozi imenik XML"},
+{1449,255, "Uvozi imenik"},
+{1450,255, "Prenašanje..."},
+{1451,255, "Prenos"},
+{1452,255, "Uspešen prenos datoteke. Počakajte, telefon obdeluje uvožene podatke..."},
+{1453,255, "Prenesen imenik še ni bil obdelan. Prosimo, počakajte..."},
+{1454,255, "Prenos datoteke ni uspel"},
+{1455,255, "Klicanje"}, (LCD MENU, TR069 Status)
+{1456,255, "Počakajte, telefon obdeluje vašo zahtevo..."}, (Web, Password validation message)
+{1457,255, "Klicanje [0]... "}, (Web, 802.1 condition validatoin)
+{1458,255, "USPEŠNO"}, (Web, Range value validation)
+{1459,255, "NEUSPEŠNO"}, (Web, Advanced settings: Authentication Method)
+{1460,255, "Naslednje"}, (Web, Advanced settings: Authentication Method)
+{1461,255, "Prejšnje"}, (Web, Advanced settings: Authentication Method)
+{1462,255, "Kontakti"}, (LCD MENU, TR-069:Change Password:Old password, error message when user input wrong old password)
+{1463,255, "IMENIK"}, (Web, Account page, for define jitter buffer type)
+{1464,255, "Išči po imeniku"}, (Web, Account page, Fixed jitter buffer type)
+{1465,32, "Obdelujem spletno posodobitev"}, (Web, Account page, Adaptive jitter buffer type)
+{1466,255, "Račun"}, (Web, Account page, for define jitter buffer length)
+{1467,255, "Skupine"}, (Web, required field validation)
+{1468,255, "Shrani"}, (LCD, Warning message for trying to delete a permanent group)
+{1469,255, "Izbriši"}, (LCD, Warning message for trying to add more than maximum groups)
+{1470,255, "Uredi stik"}, (MENU LCD)
+{1471,255, "Dodaj stik"}, (LCD, Warning message for joining non existent group)
+{1472,255, "Dodaj nov stik"}, (LCD, Warning message for invalid group names)
+{1473,255, "Pošiljam zahteve"}, (LCD, Phonebook search result page title)
+{1474,255, "Prejem zahteve"}, (MENU LCD, Title for Menu Groups Page)
+{1475,255, "Obdelava zahteve"}, (LCD, Warning message for duplicate Groups)
+{1476,255, "Obdelava zaključena"}, (LCD, Permanent Group Name)
+{1477,255, "Časovna omejitev pošiljanja zahteve"}, (LCD, Permanent Group Name)
+{1478,255, "Izbran spletni zapis se ne ujema s shranjenim zapisom sistema"}, (LCD, Permanent Group Name)
+{1479,255, "Ne morem najti izbranega spletnega zapisa v sistemu"}, (LCD, Warning message for invalid 802.1 tag)
+{1480,255, "Imenik je dosegel največjo dovoljeno velikost. Ne morem veè dodajati zapisov"}, (LCD, Warning message for invalid 802.1 priority)
+{1481,255, "Napaka pri dodajanju zapisa v imenik"}, (LCD, Warning message for 802.1 priority without tag)
+{1482,255, "Obdelava vnosa ni uspela, saj je vnos neveljaven"}, (Web, Phonebook List - Column Name)
+{1483,255, "Imenik je trenutno zaposlen"}, (Web, Phonebook List - Column Name)
+{1484,255, "Vse skupine"}, (Web, Phonebook List - Column Name)
+{1485,255, "Prosimo, vnesite le številke"}, (Web, Phonebook List - Message)
+{1486,32, "Spremeni in kliči"}, (Web, Phonebook List - Message)
+{1487,255, "Hitro pisanje zgodovine klicev"}, (Web, Phonebook Page - Links)
+{1488,255, "0 pomeni, da je možnost onemogoèena"}, (Web, Phonebook Page - Links)
+{1489,255, "Nastavitve zgodovine hranjena klicev"}, (Web, Phonebook Page - Import Modal)
+{1490,32, "Konferenca s tremi klicatelji"}, (Web, Phonebook Page - Import Modal)
+{1491,32, "omogoči gumb FLASH kot CONF:"}, (Web, Phonebook Page - Import Modal)
+{1492,255, "Največji neohranjen zapis"}, (Web, Phonebook Page - Import Modal)
+{1493,32, "Diagnostika tipkovnice"}, (Web, Phonebook Page - Import Modal)
+{1494,32, "Pritisnite vse razpoložljive tipke..."}, (Web, Phonebook Page - Import Modal)
+{1495,32, "ZAKLJUÈENO. Pritisnite KLJUKO za izhod..."}, (Web, Phonebook Page - Calling Modal)
+{1496,32, "Oblika prikaza datuma"}, (Web, Phonebook Page - Calling Modal)
+{1497,32, "yyyy-mm-dd"}, (Web, Phonebook Page - Calling Modal)
+{1498,32, "mm-dd-yyyy"}, (Web, Phonebook Page - Calling Modal)
+{1499,32, "dd-mm-yyyy"}, (Web, Phonebook Page - Calling Modal)
+{1500,32, "dddd, MMMM dd"}, (Web, Phonebook List - Paging)
+{1501,32, "MMMM dd, dddd"}, (Web, Phonebook List - Paging)
+{1502,32, "$M$D, $W"}, (Web, Navigation Menu - TOP)
+{1503,32, "$Y-$o-$B"}, (Web, Navigation Menu - SUB)
+{1504,32, "$o-$B-$Y"}, (Web, Phonebook search input watermark)
+{1505,32, "$B-$o-$Y"}, (LCD, Warning Message: System Update)
+{1506,255, "(nekatere izmed možnosti morda ne bodo ustrezale obliki zaslona) "}, (Web, Contact Editor)
+{1507,255, "Avtorske pravice"}, (Web, Contact Editor)
+{1508,32, "Nadaljuj program"}, (Web, Editor Options)
+{1509,32, "Izhod iz programa"}, (Web, Editor Options)
+{1510,32, "Ste prepričani, da želite zapreti trenutni program?"}, (Web, Contact Editor)
+{1511,255, "Izprazni datoteke izvoza jedra"}, (Web, Contact Editor)
+{1512,32, "Samodejna obnova iz nenormalnega stanja"}, (Web, Phonebook Page - Links)
+{1513,255, "Samodejna obnova iz nenormalnega stanja"}, (Web, Phonebook Page - Process Result)
+{1514,32, "%s"}, (Web, Phonebook Page - Process Result)
+{1515,32, "%s klicanje"}, (Web, Phonebook Page - Process Result)
+{1516,32, "Klicanje %s"}, (Web, Phonebook Page - Process Result)
+{1517,32, "%s klicanje"}, (Web, Phonebook Page - Process Result)
+{1518,32, "Pogovor z %s"}, (Web, Phonebook Page - Process Result)
+{1519,32, "Čakajoči klic: %s"}, (Web, Phonebook Page - Process Result)
+{1520,32, "Povezovanje z %s neuspešno"}, (Web, Phonebook Page - Process Result)
+{1521,32, "Prenos klica k %s"}, (Web, Phonebook Page - Process Result)
+{1522,32, "Prosimo, počakajte..."}, (Web, Phonebook Page - Process Result)
+{1523,32, "Konferenčni klic"}, (Web, Phonebook Page - Process Result)
+{1524,32, "Oddaljena stranka"}, (Web, Phonebook Page - Group Selector)
+{1525,32, "Kliči številko ALI izberi linijo"}, (Web, Validation for digitonly)
+{1526,32, "Prenašanje klica"}, (LCD, call history entry and phonebook entry)
+{1527,32, "Neveljaven IP naslov"}, (Web, call history saving parameter)
+{1528,32, "%s kliče"}, (Web, call history saving parameter)
+{1529,32, "Onemogočen čakajoči klic za vse klice"}, (Web, call history saving parameter)
+{1530,32, "Omogočen čakajoči klic za vse klice"},
+{1531,255, "Prenesi nastavitve naprave"},
+{1532,255, "Prenos"}, (Web, call history saving parameter)
+{1533,255, "Potrditev gesla"},
+{1534,255, "Neujemanje gesel"},
+{1535,32, "Imenik zapolnjen"},
+{1536,255, "Zvočnik vedno zvoni"},
+{1537,32, "%s °F"},
+{1538,32, "%s °C"},
+{1539,22, "Novo neposredno sporoèilo "},
+{1540,18, "PRIPRAVLJENI KLICI 19"},
+{1541,18, "PRIPRAVLJENI KLICI 20"},
+{1542,18, "PRIPRAVLJENI KLICI 21"}, (Date time format. Do not translate. Rearrange only.)
+{1543,18, "PRIPRAVLJENI KLICI 22"}, (Date time format. Do not translate. Rearrange only.)
+{1544,18, "PRIPRAVLJENI KLICI 23"}, (Date time format. Do not translate. Rearrange only.)
+{1545,18, "PRIPRAVLJENI KLICI 24"}, (Date time format. Do not translate. Rearrange only.)
+{1546,18, "LINIJA7"},
+{1547,18, "LINIJA8"}, (Web, copyright statement)
+{1548,255, "Povečaj prenos slušalke (dB)"}, (Softkey, Resume Application)
+{1549,32, "Posredovane klice"}, (LCD, MenuTitle- Exit XML App)
+{1550,32, "Posredovanje klica "}, (LCD, MenuBody- Exit XML App)
+{1551,32, "LINIJA %s"}, (Web, function to empty core dump files)
+{1552,32, "Prenos"}, (LCD, auto recover message)
+{1553,32, "HITRO KLICANJE %s"}, (Web, auto recover option)
+{1554,32, "Račun %s"}, (LCD, CallStatus String: EMPTY INPUT %s as simply display status)
+{1555,32, "RAČUN %s"}, (LCD, CallStatus String: DIALING %s as Account)
+{1556,32, "Večnamenska tipka %s"}, (LCD, CallStatus String: RINGING %s as calling number)
+{1557,32, "izbira %s"}, (LCD, CallStatus String: CALLING %s as calling number)
+{1558,32, "Dodatna tipka %s"}, (LCD, CallStatus String: CONNECTED %s as calling number)
+{1559,32, "PROGR. TIPKA %s"}, (LCD, CallStatus String: ONHOLD %s as calling number)
+{1560,32, "Dodatni panel %s"}, (LCD, CallStatus String: FAILED %s as calling number)
+{1561,32, "navadno zvonjenje %s"}, (LCD, CallStatus String: TRANSFER %s as calling number)
+{1562,32, "Parkiranje klica"}, (LCD, Callscreen waiting msg)
+{1563,32, "Interkom"}, (LCD, Callscreen Conference call)
+{1564,255, "Naslov IPv4"}, (LCD, Callscreen strings)
+{1565,255, "Naslov Ipv6"}, (LCD, Callscreen strings)
+{1566,32, "Čakanje"}, (LCD, Callscreen strings)
+{1567,32, "Nadaljuj"}, (LCD, Direct IP Call strings)
+{1568,32, "Glasovna pošta"}, (LCD, CallStatus String: PAGING %s as calling number)
+{1569,32, "Naslov strežnika"}, (LCD, call feature, *50)
+{1570,32, "Vrata"}, (LCD, call feature, *51)
+{1571,32, "Osnova"}, (Web, Download Device Configuration title/Advanced Settings Page)
+{1572,32, "Uporabniško ime"}, (Web, Download Device Configuration button/Advanced Settings Page)
+{1573,32, "Geslo"}, (Web, confirm password label)
+{1574,32, "Filter LDAP številke"}, (Web, confirm password error)
+{1575,32, "Filter imena LDAP"}, (LCD, Add new entry)
+{1576,255, "Različica LDAP "}, (Web, Always ring speaker option)
+{1577,32, "Lastnosti LDAP imena"}, (LCD, F Degree format)
+{1578,32, "Lastnosti LDAP številke"}, (LCD, C Degree format)
+{1579,32, "Ime za prikaz LDAP"}, (LCD, New Instant Messages)
+{1580,32, "Maks. zadetkov"}, (LCD, Speed dial keys)
+{1581,32, "Časovna omejitev iskanja"}, (LCD, Speed dial keys)
+{1582,32, "Razvrsti rezultate"}, (LCD, Speed dial keys)
+{1583,255, "Išči LDAP"}, (LCD, Speed dial keys)
+{1584,255, "Dohodni klici"}, (LCD, Speed dial keys)
+{1585,32, "Ogled stika"}, (LCD, Speed dial keys)
+{1586,255, "Sprejmi samo po mikrofonu"}, (LCD, Line Key)
+{1587,255, "Samodejno nastavljeno"}, (LCD, Line Key)
+{1588,255, "Statično nastavljeno"}, (Web, basic config page)
+{1589,255, "V celoti statično"}, (Softkey, Softkey for Forwaded CallLog)
+{1590,255, "Predpona statično"}, (LCD Menu, forward call in preference)
+{1591,255, "Statičen naslov IPv6"}, (LCD Screen, display name of the LINE, %s as line number)
+{1592,255, "Predpona protokola IPv6 (64 bitov)"},
+{1593,255, "Dolžina predpone IPv6"},
+{1594,255, "Proxy"},
+{1595,255, "(0-32000, 0 pomeni vse)"},
+{1596,255, "Iskanje LDAP"},
+{1597,32, "Iskanje po imeniku LDAP"},
+{1598,32, "Filter"},
+{1599,32, "Vsi"},
+{1600,32, "Imena"},
+{1601,32, "Številke"},
+{1603,255, "Časovna omejitev po prekinitvi"},
+{1604,255, "(med 10 in 60 sekund, tovarniško nastavljeno na 30 sekund)"},
+{1605,255, "LDAP"},
+{1606,255, "Odhodni klici"},
+{1607,255, "Različica 2"}, (LCD, Softkey Call Hold)
+{1608,255, "Različica 3"}, (LCD, Softkey Call Unhold)
+{1609,255, "(0-180, v sekundah)"},
+{1610,32, "Razvrščeno"},
+{1611,32, "Nerazvrščeno"},
+{1612,32, "Račun je deljena linija"},
+{1613,255, "Vrsta slušalke"},
+{1614,255, "Običajno"},
+{1615,255, "Plantronics EHS"},
+{1616,255, "Ujemi ID dohodnega klica"},
+{1617,255, "Pravila ujemanja"}, (WEB, Advanced setting page, LDAP related setting)
+{1618,255, "Značilna zvonjenja"},
+{1619,32, "Iskanje LDAP…"},
+{1620,32, "Iskanje uspešno"},
+{1621,32, "Brez zadetka"},
+{1622,32, "Neveljavni atribut"}, (WEB, Advanced setting page, LDAP related setting)
+{1623,32, "Iskanje ni uspelo"},
+{1624,255, "Dovoljeni samo A-Z, a-z, in 0-9"}, (WEB, Advanced setting page, LDAP related setting)
+{1625,32, "Telefon"}, (WEB, Advanced setting page, LDAP related setting)
+{1626,32, "Opis"},
+{1627,32, "Časovna omejitev iskanja potekla"}, (WEB, comment for possible one way audio when configure)
+{1628,32, "Onemogoči telnet"}, (web, basic setting page, IPv6 selection)
+{1629,255, "Klicanje številke med klicem ob pritisku na gumb za prenos"}, (web, basic setting page, IPv6 selection)
+{1630,255, "Vmesnik je zaklenjen za 15 minut."}, (web, basic setting page, IPv6 Static selection)
+{1631,255, "Uporabi tipko imenika za iskanje LDAP"}, (web, basic setting page, IPv6 Static selection)
+{1632,32, "Območje brez omrežja"}, (web, basic setting page, IPv6 full Static IP address)
+{1633,32, "Podvojena SŠ"}, (web, basic setting page, IPv6 IP Prefix)
+{1634,32, "Preveč nepravilnih vnosov"}, (web, basic setting page, IPv6 IP Prefix length)
+{1635,32, "Klic v sili"}, (web, basic setting page, HTTP and HTTPS Proxy)
+{1636,32, "KLIC V SILI"}, (web, advanced setting page, Max Hits. for LDAP)
+{1637,255, "Sekundarni izhodni Proxy strežnik"}, (WEB, MPK function)
+{1638,32, "Obvestilo o strošku"}, (LCD, LDAP Directory Search Title)
+{1639,255, "Išči po imenu prikaza"}, (Softkey, Search Filter)
+{1640,255, "Certifikat CPE SSL"}, (LCD, LDAP search filter option)
+{1641,255, "Zasebni ključ CPE SSL"}, (LCD, LDAP search filter option)
+{1642,255, "Telefon"}, (LCD, LDAP search filter option)
+{1643,255, "Pokliči številko"}, (WEB, advanced setting page)
+{1644,255, "Prvo razpoložljivo"}, (WEB, advanced setting page)
+{1645,255, "Pokliči"}, (softkey, displayed on idle/call screen when LDAP is configured)
+{1646,255, "Seja bo potekla v manj kot minuti."}, (WEB, Advanced setting page, LDAP related setting)
+{1647,255, "Kliknite &quot;OK&quot;, če želite podaljšati priklopljeno sejo, ali &quot;Log Of&quot;, če želite takoj zaključiti sejo."}, (WEB, Advanced setting page, LDAP related setting)
+{1648,255, "V redu"}, (WEB, Advanced setting page, LDAP related setting)
+{1649,255, "Odjava"}, (WEB, Advanced setting page, LDAP related setting)
+{1650,32, "Uredi/Kliči"}, (LCD, LDAP search result option)
+{1651, 40, "Komplet slušalk"}, (LCD, LDAP search result option)
+{1652,32, "Agent"}, (LCD, Call feature error)
+{1653,255, "Objavi v klicni center"}, (WEB, Advanced setting, EHS headset setting)
+{1654,255, "Povezan"}, (WEB, Advanced setting, EHS headset setting)
+{1655,255, "Zaseden"}, (WEB, Advanced setting, EHS headset setting)
+{1656,255, "Brez povezave"}, (WEB, Account setting, Ringtone setting)
+{1657,255, "Način objave"}, (WEB, Account setting, Ringtone setting)
+{1658,255, "Na zvezi"}, (WEB, Account setting, Ringtone setting)
+{1659,255, "Odsoten"}, (Menu, LDAP search status warning window)
+{1660,255, "Datoteka že obstaja. Prosimo, izbrišite prejšnjo datoteko, preden prenesete novo datoteko."}, (Menu, LDAP search status warning window)
+{1661,255, "Omogoči OpenVPN"}, (Menu, LDAP search status warning window)
+{1662,255, "Naslov strežnika OpenVPN"}, (Menu, LDAP search status warning window)
+{1663,255, "Vrata strežnika OpenVPN"}, (Menu, LDAP search status warning window)
+{1664,255, "CA za OpenVPN"}, (WEB, Validation, valid password)
+{1665,255, "Certifikat OpenVpn"}, (LDAP detail)
+{1666,255, "Ključ odjemalca OpenVpn"}, (LDAP detail)
+{1667,255, "Datoteka je bila uspešno izbrisana"}, (Menu, LDAP search status warning window)
+{1668,255, "Napaka pri brisanju datoteke"}, (WEB, Advanced setting page, Telnet)
+{1669,255, "IP OpenVPN"}, (WEB, advanced page)
+{1670,255, "Prikaz identitete klicočega"}, (WEB, login attempts)
+{1671,255, "Glava Od"}, (WEB, advnaced page)
+{1674,255, "Geslo za skrivni/zasebni ključ"}, (LCD, TR-069 Warning window)
+{1675,255, "Certifikat CA"}, (LCD, TR-069 Warning window)
+{1676,255, "Certifikat odjemalca"}, (LCD, TR-069 Warning window)
+{1677,255, "Datoteka .pem"}, (Softkey, Public mode emergency call)
+{1678,255, "s certifikatom in zasebnim ključem"}, (Account name, Public mode emergency call)
+{1679,255, "Da, vsak dan preveri za posodobitve"}, (WEB, Account)
+{1680,255, "Da, vsak teden preveri za posodobitve"}, (LCD, Call Screen String)
+{1681,255, "Ura v dnevu (0-23)"}, (WEB, LDAP)
+{1682,255, "Dan v tednu (0-6)"}, (WEB, Advanced setting)
+{1683,32, "EAP-TLS"}, (WEB, Advanced setting)
+{1684,32, "EAP-PEAPv0/MSCHAPv2"}, (WEB, PHONE, Title)
+{1685,32, "Datoteka obstaja"}, (WEB, PHONE, Label)
+{1686,32, "Datoteka ne obstaja, glejte WebUI"}, (WEB, PHONE, Option Label)
+{1687,32, "Zrcaljeno"}, (WEB, PHONE, Button)
+{1688,32, "Klicni center"}, (WEB, Session Timeout)
+{1689,255, "Koda razpoložljivosti"}, (WEB, Session Timeout)
+{1690,255, "Eskalacija v nujnih primerih"}, (WEB, Session Timeout, button OK)
+{1691,255, "Sledenje, ki ga sproži stranka"}, (WEB, Session Timeout, button Log Off)
+{1692,255, "Informacije o klicu"}, (Menu Softkey, call log entry page)
+{1693,255, "Čas čakanja"}, (Headset Softkey)
+{1694,255, "ID uporabnika"}, (Call Center Publish Mode, LCD, softkey label)
+{1695,255, "Ime klicnega centra"}, (Call Center Publish Mode, LCD , web)
+{1696,255, "Klicev v čakalni vrsti"}, (Call Center Publish Mode, LCD)
+{1697,255, "Najdaljši čas čakanja"}, (Call Center Publish Mode, LCD)
+{1698,32, "Ime"}, (Call Center Publish Mode, LCD)
+{1699,255, "Privzeto"}, (Call Center Publish Mode, LCD)
+{1700,255, "Uporabi glavo za zasebnost"}, (Call Center Publish Mode, LCD)
+{1701,255, "Uporabi glavo P-Preferred-Identity"}, (Call Center Publish Mode, LCD)
+{1702,255, "Dogodek Hoteling"}, (WEB, OPENVPN)
+{1703,255, "BSCCenter"}, (WEB, OPENVPN)
+{1704,255, "Prijavljen"}, (WEB, OPENVPN)
+{1705,255, "Odjavljen"}, (WEB, OPENVPN)
+{1706,255, "GuestAddress"}, (WEB, OPENVPN)
+{1707,255, "Funkcija Hoteling klicnega centra"}, (WEB, OPENVPN)
+{1708,255, "Prijava gosta za klicni center"}, (WEB, OPENVPN)
+{1709,255, "Klicni center BS"}, (WEB, OPENVPN)
+{1710,255, "Stanje klicnega centra"}, (WEB, OPENVPN)
+{1711,255, "Stanje agenta"}, (WEB, OPENVPN)
+{1712,255, "Prijava"}, (WEB, Caller ID)
+{1713,255, "Odjava"}, (WEB, Caller ID)
+{1714,255, "Ni na voljo"}, (WEB, 802.1x)
+{1715,255, "Na voljo"}, (WEB, 802.1x)
+{1716,255, "Wrap-Up"}, (WEB, 802.1x)
+{1717,255, "Stanje agenta klicnega centra"}, (WEB, 802.1x)
+{1718,32, "Parkirani klici"}, (WEB, 802.1x)
+{1719,32, "Parkirani klici"}, (WEB, auto provision)
+{1720,255, "GMT-05:00 (standardni čas Vzhodne obale brez poletnega časa)"}, (WEB, auto provision)
+{1721,255, "Ko je ta postavka omogočena, bo sinhronizacija ključa funkcije onemogočena ne glede na spletne nastavitve"}, (WEB, auto provision)
+{1722,255, "Funkcija agenta klicnega centra"}, (WEB, auto provision)
+{1723,255, "Spremeni stanje agenta"}, (Web, Basic Setting Page)
+{1724,255, "V konferenci je dovoljen samo en g729"}, (Web, Basic Setting Page)
+{1725,255, "Glasnost tona čakajočega klica"}, (Web, Basic Setting Page)
+{1726,255, "Prioriteta glave datuma SIP"}, (Web, Basic Setting Page)
+{1727,255, "Najprej NTP"}, (Web, Basic Setting Page, PC Port)
+{1728,255, "Najprej glava datuma"}, (SOFTKEY, BS call center)
+{1729,255, "Nizko"}, (LCD, call center MENU option)
+{1730,255, "Srednje"}, (LCD, call center MENU option)
+{1731,255, "Visoko"}, (LCD, call center MENU option)
+{1732,255, "Funkcija klica Ne moti vklopljena"}, (LCD, call center MENU option )
+{1733,255, "Funkcija klica Ne moti izklopljena"}, (LCD, call center call info )
+{1734,255, "Račun glave datuma"}, (LCD, call center call info )
+{1735,255, "Prijavljen"}, (LCD, call center call info )
+{1736,255, "Odjavljen"}, (LCD, call center call info )
+{1737,255, "Ni nove vdelane programske opreme"}, (LCD, call center call info )
+{1738,255, "Preveri posodobitev"}, (LCD, LDAP result detail)
+{1739,255, "Preverjanje posodobitve se bo izvajalo v ozadju"}, (WEB, account setting)
+{1740,255, "Preveri pristnost dohodnega protokola INVITE"}, (WEB, account setting)
+{1741,255, "Sprejmi dohodni SIP le iz posredovalnega strežnika"}, (WEB, account setting)
+{1742,255, "Nerazpoložljiva koda"}, (LCD, Web, call center MENU option)
+{1743,255, "Uporabi prvi ujemajoči se glasovni kodirnik v 200OK SDP"}, (LCD, Web, call center MENU option)
+{1744,32, "Izklopi zvok"}, (LCD, call center MENU option)
+{1745,255, "Vir napajanja"}, (LCD, call center MENU option)
+{1746,255, "PSU"}, (LCD, call center MENU option)
+{1747,255, "PoE"}, (LCD, call center MENU option)
+{1748,255, "Zaklep tipke za zvezdico"}, (LCD, call center MENU option)
+{1749,255, "Omogoči/onemogoči"}, (LCD, Web, call center MENU option)
+{1750,255, "Uporabi tipko za utišanje za ukaz Ne moti"}, (LCD, Web, call center MENU option)
+{1751,255, "Obvestilo o posodobitvi"}, (LCD, Web, call center MENU option)
+{1752,255, "Zaznana je bila nova vdelana programska oprema."}, (LCD, Web, call center MENU option)
+{1753,255, "Želite posodobiti zdaj?"}, (LCD, Web, call center MENU option)
+{1754,255, "Telefon bo začel prenašati novo XML-datoteko s telefonskim imenikom."}, (LCD, Web, call center MENU option)
+{1755,32, "Novo"}, (LCD, Web, call center MENU option)
+{1756,32, "Izbriši vse"}, (LCD, Web, call center MENU option)
+{1757,32, "Telefonski imenik Broadsoft"}, (LCD, call center MENU option)
+{1758,32, "Lokalni telefonski imenik"}, (SOFTKEY)
+{1759,32, "Lokalna skupina"}, (LCD, Menu Title)
+{1760,32, "Prerazporedi"}, (Web, config2 page)
+{1761,32, "Izbriši vse"}, (Web, call center, account page)
+{1762,255, "Seznam telefonskega imenika Broadsoft"},
+{1763,255, "ID skupine"},
+{1764,255, "Oddelek"}, (LCD, warning window on pressing conf key)
+{1765,255, "Dnevnik klicev Broadsoft"}, (WEB, Advanced Setting page)
+{1766,255, "Seznam dnevnika klicev Broadsoft"}, (WEB, Advanced Setting page)
+{1767,255, "Vnos v dnevnik klicev Broadsoft"}, (WEB, Advanced Setting page)
+{1768,255, "Vnos v telefonski imenik Broadsoft"}, (WEB, Advanced Setting page)
+{1769,255, "Broadsoft Xsi ni uspel"}, (WEB, Advanced Setting page)
+{1770,255, "Iskanje Broadsoft"}, (WEB, Advanced Setting page)
+{1771,255, "Brisanje"}, (WEB, Advanced Setting page)
+{1772,255, "Brez"}, (WEB, Account Setting page)
+{1773,255, "Pošlji"}, (WEB, Account Setting page)
+{1774,255, "Vsebina"}, (WEB, Advanced Setting page)
+{1775,255, "Novo sporočilo"}, (LCD, call center MENU option)
+{1776,255, "Prejeto"}, (LCD, call center MENU option)
+{1777,255, "Uspešno poslano"}, (LCD, TR069 no new firmware warning message)
+{1778,255, "Neuspešno pošiljanje"}, (LCD, TR069 MENU option)
+{1779,32, "Genesys"}, (LCD, TR069 MENU warning message)
+{1780,255, "Stanje prijave Genesys"}, (WEB, Account Setting page)
+{1781,255, "Prijava Genesys"}, (WEB, Account Setting page)
+{1782,255, "Odjava Genesys"}, (LCD, BS Call Center Menu)
+{1783,255, "Se želite odjaviti?"}, (WEB, Account Setting page)
+{1784,32, "Odgovori"}, (Softkey, call screen on gxp1160)
+{1785,255, "Štev. preostalih poskusov odklepanja: %s"}, (LCD, Status Menu)
+{1786,255, "Ni mogoče odkleniti za %s min."}, (LCD, Status Menu)
+{1787,255, "Poskusite odkleniti pozneje"}, (LCD, Status Menu)
+{1788,255, "UCM-povezava"}, (LCD, Preference Menu)
+{1789,255, "Seznam UCM-strežnikov"}, (LCD, star key lock in Preference Menu)
+{1790,255, "Ročni vnos IP-ja strežnika"}, (WEB, Advanced Setting page)
+{1791,255, "Iskanje ..."}, (LCD, firmware upgrading window when receiving request from system side)
+{1792,32, "Vklop zapisa"}, (LCD, firmware upgrading window when receiving request from system side)
+{1793,32, "Izklop zapisa"}, (LCD, firmware upgrading window when receiving request from system side)
+{1794,32, "Parkiranje klica"}, (LCD, phonebook download confirm Menu)
+{1795,255, "Seznam razpoložljivih uporabnikov"}, (LCD, Softkey)
+{1796,255, "Vzpostavljanje povezave z UCM-strežnikom ..."}, (LCD, Softkey)
+{1797,255, "Zahteva za nastavitev in omogočanje je bila uspešna"}, (LCD, Menu)
+{1798,255, "Zahteva za nastavitev in omogočanje ni uspela"}, (LCD, Menu)
+{1799,32, "Vzpostavi povezavo"}, (LCD, Menu)
+{1800,255, "Neveljaven IP!"}, (LCD, Softkey)
+{1801,255, "Neveljavna vrata!"}, (LCD, Softkey)
+{1802,255, "Izbira uporabniškega računa"}, (LCD, Broadsoft phonebook result window titile)
+{1803,32, "DODELI"}, (LCD, Broadsoft phonebook result)
+{1804,32, "SPREMENI"}, (LCD, Broadsoft phonebook result)
+{1805,255, "Razpoložljiv račun"}, (LCD, Broadsoft call log window titile)
+{1806,255, "Dodeli potrditev"}, (LCD, Broadsoft call log result window titile)
+{1807,255, "Zahtevaj UCM za novo konfiguracijo (trenutna konfiguracija bo prepisana)"}, (LCD, Broadsoft call log entry window titile)
+{1808,255, "Pošlji dodelitev"}, (LCD, Broadsoft phonebook rentry window titile)
+{1809,255, "pisarniški telefon"}, (LCD, Broadsoft Xsi warning window)
+{1810,255, "telefon klicnega centra"}, (LCD, Broadsoft phonebook search window titile)
+{1811,255, "Prijava/odjava"}, (LCD, Broadsoft call log warning window)
+{1812,255, "Posodobitev konfiguracije ni uspela"}, (LCD, Menu)
+{1813,255, "Prijavljanje poteka"}, (LCD, Menu and soft key for IM)
+{1814,32, "Številka ni konfigurirana"}, (LCD, Menu for IM)
+{1815,64, "Izberite možnost razvrščanja"}, (LCD, Menu for IM)
+{1816,32, "Uredi"}, (LCD, Menu for IM)
+{1817,32, "Nobena skupina ni na voljo"}, (LCD, Menu for IM)
+{1818,64, "Zapisov v imeniku ni bilo mogoče najti"}, (LCD, Menu for IM)
+{1819,32, "Čas"}, (softkey, genesys)
+{1820,32, "Trajanje"}, (LCD, genesys menu)
+{1821,32, "Število"}, (LCD, genesys menu)
+{1822,255, "mreža config"}, (LCD, genesys menu)
+{1823,32, "Ste prepričani, da želite ponastaviti to konfiguracijo VLAN-a?"}, (LCD, genesys menu)
+{1824,32, "Prekinjeno. Vse konfiguracije VLAN-a so že nastavljene na privzete vrednosti."}, (LCD, soft key for Instant message entry menu)
+{1825,32, "Konfiguracijo VLAN-a ponastavite na privzete vrednosti."}, (LCD, warning window for star keypad lock)
+{1826,32, "Stanje računa"}, (LCD, warning window for star keypad lock)
+{1827,32, "Informacije o sistemu"}, (LCD, warning window for star keypad lock)
+{1828,32, "Ste prepričani, da želite zdaj ponovno zagnati napravo?"}, (LCD, UCM connection menu)
+{1829,32, "Zaženi pravilo"}, (LCD, inside UCM connection menu)
+{1830,32, "Ste prepričani, da želite izbrisati to pravilo?"}, (LCD, inside UCM connection menu)
+{1831,32, "Izberi"}, (LCD, inside UCM connection menu)
+{1832,32, "Označi"}, (LCD, UCM call softkey)
+{1833,32, "Počisti oznako"}, (LCD, UCM call softkey)
+{1834,32, "Opusti"}, (LCD, UCM call softkey)
+{1835,32, "Pošlji"}, (LCD, inside UCM connection menu)
+{1836,32, "Ste prepričani, da želite izvesti ponastavitev na tovarniške vrednosti?"}, (LCD, warning window on connecting to ucm server)
+{1837,32, "Vklop/izklop LCD-ja"}, (LCD, inside UCM connection menu)
+{1838,32, "Diagnostika LCD-ja"}, (LCD, warning window on connecting to ucm server)
+{1839,32, "Zvoki"}, (Softkey, UCM)
+{1840,32, "Videz"}, (LCD, UCM Manual connect)
+{1841,32, "Svetlost aktivnega LCD-ja"}, (LCD, UCM Manual connect)
+{1842,32, "Svetlost mirujočega LCD-ja"}, (LCD, UCM connection menu)
+{1843,32, "Strojna oprema"}, (LCD, UCM connection softkey)
+{1844,32, "Bluetooth"}, (LCD, UCM connection softkey)
+{1845,32, "Operacije"}, (LCD, UCM connection menu)
+{1846,32, "Konfiguracije sistema"}, (LCD, UCM connection menu)
+{1847,32, "Nastavitve telefona"}, (LCD, UCM connection menu)
+{1848,32, "Nastavitve statičnega naslova IP"}, (LCD, UCM connection menu)
+{1849,32, "Ponastavitev na tovarniške vrednosti bo izbrisala vse konfiguracije/nastavitve naprave."}, (LCD, UCM connection menu)
+{1850,32, "Ponovno poišči"}, (LCD, UCM connection menu)
+{1851,32, "Združi v par"}, (LCD, UCM connection menu)
+{1852,32, "Razdruži"}, (LCD, Pingan login warning windonw)
+{1853,32, "Prekini povezavo"}, (LCD, Pingan login warning windonw)
+{1854,32, "Napajanje"}, (Dial softkey on Contact Detail)
+{1855,32, "Zaženi iskanje"}, (Sort on phonebook)
+{1856,32, "Zaznavno"}, (Softkey on Group interface)
+{1857,32, "Vklop"}, (Display when no default groups exist)
+{1858,32, "Izklop"}, (Display when no records or search is nothing)
+{1859,32, "Iskanje naprav Bluetooth"}, (Label in Call History)
+{1860,32, "Telefon"}, (Label in Call History)
+{1861,32, "Sistem"}, (Label in Call History)
+{1862,32, "Sporočila"}, (LCD, network in main menu for avaya)
+{1863,32, "Informacije o računu, omrežju in sistemu"}, (LCD, confirm Reset Vlan message)
+{1864,32, "Konfiguracija protokola SIP in funkcije klica"}, (LCD, abort vlan reset)
+{1865,32, "Povezave, nastavitve pravil in tovarniške funkcije"}, (LCD, reset vlan tip)
+{1866,32, "Ogled in upravljanje zgodovine klicev"}, (LCD, Menu Page)
+{1867,32, "Telefonski imeniki in skupine - lokalni, LDAP in Broadsoftovi"}, (LCD, Menu Page)
+{1868,32, "Nastavitve prikaza in zvoka"}, (LCD, Reboot message)
+{1869,32, "Neposredna sporočila in glasovna pošta"}, (LCD, Provision message)
+{1870,32, "Uporabite priloženi napajalnik za 5 V."}, (LCD, Provision message)
+{1871,32, "Prenašanje datoteke vdelane programske opreme"}, (LCD, Menu Softkey)
+{1872,32, "Preverjanje veljavnosti datoteke vdelane programske opreme"}, (LCD, Menu Softkey)
+{1873,32, "Pravilo se še izvaja, poskusite znova kasneje."}, (LCD, Menu Softkey)
+{1874,32, "Predkonferenčne nastavitve"}, (LCD, Menu Softkey)
+{1875,32, "Vzpostavi povezavo"}, (LCD, Menu Softkey)
+{1876,32, "Shrani nastavitve in ponovno zaženi napravo"}, (LCD, Factory reset message)
+{1877,32, "Priljubljeno"}, (LCD, Factory function page)
+{1878,32, "Onemogoči ID-oznako klicatelja"}, (LCD, Factory function page)
+{1879,32, "ID-oznaka klicatelja onemogočena"}, (LCD, Preference page)
+{1880,32, "Omogoči ID-oznako klicatelja"}, (LCD, Preference page)
+{1881,32, "ID-oznaka klicatelja omogočena"}, (LCD, Preference page)
+{1882,32, "Onemogoči čakanje vseh klicev"}, (LCD, Preference page)
+{1883,32, "Čakanje vseh klicev je onemogočeno"}, (LCD, Status page)
+{1884,32, "Omogoči čakanje vseh klicev"}, (LCD, System page)
+{1885,32, "Čakanje vseh klicev je omogočeno"}, (LCD, System page)
+{1886,32, "Klic z ID-oznako klicatelja blokiran"}, (LCD, System page)
+{1887,32, "ID-oznaka klicatelja je blokirana"}, (LCD, Phone page)
+{1888,32, "Klic z ID-oznako klicatelja omogočen"}, (LCD, Network page)
+{1889,32, "ID-oznaka klicatelja je poslana"}, (LCD, System page)
+{1890,32, "Klic s klicem na čakanju je onemogočen"}, (LCD, Bluetooth softkey)
+{1891,32, "Čakanje klicev je onemogočeno"}, (LCD, Bluetooth softkey)
+{1892,32, "Klic s klicem na čakanju je omogočen"}, (LCD, Bluetooth softkey)
+{1893,32, "Čakanje klicev je omogočeno"}, (LCD, Bluetooth softkey)
+{1894,32, "Nastavi posredovanje vseh klicev"}, (LCD, Bluetooth page)
+{1895,32, "Prekliči posredovanje vseh klicev"}, (LCD, Bluetooth page)
+{1896,32, "Posredovanje vseh klicev je preklicano"}, (LCD, Bluetooth page)
+{1897,32, "Nastavi posredovanje klicev, ko je linija zasedena"}, (LCD, Bluetooth page)
+{1898,32, "Prekliči posredovanje klicev, ko je linija zasedena"}, (LCD, Bluetooth page)
+{1899,32, "Posredovanje klicev, ko je linija zasedena, je preklicano"}, (LCD, Bluetooth page)
+{1900,32, "Nastavi posredovanje klicev brez odgovora"}, (LCD, Menu page)
+{1901,32, "Prekliči posredovanje klicev brez odgovora"}, (LCD, Menu page)
+{1902,32, "Posredovanje klicev brez odgovora je preklicano"}, (LCD, Menu page)
+{1903,32, "Klicanje"}, (LCD, Menu page)
+{1904,32, "Pozivanje"}, (LCD, Menu page)
+{1905,32, "Hitro klicanje IP-številke"}, (LCD, Menu page)
+{1906,32, "Pregled"}, (LCD, Menu page)
+{1907,32, "Linije"}, (LCD, Menu page)
+{1908,32, "DTMF"}, (LCD, Menu page)
+{1909,32, "INFO"}, (LCD, Menu page)
+{1910,32, "KONF"}, (LCD, power popup )
+{1911,32, "STANJE"}, (LCD, Provision message)
+{1912,32, "BT vkl."}, (LCD, Provision message)
+{1913,32, "BT izkl."}, (LCD, Provision message)
+{1914,32, "Poročilo sistema"}, (Softkey, before call made for conference)
+{1915,255, "Interna številka ni na voljo"}, (LCD, Bluetooth page)
+{1916,255, "Časovna zakasnitev za izbiranje interne številke"}, (LCD, Menu page)
+{1917,255, "Izbiranje interne številke onemogočeno"}, (LCD, Phonebook page)
+{1918,255, "Številka je že dodeljena"}, (CLCD, Call Features)
+{1919,255, "Številka ne obstaja"}, (CLCD, Call Features)
+{1920,255, "Račun je zunaj razpona"}, (CLCD, Call Features)
+{1921,255, "Dodeljevanje uporabniških seznamov onemogočeno"}, (CLCD, Call Features)
+{1922,255, "Nivo"}, (CLCD, Call Features)
+{1923,255, "Potrditev odjave?"}, (CLCD, Call Features)
+{1924,255, "Odjava Javnega Načina Po"}, (CLCD, Call Features)
+{1925,255, "Neveljavnem Pretečenem Času"}, (CLCD, Call Features)
+{1926,255, "Dodaj Klicu N-Way"}, (CLCD, Call Features)
+{1927,255, "Izberite linijo za pridružitev trenutnemu Klicu N-Way"}, (CLCD, Call Features, NO NEED)
+{1928,255, "Ali ste prepričani, da želite ponovno odpreti trenutni zaslon?"}, (CLCD, Call Features)
+{1929,255, "Sprememba(e) še ni(so) shranjena(e)."}, (CLCD, Call Features, NO NEED)
+{1930,255, "Dosegli ste največji dopustni G729"}, (CLCD, Call Features)
+{1931,255, "Izvršilni asistent Broadsofta"}, (CLCD, Call Features, NO NEED)
+{1932,255, "BS-Izvr."}, (CLCD, Call Features)
+{1933,255, "Filtriranje za vodstvo"}, (CLCD, Call Features, NO NEED)
+{1934,255, "Preusmeritev za izvršilnega asistenta"}, (CLCD, Call Features)
+{1935,255, "Naslov preusmeritve za izvršilnega asistenta"}, (CLCD, Call Features)
+{1936,255, "Filtriranje za izvršilnega asistenta"}, (CLCD, Call Features)
+{1937,32, "Seznanjene"}, (CLCD, Call Features)
+{1938,32, "Neseznanjene"}, (CLCD, Call Features)
+{1939,32, "NEPOVEZAN"}, (CLCD, Call Features)
+{1940,32, "POVEZAN"}, (CLCD, Call Features)
+{1941,32, "Naprave"}, (CLCD, Call Features)
+{1942,32, "Imenik Bluetooth"}, (CLCD, Call Features)
+{1943,32, "Lokalni dnevnik klicev"}, (CLCD, Call Screen)
+{1944,255, "nameščen na"}, (CLCD, Call Screen)
+{1945,32, "Seznanjene naprave"}, (CLCD, Call Screen)
+{1946,32, "Branje kontaktne datoteke"}, (CLCD, Call Screen Command Tag)
+{1947,32, "Zakleni"}, (CLCD, Call Screen Command Tag)
+{1948,32, "Odkleni"}, (CLCD, Call Screen Tabs)
+{1949,32, "Zaklenjeno"}, (CLCD, Call Screen Tabs - Information)
+{1950,32, "Odklenjeno"}, (CLCD, Call Screen Tabs - Conference)
+{1951,255, "Prilagodljivo Sedenje"}, (CLCD, Call Screen Tabs - Status)
+{1952,32, "Vnesite PIN"}, (Bluetooth softkey)
+{1953,255, "Nepravilen PIN"}, (Bluetooth softkey)
+{1954,255, "Zamenjajte"}, (CLCD, CSS crash message)
+{1955,255, "Avtomatski prenos jezika"}, (LCD, warning window for UCM)
+{1956,255, "URL strežnika"}, (LCD, warning window for UCM)
+{1957,255, "Ime Datoteke"}, (LCD, warning window for UCM)
+{1958,32, "E-pošta"}, (LCD, warning window for UCM)
+{1959,32, "Ulica"}, (LCD, warning window for UCM)
+{1960,32, "Mesto"}, (LCD, warning window for UCM)
+{1961,32, "Poštna Številka"}, (LCD, warning window for UCM)
+{1962,32, "Država"}, (LCD, preference volume menu )
+{1963,255, "Bluetooth je izklopljen"}, (LCD, Avaya auto login feature)
+{1964,255, "NatančnoUjemanje"},
+{1965,255, "HitroUjemanje"},
+{1966,255, "Naziv Zaslona"}, (LCD, UC-One)
+{1967,255, "Pripona"}, (LCD, UC-One)
+{1968,255, "Konferenčna številka"}, (LCD, UC-One)
+{1969,255, "URL Omrežja"}, (LCD, UC-One)
+{1970,255, "Konferenčni PIN"}, (LCD, UC-One)
+{1971,255, "MojStatus"}, (LCD, UC-One)
+{1972,255, "Nevidno"}, (LCD, UC-One)
+{1973,255, "Stanje Bluetootha"}, (CLCD, Bluetooth Status)
+{1974,255, "Nastavitev Bluetootha"}, (CLCD, Bluetooth Status)
+{1975,255, "Bluetooth MAC"}, (CLCD, Bluetooth Status)
+{1976,255, "Stranka Broadsoft IM&P je bila odklopljena"}, (CLCD, UC-One)
+{1977,255, "Prenesem vse nove različice datotek za ta jezik?"}, (CLCD, Language download message)
+{1978,255, "Prenos in vrnitev na to različico?"}, (CLCD, Language download message)
+{1979,255, "Te datoteke jezikov so že lokalne, jih želite znova prenesti?"}, (CLCD, Language download message)
+{1980,255, "Začetek prenosa datoteke?"}, (CLCD, Language download message)
+{1981,255, "Nova izdaja"}, (CLCD, Language download message)
+{1982,255, "Stara izdaja"}, (CLCD, Language download message)
+{1983,255, "Na razpolago ni nobene datoteke za prenos."}, (CLCD, Language download message)
+{1984,255, "Prenos jezika"}, (CLCD, Language download message)
+{1985,255, "Prenos drugih jezikovnih datotek, Prosimo, poskusite kasneje."}, (CLCD, Language download message)
+{1986,255, "Nobene razpoložljive postavke"}, (CLCD, Container String)
+{1987,255, "Jezik in vhod"}, (CLCD, Input Mode)
+{1988,255, "Privzeta vhodna izbira"}, (CLCD, Input Mode)
+{1989,255, "Večznakovne tipke"}, (CLCD, Input Multi-Tap Mode)
+{1990,255, "Premično"}, (CLCD, Input Shiftable Mode)
+{1991,255, "Posodobljeno"}, (CLCD, Language download message)
+{1992,255, "Neuspel prenos XML Prosimo, preverite nastavitve za prenos jezika."}, (CLCD, Language download message)
+{1993,255, "Iskalni način"}, (CLCD, Phone book search default)
+{1994,255, "Pripona"}, (CLCD, Broadsoft Directory)
+{1995,255, "XML URL"}, (CLCD, Language setting message)
+{1996,255, "prenos datoteke XML ..."}, (CLCD, Language setting message)
+{1997,255, "Iskanje zadnje priključene brezročne naprave"}, (CLCD, Bluetooth Status)
+{1998,255, "Povezava z napravo ni mogoča Ali želite odpreti stran za iskanje Bluetooth"}, (CLCD, Bluetooth Status)
+{1999,255, "Ohranjevalnik zaslona"}, (CLCD, Menu option appearance)
+{2000,255, "Premor Ohranjevalnika zaslona"}, (CLCD, Menu option appearance)
+{2001,32, "Telefonski imenik"}, (Softkey)
+{2002,32, "Posodobljen je Broadsoftov seznam stikov IM&P"},
+{2003,255, "Brezročna naprava ni priključena"}, (CLCD, Bluetooth Status)
+{2004,32, "Slušalke so v uporabi"}, (CLCD, Bluetooth Status)
+{2005,32, "Klicane številke"}, (CLCD, Default Broadsoft Directory Name)
+{2006,32, "Prejeti klici"}, (CLCD, Default Broadsoft Directory Name)
+{2007,32, "Imenik skupine"}, (CLCD, Default Broadsoft Directory Name)
+{2008,32, "Imenik podjetja"}, (CLCD, Default Broadsoft Directory Name)
+{2009,32, "Skupno za skupino"}, (CLCD, Default Broadsoft Directory Name)
+{2010,32, "Skupno za podjetje"}, (CLCD, Default Broadsoft Directory Name)
+{2011,32, "Osebni imenik"}, (CLCD, Default Broadsoft Directory Name)
+{2012,255, "Druga brezročna številčnica ni podprta"}, (Handsfree popup)
+{2013,255, "Datum Čas"}, (LCD, date and time)
+{2014,255, "Ročna nastavitev trenutnega časa"}, (LCD, set current time manually)
+{2015,255, "NTP strežnik"}, (LCD, set current time manually)
+{2016,255, "IP-telefon za vodstveno osebje"},
+{2017,255, "Konferenčna soba"}, (CLCD, Conference Info)
+{2018,255, "Udeleženci"}, (CLCD, Conference Info)
+{2019,255, "Konfsoba"}, (CLCD, Conference Info Softkey)
+{2020,255, "se je pridružil"}, (CLCD, Conference Info Update)
+{2021,255, "je odšel"}, (CLCD, Conference Info Update)
+{2022,255, "BS-IM&P"}, (UC-One Feature Softkey)
+{2023,255, "Multicast"}, (MPK Mode SOftkey)
+{2024,255, "Zapis"}, (MPK MOde Softkey)
+{2025,255, "Varnostni PIN"}, (LCD, UC-One)
+{2026,255, "KlicDTMF"}, (LCD, UC-One)
+{2027,255, "Klic ni uspel"}, (LCD, Bluetooth)
+{2028,255, "Poteka brezročni klic"}, (LCD, Bluetooth)
+{2029,255, "Prosimo, najprej se prijavite"},
+{2030,255, "Prijava še poteka"},
+{2031,255, "Prazno"},
+{2032,255, "Geografska informacija IP"},
+{2033,255, "Preostalih poskusov"}, (LCD, warning window for star keypad lock)
+{2034,255, "Neuspel poskus"}, (LCD, warning window for star keypad lock)
+{2035,32, "KlicaSIP"}, (Conference call option)
+{2036,32, "KlicaHF"}, (Conference call option)
+{2037,32, "PreklopAcct"}, (Conference call option)
+{2038,32, "Neuspešna razčlemba datoteke XML"}, (UCMDetect module)
+{2039,32, "Snemanje je nastavljeno z USB-jem Prosimo, priključite pogon USB ali spremenite vašo nastavitev."},
+{2040,32, "Snemanje na UCM"},
+{2041,32, "Lokalno snemanje"},
+{2042,32, "Lastnosti"},
+{2043,32, "KonfMeni"},
+{2044,32, "Povabite Uporabnika"},
+{2045,32, "Pokličite Uporabnika"},
+{2046,32, "Povezava na konferenčni klic"},
+{2047,32, "Prekinitev vseh konferenčnih klicev"},
+{2048,32, "Opcija"},
+{2049,32, "Konferenčni meni"},
+{2050,32, "Brezročni račun"},
+{2051,255, "Ali želite odklopiti trenutno napravo in se povezati z brezročno napravo?"},
+{2052,255, "Še vedno poteka prenos XML Prosimo, poskusite znova kasneje."},
+{2053,255, "SP aktiven"}, (Softkey Label)
+{2054,255, "Ročni Vnos Uporabnika"}, (UCMDetect module, user list view)
+{2055,255, "Uporabnik na izbiro"}, (UCMDetect module, selection view)
+{2056,255, "Računi za Dodelitev"}, (UCMDetect module, selection view)
+{2057,255, "Napačen ID uporabnika"}, (UCMDetect module, warning window)
+{2058,255, "Izberite Strežnik iz Omrežja"}, (UCMDetect module, server list view)
+{2059,255, "Izberite ID uporabnika"}, (UCMDetect module, user list view)
+{2060,255, "Zaznavanje UCM"}, (Menu option for UCMDetect module)
+{2061,255, "Posodobitev Jezika"}, (Autolanguage update app)
+{2062,255, "Spoznaj Me ID"}, (CEI/CCM Menu Option)
+{2063,255, "Odstrani"}, (CEI/CCM Menu Option)
+{2064,255, "Odstrani vse"}, (CEI/CCM Menu Option)
+{2065,255, "NEMO"}, (CEI/CCM Menu Option)
+{2066,255, "Utišaj Vse"}, (CEI/CCM Menu Option)
+{2067,255, "Vključi zvok"}, (CEI/CCM Menu Option)
+{2068,255, "Vključi zvok vsem"}, (CEI/CCM Menu Option)
+{2069,255, "Zakleni"}, (CEI/CCM Menu Option)
+{2070,255, "Odkleni"}, (CEI/CCM Menu Option)
+{2071,255, "Pozivnik"}, (CEI/CCM Menu Option)
+{2072,255, "Brezročne naprave ne morete reklopiti na čakanje"},
+{2073,255, "Brezročna naprava ignorira zahtevek za čakanje"},
+{2074,255, "Brezročna naprava ignorira zahtevek za ponoven klic"},
+{2075,255, "Prosimo, preverite nastavitev"},
+{2076,255, "Zmanjkalo virov"},
+{2077,255, "Neveljavna odobritev"}, (Menu Access Mode Changed Warning Window)
+{2078,32, "Zapis"}, (GXP16XX Key Name)
+{2079,255, "Opis"},
+{2080,255, "Vrednost"},
+{2081,255, "Preusmerjeno iz "}, (Call Screen Info)
+{2082,255, "Domači"}, (This is used for the 16xx diagnostic mode to print HOME. Required because it has to be "Main Page" in other languages)
+{2083,255, "Neuspelo Preverjanje Certifikata"},
+{2084,255, "Certifikat Uspešno Preverjen"},
+{2085,255, "Certifikat Uspešno Preverjen"},
+{2086,255, "Daljinski"},
+{2087,32, "Klic s Skrito Številko Klicalca"}, (CLCD, Call Features)
+{2088,255, "Neznan Stik"}, (LCD, Broadsoft IM&P)
+{2089,255, "Broadsoft Xsi"}, (LCD, Broadsoft Xsi)
+{2090,255, "Uporabniška Storitev Xsi"},
+{2091,255, "Dislocirana Pisarna"},
+{2092,255, "Dislocirana Številka"},
+{2093,255, "BroadWorks Kjerkoli"},
+{2094,255, "Istočasno Zvonjenje"},
+{2095,255, "Blokiranje ID Klicalca"},
+{2096,255, "Posredovanje Klica"},
+{2097,255, "NE MOTI"},
+{2098,255, "Opozorilo na klic s klikom"},
+{2099,255, "Opozorilo na Skupinski Poziv"},
+{2100,255, "Vedno Posreduj"},
+{2101,255, "Posredovanje Zasedeno"},
+{2102,255, "Posredovanje Brez Odgovora"},
+{2103,255, "Številka za Posredovanje"},
+{2104,255, "Omogoči RingSplash (enkratno zvonjenje)"},
+{2105,255, "Nova Lokacija"},
+{2106,255, "Omogoči Lokacijo"},
+{2107,255, "Izhodna Številka"},
+{2108,255, "Preprečevanje Preusmeritve"},
+{2109,255, "Potrditev Odgovora"},
+{2110,255, "Kontrolna Storitev"},
+{2111,255, "Posodabljanje"},
+{2112,255, "Blokirano Zvonjenje"},
+{2113,255, "Zapis Zvonjenja"},
+{2114,255, "Št. Zvonjenj"},
+{2115,255, "Neveljavna Številka"},
+{2116,255, "Potreba po Številki"},
+{2117,255, "Odgovorjeno"},
+{2118,255, "Klicano"},
+{2119,255, "Zgrešeno"},
+{2120,255, "PREUSMERJEN"},
+{2121,32, "Prosimo, preverite filtre"}, (LDAP module, warning window)
+{2122,255, "Prevezava ni mogoča: Prosimo, preverite protokol"}, (LDAP module, warning window)
+{2123,255, "Samo Broadsoft"},
+{2124,255, "Izberite Območje Iskanja"},
+{2125,255, "Izbrani Stik je Izbrisan, ponovno iskanje"},
+{2126,255, "IščiVse"},
+{2127,255, "Vsi Stiki"},
+{2128,32, "Trnf>VM"},
+{2129,255, "Nadzorovano "Parkiranje" Klicev"},
+{2130,255, "Priprava na pisanje"},
+{2131,255, "Naziv Bluetootha"},
+{2132,255, "Koda PIN Bluetootha"},
+{2133,255, "Brezročni način"},
+{2134,255, "Zaznavanje/povezava strežnika UCM zaradi postopka samodejne priprave"},
+{2135,255, "Seznanjanje"},
+{2136,255, "Povezovanje"},
+{2137,255, "Zahteva za seznanjanje od"},
+{2138,255, "Izberite Uporabnika za Odstranitev iz Konference"}, (Conference Kick)
+{2139,32, "PobiranjeBLF"}, (HomeModule softkey)
+{2140,32, "kliče"}, (FeatureModule display)
+{2141,32, "Bluetooth je  vuporabi"}, (BluetoothApp popup)
+{2142,32, "Posodobitev konfig. z"},
+{2143,32, "Posodobitev strojno-programske opreme s pomočjo"},
+{2144,255, "Lokalni dnevnik klicev"},
+{2145,32, "Stanje Sistema"},
+{2146,255, "Samodoločljivi Strežnik Strojno-Programske Opreme"},
+{2147,255, "DHCP Opc43/66 Premostitev FW"},
+{2148,255, "Samodejno upravljanje 3CX"},
+{2149,255, "Potrditev brisanja prilagojenega SCR?"},
+{2150,32, "Varnost"},
+{2151,255, "Konfiguracija z Menijem Pomožne Tipkovnice"},
+{2152,255, "Način dostopa do spleta"},
+{2153,255, "Onemogoči SSH"},
+{2154,32, "Nastavitve IPv4 "},
+{2155,255, "Nastavitve DHCP"},
+{2156,255, "ID Razreda Prodajalca (opcija 60)"},
+{2157,255, "Nastavitev Vhodov PC-ja"},
+{2158,255, "Nastavitve za OpenVPN"},
+{2159,255, "Nastavitve IPv6"},
+{2160,255, "Naziv gostitelja (opcija 12)"},
+{2161,255, "PC Priključek VLAN Tag"},
+{2162,255, "Prednostna Vrednost Priključka PC-ja"},
+{2163,255, "Vrata OpenVPN"},
+{2164,255, "Odprt VPN Transport"},
+{2165,255, "OdprtVPN: Omogočen"},
+{2166,255, "Omogočene linije za G729"},
+{2167,255, "Prednostni DNS strežnik"},
+{2168,255, "Jezik"},
+{2169,255, "DHCP Opc43/66 Premostitev FW"},
+{2170,255, "Samodejno upravljanje 3CX"},
+{2171,32, "Ne izklopite napajanja telefona"},
+{2172,32, "Niste registrirani"},
+{2173,32, "KONF"},
+{2174,32, "Ni razpoložljive linije"},
+{2175,32, "NI KABLA LAN"},
+{2176,32, "NOBEN RAČUN NI VELJAVEN"},
+{2177,32, "INTERNET NE DELUJE"},
+{2178,32, "Prvi"}, (Softkey: First)
+{2179,32, "Kontakt"}, (LCD, View Contact)
+{2180,32, "Naslov"}, (LCD, Contact: Title)
+{2181,32, "Primarni"}, (LCD, Contact: Primary)
+{2182,255, "je bil premoščen"}, (CLCD, Conference Info Update)
+{2183,255, "premostitev odstranjena"}, (CLCD, Conference Info Update)
+{2184,255, "je bil utišan"}, (CLCD, Conference Info Update)
+{2185,255, "vklop zvoka"}, (CLCD, Conference Info Update)
+{2186,32, "Preklop"}, (LCD, Option Toggle)
+{2187,255, "Dosežen maksimum G729"}, (LCD, warning window on pressing conf key)
+{2188,32, "Podjetje"}, (LCD, Contact: Company)
+{2189,32, "Delovno mesto"}, (LCD, Contact: Job)
+{2190,32, "Zgodovina"},
+{2191,32, "Največ 5-stranska konferenca"},
+{2192,32, "Parkirišče je polno"}, (Popup window when parking lot is full and parking again)
+{2193,32, "Programska tipka1MPK"}, (Softkey Label)
+{2194,32, "Programska tipka2MPK"}, (Softkey Label)
+{2195,32, "Programska tipka3MPK"}, (Softkey Label)
+{2196,32, "Pripona"},
+{2197,32, "Mobilni"},
+{2198,32, "hirangana Priimek"},
+{2199,32, "hirangana Ime"},
+{2200,32, "Več programskih tipk"}, (LCD, MORE softkey menu)
+{2201,32, "Kontakti"}, (Softkey)
+{2202,32, "Tišina"}, (Softkey)
+{2203,32, "KONFERENCA"}, (Softkey)
+{2204,32, "Vklop zvoka"}, (Softkey)
+{2205,255, "Izberite Uporabnika za Ločitev iz Konference"}, (Conference Split)
+{2206,255, "Neuspel prenos priprave"}, ( Popup window )
+{2207,255, "Priprava uspešna"}, ( Popup window )
+{2208,255, "Preverjanje uporabniškega imena in gesla, prosimo počakajte"}, ( Popup window )
+{2209,255, "Uporabniško ime in geslo ne smeta biti prazna!"}, ( Popup window )
+{2210,255, "Napačno uporabniško ime ali geslo! "}, ( Popup window )
+{2211,32, "Direktni IP"}, (CLCD, softkey)
+{2212,32, "Skupina"}, (CLCD, Broadsoft Directory Tab)
+{2213,32, "Družba"}, (CLCD, Broadsoft Directory Tab)
+{2214,32, "Skupni za skupino"}, (CLCD, Broadsoft Directory Tab)
+{2215,32, "Skupni za družbo"}, (CLCD, Broadsoft Directory Tab)
+{2216,32, "Osebni"}, (CLCD, Broadsoft Directory Tab)
+{2217,255, "Ne obstajajo zapisi Broadsofta"}, (CLCD, Broadsoft Directory)
+{2218,32, "Shrani lokalno"}, (CLCD, Softkey Broadsoft Profile App)
+{2219,32, "Poteka posodobitev spletne strani, vrnitev nazaj na prazno stran"}, (LCD, Warning Message: System Update)
+{2220,255, "Imenik Broadsoft ni ustrezno nastavljen. Prosimo, preverite vaše nastavitve"}, (LCD, Warning Message: Broadsoft Directory configuration error)
+{2221,255, "Nastavitev je posodobljena Usmeritev nazaj na prazno stran"}, (LCD, Warning Message: configuraiton updated)
+{2222,255, "Preizkušanje zvočne zanke... pritisnite na izhod za vrnitev."}, ( LCD, audio loopback test display message )
+{2223,32, "Slepi Trnf"}, (Softkey in call transfer page)
+{2224,32, "Atr. Trnf"}, (Softkey in call transfer page)
+{2225,255, "Aktivni premor LCD-ja"}, (CLCD, Menu option appearance)
+{2226,32, "Vlop, če ni aktivnosti VPK"}, (CLCD, Menu option appearance)
+{2227,32, "Preostali čas:"},
+{2228,32, "Čas do ponovnega klica:"},
+{2229,32, "Ponovni klic za:"},
+{2230,32, "Prisotnost"}, (softkey, genesys)
+{2231,255, "Status prijave agenta"}, (LCD, genesys menu)
+{2232,255, "Prijava agenta"}, (LCD, genesys menu)
+{2233,255, "Odjava agenta"}, (LCD, genesys menu)
+{2234,32, "Način Vsi"}, (CLCD, Softkey VPK Menu All Mode)
+{2235,32, "Izklop in skrivanje menija na LCD-ju"}, (LCD, Bluetooth page)
+{2236,255, "Ali želite zagnati avtomatski ponovni klic?"},
+{2237,32, "VPK-ji"}, (CLCD, Softkey VPK Menu)
+{2238,32, "Pametni  Način VPK"}, (CLCD, Softkey VPK Menu Smart Mode)
+{2239,32, "Način Vsi VPK "}, (CLCD, Softkey VPK Menu All Mode)
+{2240,32, "Pametni Način"}, (CLCD, Softkey VPK Menu Smart Mode)
+{2241,255, "Glavni Meni je trenutno onemogočen"},
+{2242,32, "Dosežen Maks. iLBC/G723"},
+{2243,32, "Imenik"}, (Softkey)
+{2244,32, "Glasovna pošta"}, (Softkey)
+{2245,32, "Vrada za dostop do omrežja"}, (LCD, Status, System Information)
+{2246,32, "Tih"}, (Menu, ringtone)
+{2247,255, "Privzetih skupin ne morete spreminjati"}, (LCD, Phonebook, Group)
+{2248,32, "Preneseno iz "}, (Call Screen Info)
+{2249,32, "Cilj"}, (CLCD, Call Module, Softkey Target)
+{2250,32, "Ciljni Vir"}, (CLCD, Call Module, Target Source)
+{2251,32, "Pametni Cilj VPK"}, (CLCD, Call Module, Smart VPK Target)
+{2252,32, "Izberite Številko za Klic"}, (CLCD, Select Dial Number Window)
+{2253,32, "ujemanje"}, (CLCD, Input Search match database record)
+{2254,255, "Izberite Registriran Račun"}, (CLCD, Select Dial Account Window)
+{2255,255, "Napačno območje vrat RTP"}, (LCD, Callscren)
+{2256,32, "Zaklenjeni Način"}, (LCD, Constraint Mode)
+{2257,32, "Lokalna Zgodovina Klicev"}, (LCD, Call History Menu,Target Source Menu)
+{2258,32, "Storitev ni na Razpolago"}, (LCD, Service Update Error)
+{2259,32, "Onemogočena Vremenska Storitev"}, (LCD, Weather Need Enable)
+{2260,32, "Onemogočena Valutna Storitev"}, (LCD, Currency Need Enable)
+{2261,32, "Protokol LDAP"}, (LCD, LDAP configuration)
+{2262,32, "LDAP"}, (LCD, LDAP configuration)
+{2263,32, "LDAPS"}, (LCD, LDAP configuration)
+{2264,32, "Pregled Vhodnih Klicev"}, (LCD, LDAP configuration)
+{2265,32, "Pregled Izhodnih Klicev"}, (LCD, LDAP configuration)
+{2266,32, "Spremenjeno"}, (LCD, LDAP configuration)
+{2616,255, "GMT+02:00 (Cairo)"},
+{2617,255, "GMT+03:00 (Kuwait, Baghdad, Istanbul, Nairobi)"}
+{4030,2, "ne"}
+{4031,2, "po"}
+{4032,2, "to"}
+{4033,3, "sr"}
+{4034,2, "če"}
+{4035,2, "pe"}
+{4036,3, "so"}
+{4037,255, "%a%d. %m"}
+{4332,255, "GMT (Casablanca)"},
+{4461,255, "GMT-06:00 (Mexico City)"},

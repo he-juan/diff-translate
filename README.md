@@ -28,6 +28,9 @@ npm run dev
 npm run build
 ```
 
+## 关于上传的不同文件类型，请参考
+  > 路径`public/localization`
+
 ## 使用者访问路径：
 
 > dist -> index.html
