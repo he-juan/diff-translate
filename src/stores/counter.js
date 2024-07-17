@@ -75,7 +75,7 @@ export const useCounterStore = defineStore('counter', () => {
 },{
     persist: {
         key: 'loading',
-        storage: sessionStorage,
+        storage: localStorage,
         paths:['isLoading']
     }
 })
