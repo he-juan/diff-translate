@@ -3,11 +3,6 @@ import {defineAsyncComponent, onBeforeMount, onMounted, Suspense} from "vue";
 
 const TableShow = defineAsyncComponent(()=>import('@/components/content/TableShow.vue'))
 
-onBeforeMount(async ()=>{
-  console.warn("suspense 组件：")
-})
-
-
 </script>
 
 <template>

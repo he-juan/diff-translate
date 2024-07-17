@@ -42,9 +42,6 @@ export const useCounterStore = defineStore('counter', () => {
         let curLanguageType = Object.keys(currentOriginFileContent.content)
         curLanguageType = addEmptyValueBeforeLastElement (curLanguageType)
         currentLanguageType.value = currentLanguageType.value.concat(curLanguageType)
-        
-        console.warn ("currentOriginFileContent:", currentOriginFileContent.content)
-        console.warn ("currentDisplayContent:", currentDisplayContent)
     }
     
     // 获取更新内容

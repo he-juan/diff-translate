@@ -219,7 +219,6 @@ async function beginParsing(data, fileType) {
             console.warn("current content no parse")
             break
     }
-    console.warn("updateContent:",updateContent)
     return updateContent
 }
 
